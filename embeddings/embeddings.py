@@ -18,3 +18,13 @@ def load_embeddings_from_file(filename):
     # return faiss.read_index(filename)
     faiss_index = FAISS.load_local(filename, OpenAIEmbeddings(), allow_dangerous_deserialization=True)
     return faiss_index
+
+def generate_and_save_embeddings(chunks, embedding_file):
+    """
+    Generates embeddings from the chunks and saves them to a file.
+    """
+    print("Generating new embeddings...")
+    vector_db = save_embeddings_to_database(chunks)
+    save_embeddings_to_file(vector_db, embedding_file)
+    print(f"Embeddings saved to {embedding_file}.")
+    return vector_db

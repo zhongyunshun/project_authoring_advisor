@@ -2,27 +2,6 @@ import nltk
 from nltk.tokenize import sent_tokenize
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
-def split_text_into_chunks_langchain(text, chunk_size=200, chunk_overlap=50):
-    """
-    Split text into chunks using LangChain's RecursiveCharacterTextSplitter.
-
-    Args:
-        text (str): The text to split.
-        chunk_size (int): Maximum number of characters per chunk.
-        chunk_overlap (int): Number of overlapping characters between chunks.
-
-    Returns:
-        list: A list of text chunks.
-    """
-    text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=chunk_size,
-        chunk_overlap=chunk_overlap,
-        separators=["\n\n", "\n", " ", ""]
-    )
-    chunks = text_splitter.split_text(text)
-    return chunks
-
-
 # Ensure NLTK resources are downloaded
 nltk.download("punkt", quiet=True)
 
@@ -59,4 +38,28 @@ def split_text_into_chunks_nltk(text, chunk_size=200):
     if current_chunk:
         chunks.append(" ".join(current_chunk))
 
+    return chunks
+
+
+def read_and_split_text(input_file, chunk_size=200):
+    """
+    Reads a text file and splits it into chunks of the specified size.
+    """
+    with open(input_file, "r", encoding="utf-8") as infile:
+        combined_text = infile.read()
+    
+    chunks = split_text_into_chunks_nltk(combined_text, chunk_size=chunk_size)
+    return chunks
+
+
+def split_text_into_chunks_langchain(text, chunk_size=200, chunk_overlap=50):
+    """
+    This function is not in use. This is saved for future use.
+    """
+    text_splitter = RecursiveCharacterTextSplitter(
+        chunk_size=chunk_size,
+        chunk_overlap=chunk_overlap,
+        separators=["\n\n", "\n", " ", ""]
+    )
+    chunks = text_splitter.split_text(text)
     return chunks

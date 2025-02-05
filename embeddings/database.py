@@ -2,6 +2,10 @@ import pickle
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
 
+"""
+This file is not in use. This is saved for future use.
+"""
+
 def save_embeddings_to_database_pickel(chunks, save_path="./embeddings/vector_db.pkl"):
     """
     Generate embeddings using OpenAIEmbeddings and store them in a FAISS vector database.
