@@ -12,9 +12,9 @@ def rag_pipeline(question, vector_db, system_message=None, top_k=5):
     retrieval_qa_chain = RetrievalQA(retriever=retriever, combine_documents_chain=qa_chain)
     
     # Construct messages format with system prompt
-    messages = [
-        {"role": "system", "content": system_message},
-        {"role": "user", "content": question}
-    ]
+    # messages = [
+    #     {"role": "system", "content": system_message},
+    #     {"role": "user", "content": question}
+    # ]
     
-    return retrieval_qa_chain.run(messages)
+    return retrieval_qa_chain.run(query=question, context=system_message)
