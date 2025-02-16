@@ -1,20 +1,35 @@
-from langchain_community.llms import OpenAI
-from langchain.chains import RetrievalQA
-from langchain.chains.question_answering import load_qa_chain
-from langchain_openai import ChatOpenAI
+from langchain_core.runnables import RunnablePassthrough
+from langchain_core.output_parsers import StrOutputParser
+from langchain_core.prompts import ChatPromptTemplate
+from langchain.chat_models import ChatOpenAI
 
-def rag_pipeline(question, vector_db, system_message=None, top_k=5):
-    retriever = vector_db.as_retriever(search_type="similarity", search_kwargs={"k": top_k})
+def rag_pipeline(question, vector_db, system_message=None, top_k=5, search_type="similarity"):
+    # Initialize the retriever and llm
+    retriever = vector_db.as_retriever(search_type=search_type, search_kwargs={"k": top_k})
     llm = ChatOpenAI(model="gpt-4o-mini")
 
-    # Load a question-answering chain
-    qa_chain = load_qa_chain(llm, chain_type="stuff")
-    retrieval_qa_chain = RetrievalQA(retriever=retriever, combine_documents_chain=qa_chain)
-    
-    # Construct messages format with system prompt
-    # messages = [
-    #     {"role": "system", "content": system_message},
-    #     {"role": "user", "content": question}
-    # ]
-    
-    return retrieval_qa_chain.run(query=question, context=system_message)
+    # Define system prompt
+    prompt = ChatPromptTemplate.from_messages(
+        [
+            (
+                "system",
+                system_message or "You are a helpful assistant. Answer all questions to the best of your ability.",
+            ),
+            ("human", "Context: {context}\nQuestion: {question}"),
+        ]
+    )
+
+    # Define the RAG chain
+    def format_docs(docs):
+        return "\n\n".join(doc.page_content for doc in docs)
+
+    rag_chain = (
+        {"context": retriever | format_docs, "question": RunnablePassthrough()}
+        | prompt
+        | llm
+        | StrOutputParser()
+    )
+
+    # Invoke the chain and return
+    result = rag_chain.invoke(question)
+    return result

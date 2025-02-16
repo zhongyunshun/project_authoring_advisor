@@ -4,12 +4,13 @@ from rouge_score import rouge_scorer
 def calculate_rouge(csv_file):
     """
     Calculates the ROUGE-1, ROUGE-2, and ROUGE-L scores between 
-    the 'answer' and 'generated_answer' columns in a CSV file.
+    reference answers and generated answers.
     
     - Converts text to lowercase for case insensitivity.
+    - Uses 'alternative_answer' as an additional reference if available.
     
     Args:
-        csv_file (str): Path to the CSV file containing 'answer' and 'generated_answer' columns.
+        csv_file (str): Path to the CSV file containing 'answer', 'generated_answer', and optionally 'alternative_answer'.
 
     Returns:
         dict: Average ROUGE scores (ROUGE-1, ROUGE-2, and ROUGE-L).
@@ -18,21 +19,33 @@ def calculate_rouge(csv_file):
 
     if "answer" not in df.columns or "generated_answer" not in df.columns:
         raise ValueError("CSV file must contain 'answer' and 'generated_answer' columns.")
-
+    
     scorer = rouge_scorer.RougeScorer(["rouge1", "rouge2", "rougeL"], use_stemmer=True)
 
     rouge1_scores = []
     rouge2_scores = []
     rougeL_scores = []
 
-    for ref, hyp in zip(df["answer"], df["generated_answer"]):
-        ref, hyp = ref.lower(), hyp.lower()  # Convert to lowercase
-        scores = scorer.score(ref, hyp)
-
-        rouge1_scores.append(scores["rouge1"].fmeasure)
-        rouge2_scores.append(scores["rouge2"].fmeasure)
-        rougeL_scores.append(scores["rougeL"].fmeasure)
-
+    for _, row in df.iterrows():
+        references = [row["answer"].lower()]
+        
+        if "alternative_answer" in df.columns and pd.notna(row["alternative_answer"]):
+            references.append(row["alternative_answer"].lower())
+        
+        hyp = row["generated_answer"].lower()
+        
+        scores = [scorer.score(ref, hyp) for ref in references]
+        
+        best_scores = {
+            "rouge1": max(s["rouge1"].fmeasure for s in scores),
+            "rouge2": max(s["rouge2"].fmeasure for s in scores),
+            "rougeL": max(s["rougeL"].fmeasure for s in scores)
+        }
+        
+        rouge1_scores.append(best_scores["rouge1"])
+        rouge2_scores.append(best_scores["rouge2"])
+        rougeL_scores.append(best_scores["rougeL"])
+    
     avg_rouge1 = sum(rouge1_scores) / len(rouge1_scores) if rouge1_scores else 0
     avg_rouge2 = sum(rouge2_scores) / len(rouge2_scores) if rouge2_scores else 0
     avg_rougeL = sum(rougeL_scores) / len(rougeL_scores) if rougeL_scores else 0
@@ -46,6 +59,6 @@ def calculate_rouge(csv_file):
     return avg_scores
 
 if __name__ == "__main__":
-    csv_file = "QA_pair/qa_pair_170_0204/TRCA_All_Files_Combined_output.csv"
+    csv_file = "QA_pair/qa_pair_200_0210/output/TRCA_All_Files_Combined_with_alternative_answers_output.csv"
     rouge_scores = calculate_rouge(csv_file)
     print(rouge_scores)
