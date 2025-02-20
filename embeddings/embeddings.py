@@ -1,6 +1,6 @@
 from langchain_community.embeddings import OpenAIEmbeddings
+from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
-import faiss
 
 def save_embeddings_to_database(chunks):
     embeddings_model = OpenAIEmbeddings()

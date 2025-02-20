@@ -1,7 +1,7 @@
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
-from langchain.chat_models import ChatOpenAI
+from langchain_openai import ChatOpenAI
 
 def rag_pipeline(question, vector_db, system_message=None, top_k=5, search_type="similarity"):
     # Initialize the retriever and llm

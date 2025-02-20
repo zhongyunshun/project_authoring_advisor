@@ -41,7 +41,9 @@ def main():
     parser.add_argument("--chunk_length", type=int, default=200, help="Chunk length for text splitting")
     parser.add_argument("--top_k", type=int, default=5, help="Top k chunks to retrieve")
     parser.add_argument("--search_type", type=str, default="similarity", choices=["similarity", "mmr", "similarity_score_threshold"], help="Similarity measuring method")
-    parser.add_argument("--input_csv_file", type=str, default="QA_pair/qa_pair_200_0210/sample/TRCA_All_Files_Combined_with_alternative_answers_100.csv", help="Input csv file")
+    parser.add_argument("--input_csv_file", type=str, default="QA_pair/qa_pair_200_0210/sample/TRCA_All_Files_Combined_with_alternative_answers.csv", help="Input csv file")
+    parser.add_argument("--output_csv_path", type=str, default="QA_pair/qa_pair_200_0210/output_200", help="Output csv path")
+
     args = parser.parse_args()
 
     embedding_file = f"vector_db/openai_chunk_{args.chunk_length}_embedding"
@@ -59,7 +61,7 @@ def main():
         vector_db = generate_and_save_embeddings(chunks, embedding_file)
 
     # Step 4: Test the RAG pipeline
-    system_message = "Here is a fill in blank question, please generate the answer, only output the answer without giving the original sentence: "
+    system_message = "Please generate the correct answer for the given fill-in-the-blank question. Avoid including unnecessary context, restating the question, or adding explanations—only return the precise answer."
     
     # # Single question pipeline
     # test_question = "In 2017 Bercy Wycliffe Workplan, Based on the Infrastructure Hazard Monitoring Program, which site is the highest priority for remedial action in the Region?"  # Example question
@@ -67,7 +69,7 @@ def main():
     
     # Output csv from a qa.csv
     input_csv_file = args.input_csv_file
-    output_csv_file = f"QA_pair/qa_pair_200_0210/output/output_chunk{args.chunk_length}_top{args.top_k}_{args.search_type}.csv"
+    output_csv_file = os.path.join(args.output_csv_path, f"output_chunk{args.chunk_length}_top{args.top_k}_{args.search_type}.csv")
     process_questions(input_csv_file, vector_db, system_message, output_csv_file, args.top_k, args.search_type)
 
 
