@@ -2,34 +2,119 @@ from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
+from langchain.memory import ConversationBufferMemory
+from langchain.schema import HumanMessage, AIMessage
 
-def rag_pipeline(question, vector_db, system_message=None, top_k=5, search_type="similarity"):
-    # Initialize the retriever and llm
-    retriever = vector_db.as_retriever(search_type=search_type, search_kwargs={"k": top_k})
-    llm = ChatOpenAI(model="gpt-4o-mini")
+class ConversationalRAG:
+    def __init__(self, vector_db, system_message=None, top_k=5, search_type="similarity"):
+        """
+        Initializes the Conversational RAG model with memory storage.
+        """
+        self.vector_db = vector_db
+        self.system_message = system_message or "You are a helpful assistant with memory. Answer questions accordingly."
+        self.top_k = top_k
+        self.search_type = search_type
+        self.llm = ChatOpenAI(model="gpt-4o-mini")
 
-    # Define system prompt
-    prompt = ChatPromptTemplate.from_messages(
-        [
-            (
-                "system",
-                system_message or "You are a helpful assistant. Answer all questions to the best of your ability.",
-            ),
-            ("human", "Context: {context}\nQuestion: {question}"),
-        ]
-    )
+        # Initialize retriever
+        self.retriever = self.vector_db.as_retriever(search_type=self.search_type, search_kwargs={"k": self.top_k})
 
-    # Define the RAG chain
-    def format_docs(docs):
+        # Memory Storage
+        self.memory = ConversationBufferMemory(return_messages=True)
+
+        # Define Prompt with Memory
+        self.prompt = ChatPromptTemplate.from_messages([
+            ("system", self.system_message),
+            ("human", "Context: {context}\n\nChat History: {chat_history}\n\nQuestion: {question}"),
+        ])
+
+    def format_docs(self, docs):
+        """Formats retrieved documents into a readable context."""
         return "\n\n".join(doc.page_content for doc in docs)
 
-    rag_chain = (
-        {"context": retriever | format_docs, "question": RunnablePassthrough()}
-        | prompt
-        | llm
-        | StrOutputParser()
-    )
+    def invoke(self, question):
+        """
+        Processes a question through the RAG pipeline, leveraging memory for context.
+        """
+        # Retrieve relevant documents
+        context = self.retriever.invoke(question)
+        formatted_context = self.format_docs(context)
 
-    # Invoke the chain and return
-    result = rag_chain.invoke(question)
-    return result
+        # Fetch past chat history from memory
+        chat_history_objects = self.memory.load_memory_variables({}).get("history", [])
+
+        # Convert chat history to a readable string format
+        chat_history = "\n".join([
+            f"{'User' if isinstance(msg, HumanMessage) else 'Assistant'}: {msg.content}"
+            for msg in chat_history_objects
+        ])
+
+        # Create RAG pipeline with correct formatting
+        rag_chain = (
+            {
+                "context": RunnablePassthrough() | (lambda x: formatted_context),
+                "chat_history": RunnablePassthrough() | (lambda x: chat_history),
+                "question": RunnablePassthrough()
+            }
+            | self.prompt
+            | self.llm
+            | StrOutputParser()
+        )
+
+        # Get response
+        response = rag_chain.invoke(question)
+
+        # Store conversation in memory
+        self.memory.save_context(
+            inputs={"question": question},
+            outputs={"response": response}
+        )
+
+        return response
+
+
+class StatelessRAG:
+    def __init__(self, vector_db, system_message=None, top_k=5, search_type="similarity"):
+        """
+        Stateless RAG (No Memory)
+        """
+        self.vector_db = vector_db
+        self.system_message = system_message or "You are a helpful assistant."
+        self.top_k = top_k
+        self.search_type = search_type
+        self.llm = ChatOpenAI(model="gpt-4o-mini")
+
+        # Initialize retriever
+        self.retriever = self.vector_db.as_retriever(search_type=self.search_type, search_kwargs={"k": self.top_k})
+
+        # Define Prompt
+        self.prompt = ChatPromptTemplate.from_messages([
+            ("system", self.system_message),
+            ("human", "Context: {context}\n\nQuestion: {question}"),
+        ])
+
+    def format_docs(self, docs):
+        """Formats retrieved documents into a readable context."""
+        return "\n\n".join(doc.page_content for doc in docs)
+
+    def invoke(self, question):
+        """
+        Processes a question through the RAG pipeline (No Memory).
+        """
+        # Retrieve relevant documents
+        context = self.retriever.invoke(question)
+        formatted_context = self.format_docs(context)
+
+        # Create RAG pipeline
+        rag_chain = (
+            {
+                "context": RunnablePassthrough() | (lambda x: formatted_context),
+                "question": RunnablePassthrough()
+            }
+            | self.prompt
+            | self.llm
+            | StrOutputParser()
+        )
+
+        # Get response
+        return rag_chain.invoke(question)
