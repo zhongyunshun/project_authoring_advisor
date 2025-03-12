@@ -69,8 +69,8 @@ def ConversationalRAGChat(rag_model):
 def main():
     # 22, 700, similarity
     parser = argparse.ArgumentParser()
-    parser.add_argument("--chunk_length", type=int, default=200, help="Chunk length for text splitting")
-    parser.add_argument("--top_k", type=int, default=5, help="Top k chunks to retrieve")
+    parser.add_argument("--chunk_length", type=int, default=700, help="Chunk length for text splitting")
+    parser.add_argument("--top_k", type=int, default=22, help="Top k chunks to retrieve")
     parser.add_argument("--search_type", type=str, default="similarity", choices=["similarity", "mmr", "similarity_score_threshold"], help="Similarity measuring method")
     parser.add_argument("--input_csv_file", type=str, default="QA_pair/qa_pair_200_0210/sample/TRCA_All_Files_Combined_with_alternative_answers.csv", help="Input csv file")
     parser.add_argument("--output_csv_path", type=str, default="QA_pair/qa_pair_200_0210/output_200", help="Output csv path")
