@@ -104,7 +104,7 @@ class StatelessRAG:
 
     def format_docs_to_list(self, docs):
         """Formats retrieved documents into a list of lists."""
-        return [[doc.page_content] for doc in docs]
+        return [doc.page_content for doc in docs]
 
     def invoke(self, question):
         """

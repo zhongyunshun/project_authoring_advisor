@@ -56,9 +56,7 @@ def evaluate_ragas(csv_file):
         def process_contexts(context):
             if isinstance(context, str):
                 context = ast.literal_eval(context)  # Convert stringified list to Python list
-            if isinstance(context, list):
-                return [str(item) for item in context]  # Ensure all items are strings
-            return [str(context)]
+            return context
 
         df["retrieved_contexts"] = df["retrieved_contexts"].apply(process_contexts)
 
