@@ -16,7 +16,7 @@ def answer_question(question, rag_model):
     """
     Answer a single question using the Conversational RAG Pipeline.
     """
-    answer = rag_model.invoke(question)
+    answer, _ = rag_model.invoke(question)
     print(f"💡 **Answer**: {answer}\n")
 
 
@@ -31,7 +31,20 @@ def process_questions(csv_file, rag_model, output_csv_file):
         raise ValueError("CSV file must contain a 'question' column.")
 
     tqdm_iterator = tqdm(df["question"], desc="Processing Questions")
-    df["generated_answer"] = [rag_model.invoke(q) for q in tqdm_iterator]
+
+    # Initialize empty lists to store the results
+    generated_answers = []
+    retrieved_contexts = []
+
+    # Iterate over the questions and invoke the RAG model
+    for q in tqdm_iterator:
+        generated_answer, retrieved_context = rag_model.invoke(q)
+        generated_answers.append(generated_answer)
+        retrieved_contexts.append(retrieved_context)
+
+    # Assign the results to the DataFrame columns
+    df["generated_answer"] = generated_answers
+    df["retrieved_contexts"] = retrieved_contexts
 
     df.to_csv(output_csv_file, index=False)
     print(f"\n✅ Processed questions saved to: {output_csv_file}.")
@@ -54,7 +67,7 @@ def ConversationalRAGChat(rag_model):
 
 
 def main():
-    # 20, 700, similarity
+    # 22, 700, similarity
     parser = argparse.ArgumentParser()
     parser.add_argument("--chunk_length", type=int, default=200, help="Chunk length for text splitting")
     parser.add_argument("--top_k", type=int, default=5, help="Top k chunks to retrieve")

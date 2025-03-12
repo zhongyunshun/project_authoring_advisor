@@ -1,6 +1,6 @@
 # Tune top_k while keeping chunk_length and search_type constant
 $chunk_length = 700
-$top_ks = 12,14,16,18
+$top_ks = 20,22,24
 $search_type = "similarity"
 
 foreach ($top_k in $top_ks) {

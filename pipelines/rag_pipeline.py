@@ -31,6 +31,10 @@ class ConversationalRAG:
     def format_docs(self, docs):
         """Formats retrieved documents into a readable context."""
         return "\n\n".join(doc.page_content for doc in docs)
+    
+    def format_docs_to_list(self, docs):
+        """Formats retrieved documents into a list of lists."""
+        return [[doc.page_content] for doc in docs]
 
     def invoke(self, question):
         """
@@ -39,6 +43,7 @@ class ConversationalRAG:
         # Retrieve relevant documents
         context = self.retriever.invoke(question)
         formatted_context = self.format_docs(context)
+        context_list = self.format_docs_to_list(context)
 
         # Fetch past chat history from memory
         chat_history_objects = self.memory.load_memory_variables({}).get("history", [])
@@ -70,7 +75,7 @@ class ConversationalRAG:
             outputs={"response": response}
         )
 
-        return response
+        return response, context_list
 
 
 class StatelessRAG:
@@ -97,6 +102,10 @@ class StatelessRAG:
         """Formats retrieved documents into a readable context."""
         return "\n\n".join(doc.page_content for doc in docs)
 
+    def format_docs_to_list(self, docs):
+        """Formats retrieved documents into a list of lists."""
+        return [[doc.page_content] for doc in docs]
+
     def invoke(self, question):
         """
         Processes a question through the RAG pipeline (No Memory).
@@ -104,6 +113,7 @@ class StatelessRAG:
         # Retrieve relevant documents
         context = self.retriever.invoke(question)
         formatted_context = self.format_docs(context)
+        context_list = self.format_docs_to_list(context)
 
         # Create RAG pipeline
         rag_chain = (
@@ -117,4 +127,4 @@ class StatelessRAG:
         )
 
         # Get response
-        return rag_chain.invoke(question)
+        return rag_chain.invoke(question), context_list
