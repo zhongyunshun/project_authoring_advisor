@@ -73,6 +73,33 @@ To start this mode, use the following command:
 python main.py --mode chat
 ```
 
+## Streamlit Integration
+
+The project includes a **Streamlit-based web interface** for interacting with the chatbot.
+
+### Directory Structure
+
+- **`streamlit_app.py`**: The main Streamlit application.
+- **`pages/`**: Contains subpages for additional Streamlit functionalities.
+- **`streamlit_class/conversations.py`**: Defines the `Conversation` class for managing chat sessions.
+
+### Running the Streamlit App
+
+```bash
+streamlit run streamlit_app.py
+```
+
+This will launch the chatbot in your web browser.
+
+### Features
+
+- **Session-based chat storage** with editable chat titles.
+- **New Conversation button** to reset the chat history.
+- **Sidebar for entering OpenAI API keys** dynamically.
+- **Document-aware responses** using the RAG pipeline.
+- **Multi-page support** with subpages in the `pages/` folder.
+
+
 ### Evaluation
 
 To evaluate generated answers from RAG pipeline, we have two evaluation methods:
