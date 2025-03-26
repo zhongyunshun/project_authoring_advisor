@@ -4,6 +4,9 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
 from langchain.memory import ConversationBufferMemory
 from langchain.schema import HumanMessage, AIMessage
+from langchain_community.embeddings import OpenAIEmbeddings
+from langchain_openai import OpenAIEmbeddings
+from langchain_community.vectorstores import FAISS
 
 class ConversationalRAG:
     def __init__(self, vector_db, system_message=None, top_k=5, search_type="similarity"):
@@ -15,6 +18,13 @@ class ConversationalRAG:
         self.top_k = top_k
         self.search_type = search_type
         self.llm = ChatOpenAI(model="gpt-4o-mini")
+
+        # Initialize an empty FAISS vector database if none is provided
+        if vector_db is None:
+            embedding_model = OpenAIEmbeddings()
+            self.vector_db = FAISS.from_texts([""], embedding_model)
+        else:
+            self.vector_db = vector_db
 
         # Initialize retriever
         self.retriever = self.vector_db.as_retriever(search_type=self.search_type, search_kwargs={"k": self.top_k})
@@ -88,6 +98,13 @@ class StatelessRAG:
         self.top_k = top_k
         self.search_type = search_type
         self.llm = ChatOpenAI(model="gpt-4o-mini")
+
+        # Initialize an empty FAISS vector database if none is provided
+        if vector_db is None:
+            embedding_model = OpenAIEmbeddings()
+            self.vector_db = FAISS.from_texts([""], embedding_model)
+        else:
+            self.vector_db = vector_db
 
         # Initialize retriever
         self.retriever = self.vector_db.as_retriever(search_type=self.search_type, search_kwargs={"k": self.top_k})

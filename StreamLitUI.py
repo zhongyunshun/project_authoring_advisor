@@ -20,19 +20,22 @@ if "openai_api_key" in st.session_state and st.session_state.openai_api_key:
     os.environ["OPENAI_API_KEY"] = st.session_state.openai_api_key
 
 # Embedding and RAG Model Setup
-embedding_file = "vector_db/openai_chunk_700_embedding"  # can change the chunk size if needed
+# embedding_file = "vector_db/openai_chunk_700_embedding"  # can change the chunk size if needed
 
-# Setup Model and Embedding instead of repeatedly loading
-# Load only if API key is given
-if "vector_db" not in st.session_state and "openai_api_key" in st.session_state and st.session_state.openai_api_key:
-    if os.path.exists(embedding_file):
-        print(f"📂 Loading existing embeddings from {embedding_file}...\n")
-        vector_db = load_embeddings_from_file(embedding_file)
-        st.session_state.vector_db = vector_db
-        print("✅ Embeddings loaded from file.\n")
-    else:
-        st.error("Embedding file not found. Exiting Streamlit.")
-        st.stop()
+# # Setup Model and Embedding instead of repeatedly loading
+# # Load only if API key is given
+# if "vector_db" not in st.session_state and "openai_api_key" in st.session_state and st.session_state.openai_api_key:
+#     if os.path.exists(embedding_file):
+#         print(f"📂 Loading existing embeddings from {embedding_file}...\n")
+#         vector_db = load_embeddings_from_file(embedding_file)
+#         st.session_state.vector_db = vector_db
+#         print("✅ Embeddings loaded from file.\n")
+#     else:
+#         st.error("Embedding file not found. Exiting Streamlit.")
+#         st.stop()
+
+if "vector_db" not in st.session_state:
+    st.session_state.vector_db = None
 
 if "rag_model" not in st.session_state and "openai_api_key" in st.session_state and st.session_state.openai_api_key:
     print(f"🤖 Loading ConversationalRAG Model...\n")
