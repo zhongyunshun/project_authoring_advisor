@@ -6,19 +6,25 @@ from streamlit_class.conversations import Conversation
 
 # Sidebar for OpenAI API Key
 with st.sidebar:
-    openai_api_key = st.text_input("OpenAI API Key", key="chatbot_api_key", type="password")
+    # Check if API key is already in session state
+    if "openai_api_key" not in st.session_state or not st.session_state.openai_api_key:
+        st.session_state.openai_api_key = st.text_input("OpenAI API Key", key="chatbot_api_key", type="password")
+    else:
+        # If the API key is already in session, use the saved value
+        st.text_input("OpenAI API Key", value=st.session_state.openai_api_key, type="password", key="chatbot_api_key")
+    
     st.markdown("[Get an OpenAI API key](https://platform.openai.com/account/api-keys)")
 
-# Set OpenAI API Key
-if openai_api_key:
-    os.environ["OPENAI_API_KEY"] = openai_api_key
+# Set OpenAI API Key in environment if available
+if "openai_api_key" in st.session_state and st.session_state.openai_api_key:
+    os.environ["OPENAI_API_KEY"] = st.session_state.openai_api_key
 
 # Embedding and RAG Model Setup
 embedding_file = "vector_db/openai_chunk_700_embedding"  # can change the chunk size if needed
 
-# Setup Model and Embedding instead of repeatively loading
-# Load only if api key is given
-if "vector_db" not in st.session_state and openai_api_key:
+# Setup Model and Embedding instead of repeatedly loading
+# Load only if API key is given
+if "vector_db" not in st.session_state and "openai_api_key" in st.session_state and st.session_state.openai_api_key:
     if os.path.exists(embedding_file):
         print(f"📂 Loading existing embeddings from {embedding_file}...\n")
         vector_db = load_embeddings_from_file(embedding_file)
@@ -28,7 +34,7 @@ if "vector_db" not in st.session_state and openai_api_key:
         st.error("Embedding file not found. Exiting Streamlit.")
         st.stop()
 
-if "rag_model" not in st.session_state and openai_api_key:
+if "rag_model" not in st.session_state and "openai_api_key" in st.session_state and st.session_state.openai_api_key:
     print(f"🤖 Loading ConversationalRAG Model...\n")
     system_message_chat = "You are a helpful assistant with memory. Answer questions accordingly."
     rag_model = ConversationalRAG(
@@ -89,7 +95,7 @@ for msg in st.session_state.current_conversation.chat_history:
     st.chat_message(msg["role"]).write(msg["content"])
 
 if prompt := st.chat_input():
-    if not openai_api_key:
+    if "openai_api_key" not in st.session_state or not st.session_state.openai_api_key:
         st.info("Please add your OpenAI API key to continue.")
         st.stop()
 
