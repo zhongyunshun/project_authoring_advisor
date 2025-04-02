@@ -22,6 +22,7 @@ class ConversationalRAG:
         # Initialize an empty FAISS vector database if none is provided
         if vector_db is None:
             embedding_model = OpenAIEmbeddings()
+            # Init to empty string because it expects list of strings, but an empty list would cause error. So init it as a list with a empty string
             self.vector_db = FAISS.from_texts([""], embedding_model)
         else:
             self.vector_db = vector_db

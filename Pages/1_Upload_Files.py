@@ -23,10 +23,10 @@ if "uploaded_files" not in st.session_state:
     st.session_state.uploaded_files = []
 
 if "vector_db" not in st.session_state:
-    st.session_state.vector_db = []
+    st.session_state.vector_db = None
 
 def upload_files_form():
-    uploaded_files = st.file_uploader("Choose files", type=["txt", "pdf"], accept_multiple_files=True)
+    uploaded_files = st.file_uploader("Choose files", type=["pdf"], accept_multiple_files=True)
 
     if uploaded_files:
         for uploaded_file in uploaded_files:
