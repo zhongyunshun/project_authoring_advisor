@@ -14,16 +14,20 @@ The project consists of the following directories:
 - **`data/`**: Contains the TRCA document PDFs for processing.
 - **`embeddings/`**: Modules for generating and loading document embeddings.
 - **`pipelines/`**: Modules for pipeline implementations.
-- **`preprocessing/`**: Utilities for preprocessing documents.
+- **`preprocessing/`**: Helper functions for preprocessing documents.
 - **`pipeline_preprocess_file_exec/`**: PDF processing execution scripts.
 - **`QA_pair/`**: All returning responses (question-answer from RAG pipeline) saved as csv.
 - **`tuning_scripts/`**: Scripts for tuning model parameters (top_k, chunk_size, search_type).
 - **`vector_db/`**: Contains the vector database for storing document embeddings.
 - **`evaluation/`**: Includes evaluation scripts for assessing the RAG response performance.
-- **`utils/`**: Helper functions used across the project.
+- **`utils/`**: Useful executable scripts used to handle processings.
 - **`output/`**: Stores the processed txt from pdf documents.
+- **`Pages/`**: Streamlit subpages.
+- **`streamlit_class/`**: Streamlit helper class and functions.
 
 For more information regarding the modules and helper functions, please view the file `docs/Module_Documentation.md`.
+
+For more information regarding streamlit integration, check out [Streamlit Integration Section](#streamlit-integration).
 
 ---
 
@@ -73,20 +77,22 @@ To start this mode, use the following command:
 python main.py --mode chat
 ```
 
+---
+
 ## Streamlit Integration
 
 The project includes a **Streamlit-based web interface** for interacting with the chatbot.
 
 ### Directory Structure
 
-- **`streamlit_app.py`**: The main Streamlit application.
-- **`pages/`**: Contains subpages for additional Streamlit functionalities.
+- **`StreamLitUI.py`**: The main Streamlit application.
+- **`Pages/`**: Contains subpages for additional Streamlit functionalities.
 - **`streamlit_class/conversations.py`**: Defines the `Conversation` class for managing chat sessions.
 
 ### Running the Streamlit App
 
 ```bash
-streamlit run streamlit_app.py
+streamlit run StreamLitUI.py
 ```
 
 This will launch the chatbot in your web browser.
@@ -94,13 +100,14 @@ This will launch the chatbot in your web browser.
 ### Features
 
 - **Session-based chat storage** with editable chat titles.
-- **New Conversation button** to reset the chat history.
+- **New Conversation button** to start a new conversation session.
 - **Sidebar for entering OpenAI API keys** dynamically.
 - **Document-aware responses** using the RAG pipeline.
 - **Multi-page support** with subpages in the `pages/` folder.
 
+---
 
-### Evaluation
+## Evaluation
 
 To evaluate generated answers from RAG pipeline, we have two evaluation methods:
 

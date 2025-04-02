@@ -45,6 +45,7 @@ if "rag_model" not in st.session_state and "openai_api_key" in st.session_state 
     )
     st.session_state.rag_model = rag_model
 
+# init variables in session state
 if "title" not in st.session_state:
     st.session_state.title = "TRCA ChatBot"
 

@@ -1,3 +1,9 @@
+"""
+This script is using re to filter and clean the txt content in a txt file.
+It keeps all the normal expressions and filter out non utf8 characters.
+It writes the filtered content into another txt file.
+"""
+
 import re
 
 input_file = "output/combined_text.txt"  # Replace with your input file path

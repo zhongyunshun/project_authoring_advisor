@@ -1,3 +1,8 @@
+"""
+Subpage 1 for Streamlit UI
+Upload files and process files into embeddings
+"""
+
 import streamlit as st
 import os
 from pipeline_preprocess_file_exec.pdf_processing import generate_embeddings_from_single_pdf

@@ -172,7 +172,7 @@
      ```
 
 ## `save_text_to_file(text, output_file_path)`
-   - **Module**: `utils/save_file.py`
+   - **Module**: `preprocessing/save_file.py`
    - **Purpose**: Saves text to a file.
    - **Parameters**:
      - `text` (str): The text to be saved.

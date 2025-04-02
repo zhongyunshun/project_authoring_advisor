@@ -1,5 +1,9 @@
+"""
+This script is used for converting all pdf files in a directory into a txt file without filtering or formating the content.
+"""
+
 from preprocessing.pdf_processing import pdfs_to_text
-from utils.save_file import save_text_to_file
+from preprocessing.save_file import save_text_to_file
 
 # Step 1: Extract text from all PDFs in the directory
 pdf_directory = "data/ALL_PDFS"
