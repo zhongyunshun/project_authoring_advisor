@@ -118,7 +118,7 @@ python evaluation/folder_eval.py
 
 ```bash
 # This is to evaluate RAGAS score based on faithfulness, answer_relevancy, context_precision, context_recall.
-python -m evaluation/folder_eval_ragas
+python -m evaluation.folder_eval_ragas
 ```
 
 ---
