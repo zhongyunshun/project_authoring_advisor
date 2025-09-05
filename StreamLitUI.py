@@ -54,7 +54,7 @@ if "conversations" not in st.session_state:
 
 if len(st.session_state.conversations) == 0:
     # Initialize with the first conversation as default
-    initial_chat_history = [{"role": "assistant", "content": "This is a ChatBot designed for TRCA. How can I help you?"}]
+    initial_chat_history = [{"role": "assistant", "content": "Hello! I am a AI domain-specific project authoring advisor designed for TRCA. How can I help you?"}]
     st.session_state.conversations.append(Conversation(1, "Conversation 1", initial_chat_history))
 
 # Initialize chat history if not exists in session_state
@@ -76,7 +76,7 @@ with st.sidebar:
     if st.button("New Conversation"):
         new_session_id = len(st.session_state.conversations) + 1
         new_conversation = Conversation(new_session_id, f"Conversation {new_session_id}", [
-            {"role": "assistant", "content": "This is a ChatBot designed for TRCA. How can I help you?"}
+            {"role": "assistant", "content": "Hello! I am a AI domain-specific project authoring advisor designed for TRCA. How can I help you?"}
         ])
         st.session_state.conversations.append(new_conversation)
         st.session_state.current_conversation = new_conversation

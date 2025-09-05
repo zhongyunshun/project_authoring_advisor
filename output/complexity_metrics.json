@@ -1,0 +1,22 @@
+{
+  "corpus_source": "C:\\Users\\zhong\\Documents\\Python Projects\\TRCA-LLM\\output\\cleaned_17.txt",
+  "num_sentences": 4325,
+  "sentence_length_mean_tokens": 21.685,
+  "sentence_length_p90_tokens": 39.0,
+  "clause_density_mean_clauses_per_sentence": 2.362,
+  "parse_depth_mean": 1.804,
+  "parse_depth_max": 77.0,
+  "semantic_coherence_mean_adjacent_cosine": 0.1052,
+  "semantic_coherence_p05_adjacent_cosine": 0.0,
+  "semantic_coherence_p95_adjacent_cosine": 0.3585,
+  "lexical_avg_idf": 4.7379,
+  "lexical_pct_low_freq_top20idf": 2.01,
+  "lexical_hapax_rate_pct": 2.11,
+  "vector_db_found": true,
+  "vector_db_type": "faiss",
+  "vector_db_path": "vector_db/openai_chunk_100_embedding/index.faiss",
+  "vector_db_count": 566,
+  "vector_db_note": "",
+  "spaCy_used": false,
+  "fallback_heuristics_used": true
+}
