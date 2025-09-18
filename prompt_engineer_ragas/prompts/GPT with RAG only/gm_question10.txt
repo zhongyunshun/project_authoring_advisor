@@ -1,0 +1,277 @@
+
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "
+--- Document 1 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    21 
+ 
+North America, butternuts are classified as an  endangered species and are protected under Ontario’s 
+Endangered Species Act. The results of a genetic test of dormant bud tissue determined that the butternut 
+within the construction access route is genetically pure and therefore highly susceptible to but ternut 
+canker....
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 27
+
+--- Document 2 ---
+Content:
+Peacham Crescent Slope Stabilization Project – Project Brief 
+Toronto and Region Conservation Authority    |    8 
+For more information, please refer to TRCA’s 2018-12-05 Biological Inventory Memo. 
+3.5.2 Butternut 
+A Category 2 butternut has been identified within the project area and is generally located along the proposed 
+access route. 
+A Category 2 tree is one that is not affected by Butternut Canker or is affected but not to an advanced degree...
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 11
+
+--- Document 3 ---
+Content:
+For additional information pertaining to the tree inventory and proposed removals/injuries, please refer to 
+TRCA’s Arborist Report and Tree Preservation Plan for Peacham Crescent Slope Stabilization Project. 
+ Species at Risk 
+A terrestrial biological survey of the natural area within and surrounding the Project area was undertaken by 
+TRCA’s Environmental Monitoring and Data Management (EMDM) in 2018 to inventory existing flora, fauna, and...
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 10
+
+--- Document 4 ---
+Content:
+Peacham Crescent Slope Stabilization Project – Project Brief 
+Toronto and Region Conservation Authority    |    ii 
+ Required Tree Removals................................................................................................................................. 11 
+ Hazardous Plants Screening ........................................................................................................................... 11...
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 3
+
+--- Document 5 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    20 
+ 
+existing natural habitat within the Project limits. However, in effort to minimize impacts, all construction 
+activities are planned to have the smallest construction footprint as possible and occur outside of key 
+migration and breeding windows when habitat use is not as crucial. A comprehensive restoration plan will...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 26
+
+--- Document 6 ---
+Content:
+suitable native species . The planted vegetation will provide increased soil stabilization, reduce surficial 
+erosion, and add to the biodiversity of the local ecosystem once it becomes established. Unfortunately, it 
+will be necessary for the regraded slope to blend into the rear yards of 21, 23, and 25 Peacham Crescent, 
+effectively pushing the slope crest back towards the dwellings and reducing the amount of useable...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 40
+
+--- Document 7 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    22 
+ 
+Wildlife Populations 
+There are no significant wildlife populations identified within the Project limits; therefore, there are no 
+anticipated impacts resulting from the proposed works. 
+Wetlands 
+There were two wetland vegetation communities observed along the southern limits of the Project area,...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 28
+
+--- Document 8 ---
+Content:
+heavy machinery within the Project limits, the impacts resulting from the propos ed works on the  
+aforementioned species of concern will be minimal; t ree or shrub removals will be planned and highly 
+selective. Additionally, post -construction r estoration activities will focus on replanting suitable native 
+species to compensate for those that were removed and enhance the overall biodiversity of the Project...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 27
+
+--- Document 9 ---
+Content:
+Buckthorn are recognized (e.g. wildlife habitat, water quality, carbon sequestration), an ecological gain from the perspective of improving native species representation is expected once restoration plantings of native species are established. Tree removal numbers should be determined during detailed design to include construction-related disturbances and plan any refinements.   At this Conceptual Design phase, approximate percentages of tree removal by species has been calculated based on the...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 226
+
+--- Document 10 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    40 
+ 
+Screening Criteria 
+Rating of Potential Effects 
+-H -M -L NIL +L +M +H NA Comments 
+Biological                                                                                                                                   
+Wildlife Habitat          
+Habitat Linkages or Corridors          
+Significant Vegetation 
+Communities    ...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 46
+
+--- Document 11 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    38 
+ 
+less impact on existing vegetation and excess soil removal than  Alternative 2 and provides an opportunity to 
+address drainage and stormwater runoff concerns within the Project limits. 
+This selected alternative meets all three (3) of the Project objectives: 
+Objective 1 – Risk mitigation...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 44
+
+--- Document 12 ---
+Content:
+Peacham Crescent Slope Stabilization Project – Project Brief 
+Toronto and Region Conservation Authority    |    11 
+ 
+Figure 8: Proposed temporary construction access and work area (denoted in yellow). Source: TRCA, 2021 
+ 
+ Required Tree Removals 
+To facilitate construction access and undertake stabilization works, Terraprobe identified 180 trees will need to 
+be removed; another 38 trees are expected to be injured....
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 14
+
+--- Document 13 ---
+Content:
+Peacham Crescent and will result in only minimal impacts to bird habitat through the removal of select 
+canopy trees. Additionally, construction activities will only occur outside of the bird breeding window. As 
+such, these proposed works should not impact breeding bird activities. 
+Exotic/Alien and Invasive Species 
+The 2018 ecology survey identified 16 exotic plant species within its expanded Study Area, accounting for...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 27
+
+--- Document 14 ---
+Content:
+Peacham Crescent Slope Stabilization Project – Project Brief 
+Toronto and Region Conservation Authority    |    13 
+12 CONSTRUCTION TIMING 
+Works are tentatively scheduled to commence in October 2021 pending the receipt of all necessary permits and 
+approvals. Tree removals will only occur outside the nesting window between October 4th and October 22nd to 
+avoid nesting birds (as per the Migratory Birds Convention Act). Weather forecasts and water levels will be...
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 16
+
+--- Document 15 ---
+Content:
+37% of the plant biodiversity within this geographic range. Two exotic vegetation communities were 
+identified within the Project area but are limited to the lower reaches of the Project limits and do not exist 
+on the slope behind Peacham Crescent . Levels of disturbance res ulting from t hese exotic species and 
+communities throughout the ecology Study Area were observed to be moderate to severe. One of the...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 27
+
+--- Document 16 ---
+Content:
+removal will be minimal and highly selective; therefore, there should be no overall impact to the welfare 
+of vegetation communities within the parkland corridor behind Peacham Crescent resulting from the 
+proposed works.  
+Environmentally Significant Areas (ESA) – Biological 
+There are no Environmentally Significant Areas (ESA) within or adjacent to the Project limits; therefore, 
+there will be no impact from the proposed works. 
+Fish Habitat...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 26
+
+--- Document 17 ---
+Content:
+For details pertaining to the proposed removals/injuries, please refer to TRCA’s Arborist Report and Tree 
+Preservation Plan for Peacham Crescent Slope Stabilization Project. 
+ Hazardous Plants Screening 
+During the site surveys and tree inventories completed by TRCA staff, no hazardous plants were encountered 
+within the project site. Site conditions may have changed since the screening was completed; construction staff...
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 14
+
+--- Document 18 ---
+Content:
+extent of erosion and slope instability within the ravine system behind Peacham Crescent is  low due to 
+the existence of dense vegetation  along the ravine slopes . The established tree and undergrowth 
+communities within the parkland corridor greatly help to disperse the energy of overland runoff, secure 
+soil materials, and contribute to water absorption,  ultimately reducing the overall impact of erosional...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 38
+
+--- Document 19 ---
+Content:
+available open greenspace. Utilizing existing open greenspace will minimize tree removals and impacts to 
+the surrounding natural environment. 
+ 
+Figure 14. Construction access route options for the Peacham Crescent Slope Stabilization Project (TRCA, 2019)...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 37
+
+--- Document 20 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    15 
+ 
+2.2.2 Biological Studies 
+A)  Ecology Survey (TRCA, 2018a) 
+A terrestrial biological survey of the natural area within and surrounding the Project area was undertaken 
+by TRCA’s Environmental Monitoring and Data Management (EMDM) to inventory existing flora, fauna,...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 21
+
+--- Document 21 ---
+Content:
+and retaining the tree could support the protection or recovery of butternut in the area. 
+For more information, please refer to TRCA’s 2019-06-15 BHA Report #001CofT2019. 
+4 PERMITS 
+TRCA has obtained appropriate permits and approvals required to plan and complete any works within the 
+project site. Permits related to the completion of the project include: 
+• City of Toronto - Ravine & Natural Feature Protection Bylaw permit 
+• City of Toronto - Tree Protection Plan Review permit...
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 11
+
+--- Document 22 ---
+Content:
+from the ravine slope and from any mature trees thereon, to avoid any impacts. The 
+following naturally occurring species may be present in the project area: 
+ 
+• yellow birch Betula alleghaniensis L4 
+• Canada bluejoint* Calamagrostis canadensis L4 
+• broad-leaved toothwort Cardamine diphylla L4 
+• blue-beech Carpinus caroliniana L4 
+• bitternut hickory Carya cordiformis L4 
+• Clinton’s wood fern Dryopteris clintoniana L3 
+• marginal wood fern Dryopteris marginalis L4...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 184
+"
+}
+        
+The query will be delimited with #### characters: #### How do the specified tree removals and restoration plantings in projects like the Peacham Crescent Slope Stabilization Project contribute to or mitigate against biodiversity loss, particularly concerning species at risk such as bats and butternut trees? ####

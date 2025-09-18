@@ -1,0 +1,17 @@
+Based on the "2019-04-02 Conceptual Alt. Report Peacham_Final," the key factors influencing the selection of the preferred conceptual slope stabilization alternatives included:
+
+1. **Factors of Safety**: The alternatives were developed with a focus on a Factor of Safety (FOS) of 1.3, which was a requirement specified by the Toronto and Region Conservation Authority (TRCA).
+
+2. **Soil Composition**: The existing soil conditions behind 21, 23, and 25 Peacham Crescent, which were primarily identified as very loose to compact/soft to stiff earth fill materials, influenced the feasibility and design of the stabilization options.
+
+3. **Comparison of Alternatives**: Five potential stabilization alternatives were assessed based on feasibility, constructability, and cost. This comparative analysis allowed for a systematic evaluation of the advantages and disadvantages of each method.
+
+4. **Risk Mitigation**: The need for effective stabilization solutions to address slope failure and erosion risks played a significant role in the decision-making process.
+
+5. **Environmental Considerations**: Selected alternatives needed to mitigate impacts on existing vegetation and also address issues related to drainage and stormwater runoff.
+
+6. **Public Safety**: Ensuring public safety along the trail and slope was a critical consideration in selecting the stabilization methods.
+
+7. **Stakeholder Feedback**: The input received during the stakeholder and public review process was also taken into account before finalizing the preferred alternative.
+
+These factors collectively guided the selection of the preferred alternative, which ultimately was identified as the Mechanically Stabilized Earth (MSE) Structure.

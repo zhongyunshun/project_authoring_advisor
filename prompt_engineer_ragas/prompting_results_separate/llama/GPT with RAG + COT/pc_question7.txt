@@ -1,0 +1,26 @@
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "2019-04-02 Conceptual Alt. Report Peacham_Final.pdf"
+    "Key Factors Influencing the Selection of Preferred Conceptual Slope Stabilization Alternatives"
+
+    "Based on a review of Cole and Soil Engineers report, the subject slope behind 21, 23, & 25 Peacham Crescent predominantly consists of very loose to compact/soft to stiff earth fill materials (about..."
+
+    "The conceptual stabilization options for this site are developed based on a Factor of Safety (FOS) of 1.3 as requested by TRCA."
+    
+    "The preferred alternative is identified by considering various factors, such as the feasibility, constructability, and cost of each option."
+
+}
+
+# Chain of Thought
+Step 1: #### Refer to TRCA's technical documents first.
+Step 2: #### If the information is incomplete, use web search for current data.
+Step 3: #### If still unresolved, utilize GPT-4's knowledge (up to its training cutoff).
+Step 4: #### Cite sources from TRCA docs or web. Indicate if info is based on GPT-4's training data.
+
+The query will be delimited with #### characters: #### Based on the "2019-04-02 Conceptual Alt. Report Peacham_Final", what were the key factors influencing the selection of preferred conceptual slope stabilization alternatives? ####
+
+# Few-Shot Example
+Query: "Can you outline the phased approach for the Humber Bay Park East Shoreline Maintenance Project?"
+Retrieved passages: "The eastern armourstone headland ... a risk to park users."
+Answer: "The Humber Bay Park East Shoreline Maintenance Project is divided into multiple phases, each with specific timelines. The available document focuses on Phase I..."

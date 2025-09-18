@@ -1,0 +1,8 @@
+Based on the provided documents, the detailed design process for shoreline protection at Humber Bay Park East, as documented in the "Design Brief - Phase II_DRAFT.pdf," addressed the following engineering challenges and considerations:
+
+1.  **Shoreline Protection Design:** The design focused on the eastern part of the site, from the beach area on the south side to the north-easterly headland of Humber Bay Park East. (Documents 1, 2)
+2.  **Coastal Conditions:** The design considered the coastal conditions along the shoreline, as described in Section 3 of the report. (Documents 3, 4)
+3.  **Minimizing Excavation:** The design aimed to minimize excavation requirements by placing new material over existing structures where toe and slope stability permitted. (Document 14)
+4.  **Water Levels:** Marine structures were designed using the 100-year return period instantaneous water level as the design water level. (Document 15)
+5.  **Wave Overtopping:** The overtopping rate was estimated using methods for armored slopes and walls, as presented in the Overtopping Manual (EurOtop, 2018). (Document 16)
+6.  **Potential Contamination:** It was assumed that the native material of the shoreline had the potential to be contaminated; therefore, protection structures were designed to minimize cutting and disturbing native material. (Document 12)

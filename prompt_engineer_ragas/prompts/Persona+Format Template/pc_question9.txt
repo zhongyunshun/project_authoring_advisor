@@ -1,0 +1,309 @@
+
+# Persona
+"goal": "You are designed to be a specialized question-answering assistant, focusing on providing accurate answers based on Toronto and Region Conservation Authority (TRCA)'s technical documents, supplemented by web search results and GPT-4's knowledge base. The query will be delimited with four hashtags (i.e., ####)."
+        
+
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "
+--- Document 1 ---
+Content:
+A full record of Indigenous community consultation including copies of all correspondence can be found in the 
+Record of Indigenous Engagement for the Peacham Crescent Slope Stabilization Project in Appendix D. 
+6.3 Discussion of Concerns 
+6.3.1 Discussion of Public Concerns 
+There have been no major concerns raised about this project. 
+6.3.2 Discussion of Indigenous Community Concerns...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 50
+
+--- Document 2 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    42 
+ 
+6.1 Public Notifications and Consultation 
+In accordance with the Class EA process, the first point of public contact occurred with the publication of the 
+Notice of Intent on November 22, 2018.  
+Notices were sent to community groups, homeowners in the vicinity of the Project site, Indigenous communities,...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 48
+
+--- Document 3 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    44 
+ 
+• Beausoleil First Nation 
+• Chippewas of Georgina Island First Nation 
+• Chippewas of Rama-Mnjikaning First Nation 
+• Huron-Wendat Nation 
+• Coordinator for the Williams Treaties First Nations 
+• Curve Lake First Nation 
+• Hiawatha First Nation 
+• Mississaugas of Alderville First Nation 
+• Mississaugas of the Credit First Nation...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 50
+
+--- Document 4 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    22 
+ 
+Wildlife Populations 
+There are no significant wildlife populations identified within the Project limits; therefore, there are no 
+anticipated impacts resulting from the proposed works. 
+Wetlands 
+There were two wetland vegetation communities observed along the southern limits of the Project area,...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 28
+
+--- Document 5 ---
+Content:
+Peacham Crescent Slope Stabilization Project – Project Brief 
+Toronto and Region Conservation Authority    |    i 
+Table of Contents 
+1 INTRODUCTION ........................................................................................................................................................... 1 
+2 SITE DESCRIPTION ....................................................................................................................................................... 2...
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 2
+
+--- Document 6 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+     Toronto and Region Conservation Authority    |    i 
+ 
+Acknowledgements 
+Toronto and Region Conservation Authority gratefully acknowledges the following people for their 
+contributions to the Peacham Crescent Slope Stabilization Project. 
+ 
+Alistair Jolly Toronto and Region Conservation Authority 
+Alvina Tam Toronto and Region Conservation Authority...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 2
+
+--- Document 7 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+     Toronto and Region Conservation Authority    |    6 
+ 
+1.3 Description of the Study Area 
+Following the July 8, 2013 severe weather event, significant slumping ; slippage; and slope instability w ere 
+reported to have occurred behind three properties on Peacham Crescent, spanning approximately 52 metres of...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 12
+
+--- Document 8 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    40 
+ 
+Screening Criteria 
+Rating of Potential Effects 
+-H -M -L NIL +L +M +H NA Comments 
+Biological                                                                                                                                   
+Wildlife Habitat          
+Habitat Linkages or Corridors          
+Significant Vegetation 
+Communities    ...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 46
+
+--- Document 9 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    28 
+ 
+ 
+Figure 11. 1967 historical aerial photograph of area surrounding the location of the Peacham Cre scent Slope 
+Stabilization Project (TRCA, 2018)...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 34
+
+--- Document 10 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+     Toronto and Region Conservation Authority    |    10 
+ 
+• The location of the projected long-term stable slope crest (LTSSC) in relation to permanent and essential 
+structures at the top of slope; 
+• The presence of a public footpath at the base of slope; and 
+• The presence of potentially impacted infrastructure located within the tributary and surrounding area...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 16
+
+--- Document 11 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    25 
+ 
+ 
+Figure 8. 1946 historical aerial photograph of area surrounding the location of the Peacham Crescent Slope 
+Stabilization Project (TRCA, 2018)...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 31
+
+--- Document 12 ---
+Content:
+Peacham Crescent Slope Stabilization Project 
+City of Toronto 
+Project Brief 
+Prepared by Erosion Risk Management 
+September 2021...
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 1
+
+--- Document 13 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    27 
+ 
+ 
+Figure 10. 1954 historical aerial photograph of area surrounding the location of the Peacham Crescent Slope 
+Stabilization Project (TRCA, 2018)...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 33
+
+--- Document 14 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    26 
+ 
+ 
+Figure 9. 1952 historical aerial photograph of area surrounding the location of the Peacham Crescent Slope 
+Stabilization Project (TRCA, 2018)...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 32
+
+--- Document 15 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    31 
+ 
+Existing Tourism Operation 
+There are no existing tourism operations within or adjacent to the Project limits; therefore, there will be 
+no impacts resulting from the proposed works. 
+Property Accessibility 
+Two possible access route options have been proposed to gain access to the slope behind 21, 23, and 25...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 37
+
+--- Document 16 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+     Toronto and Region Conservation Authority    |    i 
+ 
+ Table of Contents 
+1.0 INTRODUCTION ......................................................................................................... 1 
+1.1 Relationship of the Undertaking to the Environmental Assessment Act ....................................................... 3...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 4
+
+--- Document 17 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    14 
+ 
+Planning and Development Procedural Manual (2007) 
+TRCA’s Planning and Development Procedural Manual provides a comprehensive summary of the 
+legislative and policy framework that guides TRCA’s decisions and actions with respect to planning and 
+regulatory responsibilities, as outlined in Ontario Regulation 166/06....
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 20
+
+--- Document 18 ---
+Content:
+Peacham Crescent Slope Stabilization Project – Project Brief 
+Toronto and Region Conservation Authority    |    14 
+14 REFERENCES 
+Cole Engineering, (2015). SLOPE STABILITY & EROSION RISK ASSESSMENT.  
+Terraprobe. (2020). Design Brief, 21 to 27 Peacham Crescent, Toronto, Ontario. Toronto. 
+Toronto and Region Conservation Authority (2019). Class Environmental Assessment For Remedial Flood And Erosion 
+Control Projects, Peacham Crescent Slope Stabilization Project City of Toronto....
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 17
+
+--- Document 19 ---
+Content:
+assessment at 21, 23, and  25 Peacham Crescent, an evaluation of preliminary alternative solutions, and the 
+proposed next steps. The CLC meeting served as a forum for interested residents and stakeholders to ask 
+questions of senior project staff regarding the proposed erosion control and slope stabilization works, including 
+timelines. 
+Comment forms were distributed by TRCA following the CLC meeting to ensure an understanding of the Project...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 49
+
+--- Document 20 ---
+Content:
+Table 4. Summary of indigenous Group consultation for the project. Source: TRCA, 2018. ................................. 44 
+Figures 
+Figure 1. The approximate location of works behind Peacham Crescent are denoted by red polygon. Source: 
+TRCA, 2018. .............................................................................................................................................................. 2...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 5
+
+--- Document 21 ---
+Content:
+Stabilization Project (TRCA, 2018) .......................................................................................................................... 25 
+Figure 9. 1952 historical aerial photograph of area surrounding the location of the Peacham Crescent Slope 
+Stabilization Project (TRCA, 2018) .......................................................................................................................... 26...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 5
+
+--- Document 22 ---
+Content:
+Stabilization Project (TRCA, 2018) .......................................................................................................................... 28 
+Figure 12. 1993 historical aerial photograph of area surrounding the location of the Peacham Crescent Slope 
+Stabilization Project (TRCA, 2018) .......................................................................................................................... 29...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 5
+"
+}
+        
+
+# Format Template
+You are designed to ask for clarifications in case of ambiguous queries or when more specific details are needed.
+The tone of the responses will be professional, focusing on clarity, accuracy, and relevance, suitable for the technical nature of TRCA's content.
+Cite the sources of information from TRCA's documents, web search results, or GPT-4's training data when applicable.
+        
+The query will be delimited with #### characters: #### How were Indigenous communities engaged in the planning and decision-making processes for the Peacham Crescent Slope Stabilization Project, and what outcomes resulted from this engagement? ####
+
+# Few-Shot Example
+Query: "Can you outline the phased approach for the Humber Bay Park East Shoreline Maintenance Project?"
+Retrieved passages: "The eastern armourstone headland ... a risk to park users."
+Answer: "The Humber Bay Park East Shoreline Maintenance Project is divided into multiple phases, each with specific timelines. The available document focuses on Phase I..."
+        

@@ -1,0 +1,12 @@
+### Inject Domain Information
+
+The query is: "#### How were Indigenous communities engaged in the planning and decision-making processes for the Peacham Crescent Slope Stabilization Project, and what outcomes resulted from this engagement? ####"
+
+Based on the retrieved passages, the answer is:
+
+"The Class EA Project Plan document (Document 3) lists the following First Nations that were engaged in the consultation process: Beausoleil First Nation, Chippewas of Georgina Island First Nation, Chippewas of Rama-Mnjikaning First Nation, Huron-Wendat Nation, Coordinator for the Williams Treaties First Nations, Curve Lake First Nation, Hiawatha First Nation, Mississaugas of Alderville First Nation, and Mississaugas of the Credit First Nation. The document also mentions that comments were received from these communities regarding the project."
+
+Sources:
+
+* Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project (Document 3)
+* Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project (Document 4)

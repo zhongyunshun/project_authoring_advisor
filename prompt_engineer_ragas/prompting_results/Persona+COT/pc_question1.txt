@@ -1,0 +1,19 @@
+The Long-Term Stable Slope Crest (LTSSC) is a critical concept defined in the Slope Stability and Erosion Risk Assessment (SS&ERA) conducted for the Peacham Crescent projects. The LTSSC represents the location where a slope is expected to achieve long-term stability, taking into account various geotechnical factors.
+
+### Definition of LTSSC:
+1. **Erosion Forces**: The LTSSC models the natural regression of a slope crest due to erosion forces acting on the materials that compose the slope.
+2. **Substrate Conditions**: The determination of the LTSSC is based on the composition and conditions of the substrate materials beneath and surrounding the slope.
+
+### Criteria for Determining LTSSC:
+1. **Factor of Safety (FoS)**: The LTSSC is evaluated using a specified factor of safety, which in the case of the Peacham Crescent projects, is set at 1.5. This means that the slope is deemed stable if the calculated forces acting on it are at least 1.5 times less than the resisting forces.
+2. **Geotechnical Investigations**: Detailed subsurface investigations, including borehole drilling and soil composition assessments, are conducted to delineate the LTSSC. These investigations help understand the material properties and groundwater conditions affecting slope stability.
+3. **Impact on Infrastructure**: The positioning of the LTSSC is also assessed in relation to existing infrastructure and residential buildings. For instance, it has been noted that the LTSSC intersects the footprint of residential dwellings at 21 Peacham Crescent, indicating potential risks to property from slope instability.
+
+### Context in Peacham Crescent Projects:
+In response to the identified risks of erosion and slope instability, the Toronto and Region Conservation Authority (TRCA) has initiated stabilization projects. The LTSSC is integral to these efforts as it guides the design and implementation of measures to mitigate risks to life and property.
+
+Overall, the LTSSC is determined through a combination of geotechnical analysis, safety factors, and consideration of surrounding structures, all aimed at ensuring long-term slope stability and safety for the community.
+
+**Sources**: 
+- TRCA Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project (2019)
+- Slope Stability & Erosion Risk Assessment reports by Cole Engineering Group Ltd. (2015)

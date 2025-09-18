@@ -1,0 +1,113 @@
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "
+--- Document 1 ---
+Content:
+works supported by the ERMP to provide long-term protection for life and property. 
+The Peacham Crescent Slope Stabilization P roject is being completed in accordance with the Class Environmental 
+Assessment for Remedial Flood and Erosion Control Projects, amended 2013 (Class EA), with the objective of reducing risk 
+to life and property, as per the mandate of Conservation Authoriti es under the Conservation Authorities Act (R.S.O 1990)....
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 3
+
+--- Document 2 ---
+Content:
+Erosion Control Projects (Class EA) (amended 2013). The purpose of the Peacham Crescent Slope Stabilization 
+Project (hereafter referred to as “the Project”), is to take action to protect human life and property from the 
+hazards of valley slope erosion by providing long -term, low maintenance protection for the three (3) private 
+properties within the Project limits.  
+This Project Plan has been prepared as documentation of the decision-making process exercised when selecting...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 7
+
+--- Document 3 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    42 
+ 
+6.1 Public Notifications and Consultation 
+In accordance with the Class EA process, the first point of public contact occurred with the publication of the 
+Notice of Intent on November 22, 2018.  
+Notices were sent to community groups, homeowners in the vicinity of the Project site, Indigenous communities,...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 48
+
+--- Document 4 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+     Toronto and Region Conservation Authority    |    4 
+ 
+ 
+Figure 2. Class EA Planning and Design Process. Source: CO, 2013....
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 10
+
+--- Document 5 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    40 
+ 
+Screening Criteria 
+Rating of Potential Effects 
+-H -M -L NIL +L +M +H NA Comments 
+Biological
+Wildlife Habitat          
+Habitat Linkages or Corridors          
+Significant Vegetation 
+Communities    ...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 46
+
+--- Document 6 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+     Toronto and Region Conservation Authority    |    i 
+ 
+ Table of Contents 
+1.0 INTRODUCTION......................................... 1 
+1.1 Relationship of the Undertaking to the Environmental Assessment Act....................... 3...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 4
+
+--- Document 7 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+     Toronto and Region Conservation Authority    |    10 
+ 
+• The location of the projected long-term stable slope crest (LTSSC) in relation to permanent and essential 
+structures at the top of slope; 
+• The presence of a public footpath at the base of slope; and 
+• The presence of potentially impacted infrastructure located within the tributary and surrounding area...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 16
+
+--- Document 8 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+     Toronto and Region Conservation Authority    |    9 
+ 
+planned for this project will be isolated to the upper valley slope at the rear of these three properties and will 
+not involve any riverine works. 
+In accordance with the Class EA planning process, a full range of alternatives must be developed, including both...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 15
+
+--- Document 9 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    43 
+ 
+Authority before the request gets referred to the Minister of the Environment for a 
+decision

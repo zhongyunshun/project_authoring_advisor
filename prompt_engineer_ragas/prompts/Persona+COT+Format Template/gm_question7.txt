@@ -1,0 +1,315 @@
+
+# Persona
+"goal": "You are designed to be a specialized question-answering assistant, focusing on providing accurate answers based on Toronto and Region Conservation Authority (TRCA)'s technical documents, supplemented by web search results and GPT-4's knowledge base. The query will be delimited with four hashtags (i.e., ####)."
+        
+
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "
+--- Document 1 ---
+Content:
+4.3.5.2 Effects on Coastal Processes 
+The new revetment structures planned for Phase 2 of this project are placed on the same footprint 
+as the existing revetment structures and therefore have a minimal impact on local coastal 
+processes. 
+4.3.5.3  Stone Sizing 
+Armour stone sizes were selected for stability using the Hudson equation and using the design 
+coastal conditions detailed in Section 3 for design input. 
+4.3.5.4 Cut and Fill Volumes...
+Metadata:
+- **source**: Design Brief - Phase II_DRAFT.pdf
+- **page**: 25
+
+--- Document 2 ---
+Content:
+processes. The new revetment structure placed between stations 0+550m and 0+650m will 
+stabilize and prevent further erosion of the shoreline in that area. 
+4.3.3 Stone Sizing 
+Armour stone sizes were selected for stability using the Hudson equation and using the design 
+coastal conditions detailed in Section 3 for design input. 
+4.3.4 Cut and Fill Volumes  
+Cutting into the bank was  minimized during the design process to avoid exposing potential...
+Metadata:
+- **source**: Design Brief - Phase I.pdf
+- **page**: 20
+
+--- Document 3 ---
+Content:
+Humber Bay Park East Major Maintenance Project – Concept Brief 
+Toronto and Region Conservation Authority    |    17 
+In general, smaller cobble sizes will offer a more user-friendly beach environment for park users than larger stone, 
+but more material will be required to sufficiently protect the shoreline. Treatments using smaller cobble  will 
+therefore have higher costs and a greater in -water footprint as well as greater potential  for maintenance needs...
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 20
+
+--- Document 4 ---
+Content:
+have been undermined due to the ongoing erosion. 
+The shoreline is currently protected by armour stone revetment structures. The size of the armour 
+stones, the crest elevations and the nature of placement of the armour stones varies considerably. 
+The armour stone sizes are most commonly in the 2 to 4 tonne range but larger stones up to 6 
+tonnes, and some even larger ones, were found on the site. High water levels experienced...
+Metadata:
+- **source**: Design Brief - Phase I.pdf
+- **page**: 7
+
+--- Document 5 ---
+Content:
+multi-use trail runs along the entire shoreline of the northern headland. Some sections of the trail 
+have been undermined due to the ongoing erosion. 
+The shoreline is currently protected by armour stone revetment structures. The size of the armour 
+stones, the crest elevations and the nature of placement of the armour stones varies considerably. 
+The armour stone sizes are most commonly in the 2 to 4 tonne range but larger stones up to 6...
+Metadata:
+- **source**: Design Brief - Phase II_DRAFT.pdf
+- **page**: 8
+
+--- Document 6 ---
+Content:
+4.2.5.3 Stone Sizing 
+Armour stone sizes were selected for stability using the Hudson equation and using the design 
+coastal conditions detailed in Section 3 for design input. 
+4.2.5.4 Cut and Fill Volumes  
+Cutting into the bank was  minimized during the design process to avoid exposing potential 
+contaminated material.  Additional fill material will be required behind the crest of the new 
+revetment structures to tie into existing grades. Phase 1 will include, in addition to stone materials...
+Metadata:
+- **source**: Design Brief - Phase II_DRAFT.pdf
+- **page**: 21
+
+--- Document 7 ---
+Content:
+as the neighbourhood evolves into a denser, high-rise residential community. 
+Erosion control structures, including headlands and beaches, were built in the early 1980s in order to protect the 
+shoreline. Toronto and Region Conservation Authority’s (TRCA) Er osion Risk Management Program (ERMP)  has 
+monitored these structures on an annual basis  since 2006. Both the western armourstone headland (WF 11.10)...
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 3
+
+--- Document 8 ---
+Content:
+Humber Bay Park East Major Maintenance Project – Concept Brief 
+Toronto and Region Conservation Authority    |    16 
+ WF11.11 – Cobble/Rubble Beach 
+The concept designs for the beach call for placement of fill over the existing profile of the beach (Figure 19). Four 
+alternative options were proposed  for the beach treatment which  vary based on the cobble size and required 
+quantity, ranging from 10 to 100 mm diameter stone (Figure 20). Profile details of the four options are summarized...
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 19
+
+--- Document 9 ---
+Content:
+construction road where necessary. 
+3. Repair of the Eastern Headland Transition by establishing a backshore armourstone wall and 
+headland to create a small habitat embayment. This will include: 
+a. Excavation of the toe and backshore as necessary and stockpiling of reusable material from 
+the retaining wall area. 
+b. Construct terminus of Phase I revetment component to tie into armourstone retaining wall....
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 24
+
+--- Document 10 ---
+Content:
+4.1 Conceptual Design Options 
+On the basis of the assessment and conditions, two conceptual approaches to remediation were 
+considered for the revetment portions of the shoreline. These approaches included, as option 1, 
+complete rebuild of the revetment using, as much as possible the existing armour stone and 
+supplement with additional armour as required, and, as option 2, supplementing the existing...
+Metadata:
+- **source**: Design Brief - Phase II_DRAFT.pdf
+- **page**: 19
+
+--- Document 11 ---
+Content:
+4.1 Conceptual Design Options 
+On the basis of the assessment and conditions, two conceptual approaches to remediation were 
+considered for the revetment portions of the shoreline. These approaches included, as option 1, 
+complete rebuild of the revetment using, as much as possible the existing armour stone and 
+supplement with additional armour as required, and, as option 2, supplementing the existing...
+Metadata:
+- **source**: Design Brief - Phase I.pdf
+- **page**: 18
+
+--- Document 12 ---
+Content:
+shown in the ERMP sketch below (Figure 10). The headland has an irregular profile due to material displacement 
+across the structure (Figure 11). Large voids that threaten the overall structure stability have developed between 
+stones due to material settling after displacement. Significant scouring due to wave overtopping is present along 
+the backshore of the structure placing several park paths and benches at risk, as well as presenting a public safety...
+Metadata:
+- **source**: HBPE Project Brief - Phase I.pdf
+- **page**: 11
+
+--- Document 13 ---
+Content:
+Table 1. Overall condition of the erosion control structures included in the Humber Bay Park East Major Maintenance Project. 
+Source: TRCA, 2020. 
+Structure Structural 
+Stability 
+Overall 
+Condition Deficiencies 
+WF11.10 
+(Western 
+Armourstone 
+Headland) 
+Failing Fair 
+• Minor displacement of armourstone along western and central extents of 
+structure  
+• Scouring of areas above the headland due to overtopping –  some rip rap...
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 5
+
+--- Document 14 ---
+Content:
+between 2017 and 2019 have led to wave overtopping of the revetments causing erosion behind 
+the revetment structures, as well as erosion behind the beach area and loss of beach material . 
+As a result, armour stones have shifted , slid down  or fallen back (landw ard), and lowered the 
+elevation of the structure, further reducing the efficacy of the protection structures.  Our 
+observations indicate that most of the damage is in areas with lower crest elevations and...
+Metadata:
+- **source**: Design Brief - Phase I.pdf
+- **page**: 7
+
+--- Document 15 ---
+Content:
+76.2 m.a.s.l and the structures are designed to ensure the overtopping rate is below 10 litres/second. 
+6.2.1 Western Armourstone Headland 
+The treatment for most of the headland (stations 0+000 to 0+225) includes placement of new armourstone over 
+the existing profile in order to elevate the shore as shown in the plan views in Figure 19. The slope of the 
+revetment structure will consist of randomly placed armourstone or rip rap of various size ranges built at a slope...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 25
+
+--- Document 16 ---
+Content:
+erosion area at the toe of the slope.  The near vertical wall will also allow for the vegetated 
+boulder revetment to be constructed at a more practical slope.  The armourstone will need to 
+be installed below the current scour pool bottom to allow for any future scouring of the 
+channel and to mitigate the risk of undermining.   The  purpose of the vegetated boulder 
+revetment is to provide a more natural and cost efficient means of protection above the critical...
+Metadata:
+- **source**: 2015-10-05 Geomorphic Report Final.pdf
+- **page**: 25
+
+--- Document 17 ---
+Content:
+erosion area at the toe of the slope.  The near vertical wall will also allow for the vegetated 
+boulder revetment to be constructed at a more practical slope.  The armourstone will need to 
+be installed below the current scour pool bottom to allow for any future scouring of the 
+channel and to mitigate the risk of undermining.   The  purpose of the vegetated boulder 
+revetment is to provide a more natural and cost efficient means of protection above the critical...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 77
+
+--- Document 18 ---
+Content:
+Protection 
+Structure 
+Length 
+(m) 
+Armour Stone  
+Random 
+Placement 
+(tonnes) 
+Cap 
+Armour 
+Stone  
+ (tonnes) 
+Rip Rap 
+(tonnes) 
+Beach 
+Material 
+50mm dia 
+(tonnes) 
+Stations 0+000m 
+to 0+250m 250 3610 170 2130  
+Pond Outlet 
+Area - 3460 330 2960  
+Stations 0+325m 
+to 0+550m 238    52210 
+ 
+4.3 Phase 2 Detailed Design  
+Detailed designs have been provided for all reaches of the shoreline in Phase 2 with improved 
+details for backfill and backshore grading along the shoreline....
+Metadata:
+- **source**: Design Brief - Phase II_DRAFT.pdf
+- **page**: 23
+
+--- Document 19 ---
+Content:
+supplemented with additional 2.0 -4.0 tonne armour stone placed at a 1.5H:1.0V slope.  The 
+structure will rise to a crest elevation of 78.5m, where it will be topped with 3.0-5.0m cap stones. 
+The existing armour stones at the crest of the structure will be removed so the new cap stones 
+can be founded on new rip rap. The width of the cap in various areas of this reach depends on 
+the predicted wave overtopping of the structure, discussed in Section 4.2.5.1. The backshore...
+Metadata:
+- **source**: Design Brief - Phase II_DRAFT.pdf
+- **page**: 20
+
+--- Document 20 ---
+Content:
+based on site conditions. Due to strong wave conditions modeled in the project area, material may naturally 
+shift and resettle over time.  
+ 
+Figure 25. An example of surcharge stone at the toe of a revetment to act as aquatic habitat. Source: TRCA 2019. 
+6.3.2 Embayment 
+The Eastern Headland Transition was identified by TRCA’s AMM staff as good-quality fish habitat. To preserve 
+this habitat, the design for this area has been updated from a revetment to an embayment/headland structure,...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 30
+
+--- Document 21 ---
+Content:
+existing structure to raise it to a higher elevation and widen the crest. Work will also include 
+formalization of the pond outlet, located at the structures eastern transition to the beach, through the 
+installation of an armourstone berm and plug. This phase also includes the transition point between the 
+eastern headland and beach.   
+• Phase III: Concrete Rubble/Gravel Beach (WF11.11) – involves the placement of cobble material over the 
+current beach profile....
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 5
+
+--- Document 22 ---
+Content:
+structures with additional armour stone while leaving the existing structures in place. A decision 
+to proceed with option 2 was made in consultation with TRCA staff.  The main advantages of 
+option 2 is substantial reduction of overall disturbance of the shoreline and likely eliminated risk 
+of expos ure of existing fill material and overall reduced construction cost and time. Option 2 
+includes a short section of the shoreline at the east side of the central beach where a new...
+Metadata:
+- **source**: Design Brief - Phase I.pdf
+- **page**: 18
+"
+}
+        
+
+# Chain of Thought
+Step 1: #### Refer to TRCA's technical documents first.
+Step 2: #### If the information is incomplete, use web search for current data.
+Step 3: #### If still unresolved, utilize GPT-4's knowledge (up to its training cutoff).
+Step 4: #### Cite sources from TRCA docs or web. Indicate if info is based on GPT-4's training data.
+        
+
+# Format Template
+You are designed to ask for clarifications in case of ambiguous queries or when more specific details are needed.
+The tone of the responses will be professional, focusing on clarity, accuracy, and relevance, suitable for the technical nature of TRCA's content.
+Cite the sources of information from TRCA's documents, web search results, or GPT-4's training data when applicable.
+        
+The query will be delimited with #### characters: #### Could you detail the decision-making process behind choosing specific erosion control structures, such as armourstone headlands and cobble/rubble beaches, in the context of their effectiveness and environmental impact? ####
+
+# Few-Shot Example
+Query: "Can you outline the phased approach for the Humber Bay Park East Shoreline Maintenance Project?"
+Retrieved passages: "The eastern armourstone headland ... a risk to park users."
+Answer: "The Humber Bay Park East Shoreline Maintenance Project is divided into multiple phases, each with specific timelines. The available document focuses on Phase I..."
+        

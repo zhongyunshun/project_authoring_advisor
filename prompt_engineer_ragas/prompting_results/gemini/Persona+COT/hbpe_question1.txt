@@ -1,0 +1,17 @@
+Based on the provided documents, the detailed design process for shoreline protection at Humber Bay Park East, specifically in the "Design Brief - Phase II_DRAFT.pdf" and related documents, addressed the following engineering challenges and considerations:
+
+1.  **Shoreline Protection Design**: The detailed design focused on shoreline protection for the eastern part of the site, extending from the beach area on the south side to the north-easterly headland of Humber Bay Park East. Phase 2 specifically addressed the southern headland, while Phase 3 included the concrete rubble and gravel beach ("Design Brief - Phase II_DRAFT.pdf", page 6; "Design Brief - Phase I.pdf", page 5).
+
+2.  **Coastal Conditions**: The existing site conditions and coastal conditions along the shoreline were evaluated to inform the shoreline protection design ("Design Brief - Phase II_DRAFT.pdf", page 19; "Design Brief - Phase I.pdf", page 18).
+
+3.  **Minimizing Disturbance**: The design aimed to minimize cutting and disturbing the native material of the shoreline, considering the potential for contamination ("Design Brief - Phase II_DRAFT.pdf", page 22).
+
+4.  **Water Levels**: Marine structures were designed considering the 100-year return period instantaneous water level as the design water level ("Design Brief - Phase II_DRAFT.pdf", page 13).
+
+5.  **Wave Overtopping**: The overtopping rate was estimated using methods for armoured slopes and walls, referencing the Overtopping Manual (EurOtop, 2018) for revetment structures ("Design Brief - Phase II_DRAFT.pdf", page 25).
+
+6.  **Erosion Concerns**: The design addressed erosion concerns, including low crest elevation and wave overtopping, by placing new material over existing structures where toe and slope stability permitted, thus minimizing excavation ("Humber Bay Park East Concept Brief.pdf", page 15).
+
+7.  **Habitat Features**: Habitat features were installed, including surcharged stone at the base of the revetment, with a similar approach planned for Phase II ("HBPE Project Brief - Phase II.pdf", page 30).
+
+8.  **Erosion and Sediment Control**: Implementation of standard silt socks to isolate staging and stockpiling areas to prevent the entry of deleterious substances into the watercourse ("HBPE Project Brief - Phase II.pdf", page 33).

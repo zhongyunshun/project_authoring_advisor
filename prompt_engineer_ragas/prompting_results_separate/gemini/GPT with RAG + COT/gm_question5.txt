@@ -1,0 +1,5 @@
+```json
+{
+ "answer": "Yes, both the Humber Bay Park East Shoreline Maintenance Project and the Peacham Crescent Erosion Control and Slope Stabilization Project discuss future phases or expansions:\n\n*   **Humber Bay Park East Shoreline Maintenance Project:** The project is explicitly divided into three phases for design and implementation due to the extent of the project area and the multi-year nature of construction. Phase I focuses on the Eastern Headland. The full restoration plan, including plantings, is part of the detailed designs for the final phase of the project. (Sources: HBPE Project Brief - Phase II.pdf, page 4; HBPE Project Brief - Phase I.pdf, pages 4, 34)\n*   **Peacham Crescent Erosion Control and Slope Stabilization Project:** While the documents detail the existing conditions and proposed works for the project, specific information on future expansions or phases beyond the current plan is not provided in the retrieved documents. (Sources: 2019-09-26 Peacham Class EA PP.pdf)"
+}
+```

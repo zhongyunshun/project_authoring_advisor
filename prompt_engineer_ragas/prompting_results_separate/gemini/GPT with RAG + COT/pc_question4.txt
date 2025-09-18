@@ -1,0 +1,23 @@
+The "2019-09-26 Peacham Class EA PP.pdf" document outlines the Class Environmental Assessment (EA) process for the Peacham Crescent Slope Stabilization Project. While the document details the process and considerations, it does not explicitly define the roles and responsibilities of specific stakeholders. However, it does mention some key stakeholders and their general involvement:
+
+*   **Toronto and Region Conservation Authority (TRCA):** TRCA is the lead agency responsible for the project. Their involvement includes:
+
+    *   Undertaking studies and assessments to evaluate the project site (Document 16).
+    *   Developing remedial solutions (Document 16).
+    *   Preparing the Class EA Project Plan (multiple documents).
+    *   Submitting an assessment to the Conservation Authority upon project completion, commenting on the effectiveness of the Class EA process (Document 9).
+    *   Public consultation and notification (Document 3).
+
+*   **Homeowners:** Homeowners in the vicinity of the project site are notified and consulted as part of the public consultation process (Document 3). The project aims to protect properties from hazards of valley slope erosion (Document 2).
+
+*   **Community Groups:** Community groups are notified as part of the public consultation process (Document 3).
+
+*   **Indigenous Communities:** Indigenous communities are notified as part of the public consultation process (Document 3).
+
+*   **Minister of the Environment:** The Minister of the Environment may be involved if there are requests referred to them by the Conservation Authority (Document 9).
+
+*   **Public:** The document mentions meeting public concerns through the Class EA process (Document 9).
+
+*   **Consultants:** Alistair Jolly and Alvina Tam from Toronto and Region Conservation Authority are acknowledged for their contributions to the project (Document 12)
+
+**It is important to note:** The document focuses on the technical aspects of the project and the EA process itself, rather than explicitly defining a RACI (Responsible, Accountable, Consulted, Informed) matrix or similar for stakeholder roles.

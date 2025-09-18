@@ -1,0 +1,11 @@
+The decision-making process behind choosing specific erosion control structures, such as armourstone headlands and cobble/rubble beaches, involves several factors related to their effectiveness, environmental impact, and site conditions. 
+
+1. **Effectiveness**: The primary goal of erosion control structures is to stabilize shorelines and prevent further erosion. For instance, the armourstone headlands are designed to withstand strong wave action and provide substantial protection against erosion. The use of larger armour stones, typically in the range of 2 to 6 tonnes, has been noted for its ability to resist displacement and scouring, which are common issues in coastal environments (Document 4, Document 5).
+
+2. **Environmental Considerations**: The selection of materials also considers the ecological impact. Smaller cobble sizes might create a more user-friendly beach environment but require more material, which can lead to higher costs and increased maintenance needs (Document 3). This highlights a trade-off between user experience and the ecological footprint of the materials used.
+
+3. **Design Input and Site-Specific Conditions**: The armour stone sizes are determined using established equations (e.g., the Hudson equation) based on design coastal conditions outlined in project documents (Document 6). The decision-making process includes assessing local coastal processes and existing structures to minimize disturbance to the shoreline and prevent exposure of potentially contaminated materials during construction (Document 22).
+
+4. **Phased Approach**: The implementation often follows a phased approach. For instance, the Humber Bay Park East Major Maintenance Project includes multiple phases that allow for gradual improvements and adaptations based on ongoing observations and assessments by the Toronto and Region Conservation Authority (TRCA). This approach helps in managing costs and reducing environmental impact while adapting to changing conditions (Document 9, Document 21).
+
+In summary, the choice of erosion control structures is a complex decision that balances effectiveness, environmental impact, and site-specific factors, ensuring that the solutions implemented are sustainable and suitable for the specific coastal context.

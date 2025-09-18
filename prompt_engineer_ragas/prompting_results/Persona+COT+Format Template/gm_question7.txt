@@ -1,0 +1,17 @@
+The decision-making process behind selecting specific erosion control structures, such as armourstone headlands and cobble/rubble beaches, involves several factors, including effectiveness in preventing erosion, environmental impact, user experience, and cost considerations.
+
+1. **Effectiveness**: 
+   - Armourstone headlands are designed to stabilize shorelines and prevent erosion effectively. They are constructed from large stones (often weighing between 2 to 6 tonnes) that resist wave action and minimize material displacement. For example, the design brief indicates that the armour stone sizes were selected for stability using the Hudson equation based on design coastal conditions (Design Brief - Phase II_DRAFT.pdf, p. 25).
+   - Cobble/rubble beaches, while offering a more user-friendly environment, typically require more material to provide adequate shoreline protection. This can lead to higher costs and increased maintenance needs, as noted in the Humber Bay Park East Concept Brief (p. 20).
+
+2. **Environmental Impact**: 
+   - The choice of materials and structures also considers their environmental impact. Smaller cobble sizes can foster a more natural beach experience but may lead to greater in-water footprints, impacting aquatic habitats. Conversely, larger stone structures may disrupt local ecosystems but are often more effective at preventing erosion (Humber Bay Park East Concept Brief, p. 20).
+   - The TRCA's Erosion Risk Management Program (ERMP) monitors these structures to ensure they meet ecological and protective needs, reflecting a balance between human use and environmental preservation (Humber Bay Park East Concept Brief, p. 3).
+
+3. **User Experience**: 
+   - The design also emphasizes user experience, as evidenced by the preference for smaller cobble sizes for public beach areas, which are perceived as more aesthetically pleasing and accessible (Humber Bay Park East Concept Brief, p. 20).
+
+4. **Cost Considerations**: 
+   - The decision process often weighs the costs associated with each type of structure. For instance, while cobble/rubble beaches may create a more visually appealing environment for the public, they come with higher material costs and maintenance challenges compared to the more durable armourstone headlands (Humber Bay Park East Concept Brief, p. 20; Design Brief - Phase I, p. 18).
+
+In summary, the decision-making process for choosing erosion control structures within TRCA projects is multi-faceted, integrating effectiveness, environmental stewardship, user experience, and financial implications to create sustainable shoreline management solutions.

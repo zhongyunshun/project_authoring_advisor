@@ -1,0 +1,10 @@
+The "Humber Bay Park East Concept Brief" outlines a major maintenance project addressing erosion concerns, but it doesn't explicitly detail the *selection process* of different erosion control structures based on a comparative analysis of their effectiveness and environmental impact. However, the document does provide insights into the considerations that influence the choice of materials and designs.
+
+Here's what can be inferred from the provided documents:
+
+*   **Addressing Erosion Concerns:** The project aims to address "leading erosion concerns of the park, including low crest elevation and wave overtopping" (Document 5).
+*   **Material Selection Considerations:** The choice of materials, like cobble size for the beach, balances user experience with shoreline protection. Smaller cobbles are more user-friendly but may require more material and maintenance (Document 11).
+*   **Minimizing Environmental Impact:** The designs aim to minimize excavation and disturbance of native material, suggesting a consideration for aquatic habitat and potential contamination (Document 5, 19).
+*   **Structural Condition:** The existing condition of the structures (WF11.10, WF11.11, WF11.12) informs the type of intervention needed, ranging from repair to complete redesign (Document 3, 18).
+
+It appears the choice of specific erosion control structures is driven by a combination of factors: the existing structural deficiencies, the need to mitigate specific erosion problems (wave overtopping, scouring), user accessibility, cost considerations, and a desire to minimize environmental disruption. A direct comparison of different structure types based on quantified effectiveness and environmental impact isn't explicitly presented in these documents.

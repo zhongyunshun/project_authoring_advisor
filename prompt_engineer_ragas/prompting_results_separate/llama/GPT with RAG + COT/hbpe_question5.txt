@@ -1,0 +1,152 @@
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "
+--- Document 1 ---
+Content:
+the Humber Bay Park East shoreline.  
+ Phasing 
+Due to the extent of the project area and the multi-year nature of construction, the Project has been divided 
+into three phases for design and implementation:  
+PROJECT NAME Humber Bay Park East Shoreline Maintenance Project 
+REGION City of Toronto 
+TRCA DIVISION Restoration and Infrastructure (Erosion Risk Management) 
+CFN 61338...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 4
+
+--- Document 2 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase II – Western Headland 
+Project Brief  
+ 
+Toronto and Region Conservation Authority    |    i 
+ 
+Table of Contents 
+1 INTRODUCTION.................. 1 
+ Project Background.. 1...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 2
+
+--- Document 3 ---
+Content:
+HUMBER BAY PARK EAST SHORELINE MAINTENANCE 
+PROJECT: PHASE II – WESTERN HEADLAND 
+Project Brief 
+ 
+ 
+February 2023...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 1
+
+--- Document 4 ---
+Content:
+Humber Bay Park East Major Maintenance Project – Concept Brief 
+Toronto and Region Conservation Authority    |    i 
+Table of Contents 
+1 INTRODUCTION........................... 0 
+2 SITE DESCRIPTION....................... 1...
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 2
+
+--- Document 5 ---
+Content:
+Humber Bay Park East Major Maintenance Project 
+Detailed Design Report (Draft, Phases 1 & 2)  TRCA Project No. 10020801 
+Toronto Region Conservation Authority  Shoreplan File 19-3133 
+ 
+  2 
+Figure 1-1 Project Site 
+ 
+ 
+  
+PHASE 1 
+PHASE 3 
+PHASE 2 ...
+Metadata:
+- **source**: Design Brief - Phase II_DRAFT.pdf
+- **page**: 7
+
+--- Document 6 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase II – Western Headland 
+Project Brief  
+ 
+Toronto and Region Conservation Authority    |    32 
+ 
+13 SITE RESTORATION AND MONITORING 
+ Restoration Plantings 
+Final site restoration will occur following completion of all three phases of the project, with the exception of 
+some preliminary restoration along the Eastern Headland (seeding and trail repairs) following completion of...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 35
+
+--- Document 7 ---
+Content:
+Humber Bay Park East Major Maintenance Project 
+Detailed Design Report (Final Phase 1)  TRCA Project No. 10020801 
+Toronto Region Conservation Authority  Shoreplan File 19-3133 
+ 
+  2 
+Figure 1-1 Project Site 
+ 
+ 
+  
+PHASE 1 
+PHASE 3 
+PHASE 2...
+Metadata:
+- **source**: Design Brief - Phase I.pdf
+- **page**: 6
+
+--- Document 8 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase II – Western Headland 
+Project Brief  
+ 
+Toronto and Region Conservation Authority    |    21 
+ 
+This investigation was carried out to prepare for Phase I of the works. TRCA staff will continue to follow these 
+mitigation measures during Phase II which will maintain the same access route into the site. 
+6 SCOPE OF WORK 
+The following scope of work will be completed as part of major maintenance for Phase II to ensure long-term...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 24
+
+--- Document 9 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase II – Western Headland 
+Project Brief  
+ 
+Toronto and Region Conservation Authority    |    1 
+ 
+1 INTRODUCTION 
+ Project Background 
+Humber Bay Park is a waterfront park that is located at the mouth of Mimico Creek on the north shore of Lake 
+Ontario in Etobicoke, City of Toronto. The park consists of two peninsulas (Humber Bay Park East and Humber...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 4
+
+--- Document 10 ---
+Content:
+Humber Bay Park East Major Maintenance Project 
+Detailed Design Report (Draft, Phases 1 & 2)  TRCA Project No. 10020801 
+Toronto Region Conservation Authority  Shoreplan File 19-3133 
+ 
+  i 
+Table of Contents 
+1 Introduction......................................................... 1 
+1.1 Report Structure....................................... 1...
+Metadata:
+- **source**: Design Brief - Phase II_DRAFT.pdf
+- **page**: 3
+
+--- Document 11 ---
+Content

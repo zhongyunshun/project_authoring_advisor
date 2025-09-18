@@ -1,0 +1,13 @@
+The decision-making process behind choosing specific erosion control structures, such as armourstone headlands and cobble/rubble beaches, typically involves a combination of factors including effectiveness, cost, environmental impact, and local conditions.
+
+1. **Effectiveness**: Armourstone headlands are selected for their structural stability and ability to withstand strong wave action. The Hudson equation is often used to determine appropriate armour stone sizes to ensure effectiveness under anticipated coastal conditions. These structures are designed to stabilize shorelines and prevent erosion by dissipating wave energy.
+
+2. **Treatment Options**: Different treatment options, including the use of cobble/rubble beaches, are considered based on their required quantity and size. Smaller cobble sizes may create a more user-friendly beach environment but require more material for adequate shoreline protection, resulting in higher costs and maintenance needs (Document 3). Therefore, management teams evaluate the trade-offs between user experience and structural integrity when making decisions.
+
+3. **Environmental Impact**: The environmental impact is a critical consideration. For example, implementing an embayment or headland structure may preserve fish habitats and contribute to biodiversity. The TRCA (Toronto and Region Conservation Authority) has identified certain areas as valuable fish habitats, which influences the design considerations for erosion control measures (Document 20).
+
+4. **Site-Specific Conditions**: The choice of structure is also influenced by site-specific assessments, which include analyzing existing coastal conditions, the presence of underwater habitat, and predicted wave overtopping scenarios to ensure long-term stability (Documents 19 and 22).
+
+5. **Cost Efficiency and Minimizing Disturbance**: Decisions often aim for a reduction in overall disturbance to the shoreline and minimizing construction costs. For instance, a decision to supplement existing structures instead of complete replacements can reduce environmental disruption and fiscal burden (Document 22).
+
+In summary, selecting erosion control structures involves evaluating the effectiveness of the proposed designs against environmental impacts, cost considerations, and specific site characteristics to arrive at the most suitable long-term solutions for shoreline stabilization and management.

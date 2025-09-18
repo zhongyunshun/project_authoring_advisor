@@ -1,0 +1,35 @@
+Based on the provided documents, here's an analysis of how the Humber Bay Park East Shoreline Maintenance Project Phase II, as described in the "HBPE Project Brief - Phase II" documents, impacts local wildlife, particularly aquatic species:
+
+**Baseline Inventory and Aquatic Species:**
+
+*   Several documents (Document 1, 10, 14) mention aquatic species identified in the baseline inventory. These include:
+    *   Alewives
+    *   White Suckers
+    *   Rainbow Smelt (native/introduced)
+    *   Round Goby (introduced/invasive)
+    *   Shorthead Redhorse (native)
+    *   Smallmouth Bass (native/introduced)
+    *   Spotfin Shiner (native)
+    *   Spottail Shiner (native)
+    *   Rainbow Trout (introduced)
+    *   Rock Bass (native)
+
+**Potential Impacts of Phase II:**
+
+*   **Aquatic Habitat Alteration & Loss:** Documents 3 and 13 (from the "Design Brief - Phase II_DRAFT") specifically address aquatic habitat alteration and loss due to the construction. The area of fish habitat that would be altered or lost is being evaluated. The design aims to minimize cutting and disturbing native material, potentially to reduce habitat loss.
+*   **Surcharged Revetment:** Document 8 and 18 mention the use of a surcharged revetment, which creates habitat features at the base of the structure. This is a potential mitigation measure to offset habitat loss, with Phase I already implementing this and Phase II planning a similar approach.
+*   **Erosion and Sediment Control:** Document 16 highlights the importance of erosion and sediment control measures (silt socks) to prevent deleterious substances from entering the watercourse during construction. This is crucial to protect aquatic life from sedimentation and pollution.
+*   **Site Restoration and Monitoring:** Document 17 indicates that final site restoration, including planting, will occur. This is important for long-term habitat recovery.
+*   **Planting Plan:** Document 20 outlines a preliminary planting plan for 152 on-site compensation plantings to mitigate project impacts, conforming to arborist report specifications.
+*   **Disturbance of Native Material:** Document 3 and 13 notes that the native material composition of the shoreline had potential to be contaminated and therefore the protection structures were designed to minimize cutting and disturbing of native material.
+
+**Overall Assessment:**
+
+The "HBPE Project Brief - Phase II" documents acknowledge the potential for negative impacts on aquatic habitat. The project incorporates several mitigation measures, including:
+
+*   Designing structures to minimize disturbance of native material.
+*   Implementing erosion and sediment control measures.
+*   Creating habitat features (surcharged revetment).
+*   Restoring the site with plantings.
+
+The documents suggest a focus on minimizing negative impacts and incorporating features to enhance aquatic habitat where possible. It's important to note that the effectiveness of these mitigation measures would need to be assessed through monitoring during and after construction.

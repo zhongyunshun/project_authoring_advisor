@@ -1,0 +1,54 @@
+```json
+[
+    {
+        "document_id": 5,
+        "page_number": 26,
+        "text": "Site setup including establishment of staging/stockpiling areas, removal of required trees, relocation of bird nesting boxes within the staging area, and installation of ESC measures, tree protection, and site perimeter control"
+    },
+    {
+        "document_id": 6,
+        "page_number": 15,
+        "text": "addressing the leading erosion concerns of the park , including low crest elevation and wave overtopping.  The proposed concepts have been designed to  address these concerns by plac ing new material over the existing structures where toe and slope stability permits, thereby minimizing excavation requirements. Two sections have"
+    },
+    {
+        "document_id": 10,
+        "page_number": 4,
+        "text": "Major maintenance is required to return these structures to a state of good repair and provide long-term protection to the Humber Bay Park East shoreline."
+    },
+    {
+        "document_id": 12,
+        "page_number": 36,
+        "text": "The site will be inspected during the first year after major storm events and on an annual basis thereafter to ensure that the implemented works are stable and performing as designed."
+    },
+    {
+        "document_id": 13,
+        "page_number": 4,
+        "text": "Major maintenance is required to return these structures to a state of good repair and provide long-term protection to the Humber Bay Park East shoreline."
+    },
+    {
+        "document_id": 14,
+        "page_number": 13,
+        "text": "Climate Change A considerable amount of research has been done on climate change and its expected effects on the Great Lakes and while results vary considerably, there is general consensus on several key points. Overall, water levels are expected to fall while severe storm frequency and intensity are"
+    },
+    {
+        "document_id": 15,
+        "page_number": 14,
+        "text": "Climate Change A considerable amount of research has been done on climate change and its expected effects on the Great Lakes and while results vary considerably, there is general consensus on several key"
+    },
+    {
+        "document_id": 17,
+        "page_number": 22,
+        "text": "It was assumed that the native material composition of the shoreline had potential to be contaminated and therefore the protection structures were designed to minimize cutting and disturbing of native material."
+    },
+    {
+        "document_id": 18,
+        "page_number": 37,
+        "text": "The site will be inspected during the first year after major storm events and on an annual basis thereafter to ensure that the implemented works are stable and performing as designed."
+    },
+    {
+        "document_id": 22,
+        "page_number": 34,
+        "text": "site restoration will be limited to regrading and seeding. The  full Restoration Plan will be part of the detailed designs for the final phase of the project and plantings will occur after the implementation"
+    }
+]
+```

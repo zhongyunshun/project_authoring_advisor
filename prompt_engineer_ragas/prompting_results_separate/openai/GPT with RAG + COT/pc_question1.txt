@@ -1,0 +1,21 @@
+The **Slope Stability and Erosion Risk Assessment** (SS&ERA) defines the **Long-Term Stable Slope Crest** (LTSSC) as the calculated position along a slope that can withstand erosion forces without compromising stability over an extended period. The assessment typically uses a **factor of safety** (FoS) to evaluate slope stability, with the LTSSC specifically denoted in contexts such as behind the properties on Peacham Crescent where a FoS of 1.5 has been commonly referenced.
+
+The criteria used to determine the LTSSC involve:
+
+1. **Subsurface Investigation**: This encompasses geological assessments and subsurface investigations to understand the material composition and conditions, which play a crucial role in the stability of a slope.
+  
+2. **Safety Factors**: A factor of safety of 1.5 is used as a benchmark in the assessments to ensure that the calculated slope can handle potential factors contributing to erosion and slope instability.
+
+3. **Slope Configuration**: The modeling of natural regression due to erosion forces takes into account various physical parameters including the presence of existing infrastructure and surrounding landscape features.
+
+4. **Impact Assessments**: Evaluations of how the projected LTSSC intersects with existing residential properties and infrastructure help in determining both stability and the potential impact of slope changes on human life and property.
+
+These criteria ensure that the LTSSC reflects a scientifically sound assessment of the slope's capacity to remain stable over time under various conditions. Sources from the TRCA documents provide extensive insight on these aspects, specifically highlighting the methodology from the investigations conducted by **Cole Engineering Group Ltd.** and **Soil Engineers Ltd.** as part of their works on the Peacham Crescent project.
+
+For further details, refer to the following passages from the retrieved documents:
+
+- **Document 2**: Discusses the modeling of the LTSSC and the subsurface investigation conducted to delineate the slope.
+- **Document 6**: Mentions the factor of safety and its implications for human life and property.
+- **Document 11**: Describes the SS&ERA's role in revealing the LTSSC and the risks associated with slope instability.
+
+If you need more specific extracts from the documents or further details, please let me know!

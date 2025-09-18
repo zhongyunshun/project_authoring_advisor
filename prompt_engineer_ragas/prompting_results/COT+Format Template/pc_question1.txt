@@ -1,0 +1,16 @@
+The "Long-Term Stable Slope Crest" (LTSSC) is defined within the context of slope stability assessments as the projected line that represents the stable condition of a slope, taking into consideration the natural regression caused by erosion forces and the composition and conditions of substrate materials. This definition is critical in the design and implementation of erosion control and slope stabilization projects, particularly in sensitive areas like Peacham Crescent.
+
+In the case of the Peacham Crescent projects, the criteria for determining the LTSSC involve several key factors:
+
+1. **Factor of Safety (FoS)**: The LTSSC is typically calculated using a specified factor of safety, which in this context has been determined to be 1.5. This factor is used to ensure that the slope remains stable under expected load conditions and environmental influences.
+
+2. **Subsurface Investigation**: Detailed subsurface investigations, such as borehole drilling and geotechnical assessments, are conducted to gather information about soil composition, moisture conditions, and other relevant geotechnical data. These investigations help delineate the LTSSC accurately.
+
+3. **Impact Assessment**: The LTSSC is evaluated in relation to existing structures, public pathways, and infrastructures to assess potential risks from erosion and slope instability. The proximity of the LTSSC to residential dwellings and essential structures is a significant consideration in the assessment.
+
+4. **Historical Context**: Previous events, such as severe weather incidents that have caused slumping or instability, inform the assessment of the LTSSC. This historical data helps in understanding the risks and necessary measures for stabilization.
+
+In summary, the LTSSC is a vital component in the management of slope stability and erosion risks, particularly for the Peacham Crescent area, where detailed assessments and criteria are applied to ensure the safety and integrity of the surrounding properties and infrastructure.
+
+**Sources**: 
+- Documents from the "Peacham Class EA Project Plan" and "Slope Stability & Erosion Risk Assessment" conducted by the Toronto and Region Conservation Authority and associated engineering firms.

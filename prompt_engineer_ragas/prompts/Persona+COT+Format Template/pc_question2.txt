@@ -1,0 +1,333 @@
+
+# Persona
+"goal": "You are designed to be a specialized question-answering assistant, focusing on providing accurate answers based on Toronto and Region Conservation Authority (TRCA)'s technical documents, supplemented by web search results and GPT-4's knowledge base. The query will be delimited with four hashtags (i.e., ####)."
+        
+
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "
+--- Document 1 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    22 
+ 
+Wildlife Populations 
+There are no significant wildlife populations identified within the Project limits; therefore, there are no 
+anticipated impacts resulting from the proposed works. 
+Wetlands 
+There were two wetland vegetation communities observed along the southern limits of the Project area,...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 28
+
+--- Document 2 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    40 
+ 
+Screening Criteria 
+Rating of Potential Effects 
+-H -M -L NIL +L +M +H NA Comments 
+Biological                                                                                                                                   
+Wildlife Habitat          
+Habitat Linkages or Corridors          
+Significant Vegetation 
+Communities    ...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 46
+
+--- Document 3 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    20 
+ 
+existing natural habitat within the Project limits. However, in effort to minimize impacts, all construction 
+activities are planned to have the smallest construction footprint as possible and occur outside of key 
+migration and breeding windows when habitat use is not as crucial. A comprehensive restoration plan will...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 26
+
+--- Document 4 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    15 
+ 
+2.2.2 Biological Studies 
+A)  Ecology Survey (TRCA, 2018a) 
+A terrestrial biological survey of the natural area within and surrounding the Project area was undertaken 
+by TRCA’s Environmental Monitoring and Data Management (EMDM) to inventory existing flora, fauna,...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 21
+
+--- Document 5 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    38 
+ 
+less impact on existing vegetation and excess soil removal than  Alternative 2 and provides an opportunity to 
+address drainage and stormwater runoff concerns within the Project limits. 
+This selected alternative meets all three (3) of the Project objectives: 
+Objective 1 – Risk mitigation...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 44
+
+--- Document 6 ---
+Content:
+For additional information pertaining to the tree inventory and proposed removals/injuries, please refer to 
+TRCA’s Arborist Report and Tree Preservation Plan for Peacham Crescent Slope Stabilization Project. 
+ Species at Risk 
+A terrestrial biological survey of the natural area within and surrounding the Project area was undertaken by 
+TRCA’s Environmental Monitoring and Data Management (EMDM) in 2018 to inventory existing flora, fauna, and...
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 10
+
+--- Document 7 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    23 
+ 
+Riparian Uses 
+There are no significant riparian uses within the Project limits; therefore, there will be no impacts resulting 
+from the proposed works. 
+Recreational or Tourist Uses of a Waterbody and/or Adjacent Lands 
+The adjacent parkland corridor behind Peacham Crescent is actively used for recreational purposes. There...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 29
+
+--- Document 8 ---
+Content:
+Peacham Crescent Slope Stabilization Project – Project Brief 
+Toronto and Region Conservation Authority    |    12 
+9 EROSION AND SEDIMENT CONTROL MEASURES 
+Prior to the start of construction, the Work Area will be isolated with standard sediment control fencing to 
+prevent the entry of deleterious substances into the watercourse. All barriers will be inspected and maintained 
+in proper working order throughout the duration of construction and will remain in place until the site is...
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 15
+
+--- Document 9 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    12 
+ 
+2.0 BACKGROUND 
+This section provides an overview of the causes and extent of erosion and slope instability hazards 
+impacting the Project site and includes justification for TRCA’s involvement and approach to developing a 
+remedial solution. The studies and assessments undertaken by TRCA to evaluate the Project site are listed...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 18
+
+--- Document 10 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    31 
+ 
+Existing Tourism Operation 
+There are no existing tourism operations within or adjacent to the Project limits; therefore, there will be 
+no impacts resulting from the proposed works. 
+Property Accessibility 
+Two possible access route options have been proposed to gain access to the slope behind 21, 23, and 25...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 37
+
+--- Document 11 ---
+Content:
+Erosion Control Projects (Class EA) (amended 2013). The purpose of the Peacham Crescent Slope Stabilization 
+Project (hereafter referred to as “the Project”), is to take action to protect human life and property from the 
+hazards of valley slope erosion by providing long -term, low maintenance protection for the three (3) private 
+properties within the Project limits.  
+This Project Plan has been prepared as documentation of the decision-making process exercised when selecting...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 7
+
+--- Document 12 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    17 
+ 
+3.1.1 Physical Environment 
+Unique Landforms 
+There are no known unique landforms within or adjacent to the Project limits; therefore, there will be no 
+impacts resulting from the proposed works. 
+Existing Mineral/Aggregate Resource Extraction Industries...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 23
+
+--- Document 13 ---
+Content:
+removal will be minimal and highly selective; therefore, there should be no overall impact to the welfare 
+of vegetation communities within the parkland corridor behind Peacham Crescent resulting from the 
+proposed works.  
+Environmentally Significant Areas (ESA) – Biological 
+There are no Environmentally Significant Areas (ESA) within or adjacent to the Project limits; therefore, 
+there will be no impact from the proposed works. 
+Fish Habitat...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 26
+
+--- Document 14 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+     Toronto and Region Conservation Authority    |    10 
+ 
+• The location of the projected long-term stable slope crest (LTSSC) in relation to permanent and essential 
+structures at the top of slope; 
+• The presence of a public footpath at the base of slope; and 
+• The presence of potentially impacted infrastructure located within the tributary and surrounding area...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 16
+
+--- Document 15 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    32 
+ 
+3.1.5 Engineering/Technical Environment 
+Rate of Erosion in Ecosystem 
+The potential for erosion and slope instability within a local ecosystem is greatly influenced by the type of 
+landuse of the surrounding areas. Although the Project site is surrounded by urban landuse, the overall...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 38
+
+--- Document 16 ---
+Content:
+extent of erosion and slope instability within the ravine system behind Peacham Crescent is  low due to 
+the existence of dense vegetation  along the ravine slopes . The established tree and undergrowth 
+communities within the parkland corridor greatly help to disperse the energy of overland runoff, secure 
+soil materials, and contribute to water absorption,  ultimately reducing the overall impact of erosional...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 38
+
+--- Document 17 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    42 
+ 
+6.1 Public Notifications and Consultation 
+In accordance with the Class EA process, the first point of public contact occurred with the publication of the 
+Notice of Intent on November 22, 2018.  
+Notices were sent to community groups, homeowners in the vicinity of the Project site, Indigenous communities,...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 48
+
+--- Document 18 ---
+Content:
+Peacham Crescent and will result in only minimal impacts to bird habitat through the removal of select 
+canopy trees. Additionally, construction activities will only occur outside of the bird breeding window. As 
+such, these proposed works should not impact breeding bird activities. 
+Exotic/Alien and Invasive Species 
+The 2018 ecology survey identified 16 exotic plant species within its expanded Study Area, accounting for...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 27
+
+--- Document 19 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+     Toronto and Region Conservation Authority    |    6 
+ 
+1.3 Description of the Study Area 
+Following the July 8, 2013 severe weather event, significant slumping ; slippage; and slope instability w ere 
+reported to have occurred behind three properties on Peacham Crescent, spanning approximately 52 metres of...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 12
+
+--- Document 20 ---
+Content:
+works supported by the ERMP to provide long-term protection for life and property. 
+The Peacham Crescent Slope Stabilization P roject is being completed in accordance with the Class Environmental 
+Assessment for Remedial Flood and Erosion Control Projects, amended 2013 (Class EA), with the objective of reducing risk 
+to life and property, as per the mandate of Conservation Authoriti es under the Conservation Authorities Act (R.S.O 1990)....
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 3
+
+--- Document 21 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    39 
+ 
+Table 3. Detailed Environmental Analysis of the Preferred Alternative – MSE Structure 
+Screening Criteria 
+Rating of Potential Effects 
+-H -M -L NIL +L +M +H NA Comments 
+Physical                                                                                                                                   
+Unique Landforms    ...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 45
+
+--- Document 22 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    41 
+ 
+Screening Criteria 
+Rating of Potential Effects 
+-H -M -L NIL +L +M +H NA Comments 
+Historic Canals          
+Federal Property          
+Heritage River System          
+Socioeconomic  
+Surrounding Neighbourhood or 
+Community          
+Surrounding Land Uses or Growth 
+Pressure          
+Existing Infrastructure, Support...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 47
+"
+}
+        
+
+# Chain of Thought
+Step 1: #### Refer to TRCA's technical documents first.
+Step 2: #### If the information is incomplete, use web search for current data.
+Step 3: #### If still unresolved, utilize GPT-4's knowledge (up to its training cutoff).
+Step 4: #### Cite sources from TRCA docs or web. Indicate if info is based on GPT-4's training data.
+        
+
+# Format Template
+You are designed to ask for clarifications in case of ambiguous queries or when more specific details are needed.
+The tone of the responses will be professional, focusing on clarity, accuracy, and relevance, suitable for the technical nature of TRCA's content.
+Cite the sources of information from TRCA's documents, web search results, or GPT-4's training data when applicable.
+        
+The query will be delimited with #### characters: #### In light of the findings from the Ecology Survey Memorandum for the Peacham Crescent Erosion Control and Slope Stabilization Project, what specific measures are proposed to mitigate impacts on local wildlife, especially concerning species identified in the vicinity? ####
+
+# Few-Shot Example
+Query: "Can you outline the phased approach for the Humber Bay Park East Shoreline Maintenance Project?"
+Retrieved passages: "The eastern armourstone headland ... a risk to park users."
+Answer: "The Humber Bay Park East Shoreline Maintenance Project is divided into multiple phases, each with specific timelines. The available document focuses on Phase I..."
+        

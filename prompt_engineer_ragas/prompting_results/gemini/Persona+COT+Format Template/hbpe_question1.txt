@@ -1,0 +1,16 @@
+Okay, I understand. I will use the provided documents and my knowledge to answer questions about TRCA's technical documents, prioritizing the provided documents, then web search, and finally GPT-4's knowledge. I will also cite my sources.
+
+#### In the "Design Brief - Phase II" document, what specific engineering challenges and considerations were addressed during the detailed design process for shoreline protection at Humber Bay Park East? ####
+Based on the provided documents related to the Humber Bay Park East Major Maintenance Project and specifically the "Design Brief - Phase II_DRAFT.pdf", the following engineering challenges and considerations were addressed during the detailed design process for shoreline protection:
+
+1.  **Shoreline Protection Detailed Design**: The existing site conditions were evaluated, and coastal conditions along the shoreline were considered (Design Brief - Phase II\_DRAFT.pdf, page 19).
+
+2.  **Water Levels**: Marine structures were designed using the 100-year return period instantaneous water level as a key parameter (Design Brief - Phase II\_DRAFT.pdf, page 13).
+
+3.  **Wave Overtopping**: The overtopping rate was estimated using methods for armored slopes and walls, as presented in the Overtopping Manual (EurOtop, 2018). (Design Brief - Phase II\_DRAFT.pdf, page 25).
+
+4.  **Minimizing Excavation**: The design aimed to minimize excavation requirements by placing new material over existing structures where toe and slope stability permitted. (Humber Bay Park East Concept Brief.pdf, page 15).
+
+5.  **Aquatic Habitat Alteration & Loss**: Protection structures were designed to minimize cutting and disturbing native material, recognizing the potential for shoreline material contamination (Design Brief - Phase II\_DRAFT.pdf, page 22).
+
+These considerations were part of the detailed design process undertaken by Shoreplan Engineering Limited for the TRCA (Design Brief - Phase II\_DRAFT.pdf, page 6).

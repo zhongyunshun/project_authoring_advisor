@@ -1,0 +1,7 @@
+,gm_question1,gm_question10,gm_question2,gm_question3,gm_question4,gm_question5,gm_question6,gm_question7,gm_question8,gm_question9,hbpe_question1,hbpe_question10,hbpe_question2,hbpe_question3,hbpe_question4,hbpe_question5,hbpe_question6,hbpe_question7,hbpe_question8,hbpe_question9,pc_question1,pc_question10,pc_question2,pc_question3,pc_question4,pc_question5,pc_question6,pc_question7,pc_question8,pc_question9,Average
+Persona+COT+Format Template,19,20,20,20,18,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,19,20,20,19.866666666666667
+COT+Format Template,19,20,20,20,20,20,20,19,20,20,20,19,18,20,18,20,18,20,20,20,19,19,19,20,15,20,20,18,15,20,19.2
+Persona+Format Template,19,20,20,20,17,20,20,18,17,20,20,20,17,20,20,20,20,20,20,20,20,20,20,19,18,20,19,19,20,20,19.433333333333334
+Persona+COT,18,20,18,20,18,20,20,18,19,20,20,19,15,20,19,20,19,18,20,19,19,20,19,19,19,20,18,20,20,20,19.133333333333333
+GPT with RAG only,18,19,18,18,18,18,19,17,18,18,20,18,17,20,19,20,18,18,19,20,18,18,18,18,16,20,19,17,15,20,18.3
+Original GPT without RAG,17,18,14,15,16,12,15,16,16,17,0,17,10,15,18,0,15,18,19,18,17,10,15,5,10,0,12,5,10,15,12.833333333333334

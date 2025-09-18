@@ -1,0 +1,18 @@
+```json
+[
+    {
+        "answer": "The documents provide information on how the Long-Term Stable Slope Crest (LTSSC) is determined in the context of the Peacham Crescent projects:\n\n*   **Definition:** Document 2 states \"The LTSSC models the natural regression of a slope crest resulting from erosion forces and is based on the composition and conditions of substrate materials.\"\n*   **Determination Criteria and Methodology:**\n    *   **Factor of Safety (FoS):**  The LTSSC is determined using a factor of safety (FoS).  Documents 2, 3, 4, 6 and 9 mention factors of safety of 1.5 and 1.3 being used in different assessments. Document 3 refers to \"Long Term Stable Slope Crest (LTSSC) (FS 1.3)\" and Document 4 refers to \"The LTSSC projected behind Peacham Crescent, in the City of Toronto, with a factor of safety of 1.5\".\n    *   **Subsurface Investigation:** Cole Engineering Group Ltd. conducted a subsurface investigation to delineate the LTSSC behind Peacham Crescent (Document 2).\n    *   **Geotechnical Investigation & Borehole Drilling:** Soil Engineers Ltd. conducted borehole drilling to evaluate the LTSSC (Document 8). Document 9 mentions Cole Engineering Group Ltd. worked with Soil Engineers Ltd. to advance five (5) boreholes, one of which was used as a monitoring well to assess ground water conditions, to determine the LTSSC.\n    *   **Slope Stability & Erosion Risk Assessment (SS&ERA):**  The LTSSC was revealed as part of the SS&ERA (Document 11).\n    *   **Consideration of Erosion Forces:** The LTSCC models the natural regression of a slope crest resulting from erosion forces (Document 2).\n    *   **Stable Gradient and Toe Erosion Setbacks:**  The Long-Term Stable Slope Line (LTSSL), incorporating the stable gradient and toe erosion setbacks, is presented on the stable/remodeled slope Drawings (Document 7).\n*   **Impact and Mitigation:**\n    *   Document 6 states that the LTSSC for a Factor of Safety of 1.5 would intersect the residential dwelling at 21 Peacham Crescent, leading to slope stabilization work.\n    *   Document 15 mentions that the area between the existing top of bank and the LTSSC will be at risk of being undermined, and that the \"Do Nothing\" approach is not desired due to the LTSSC crossing through the footprint of the existing building.",
+        "sources": [
+            "2",
+            "3",
+            "4",
+            "6",
+            "7",
+            "8",
+            "9",
+            "11",
+            "15"
+        ]
+    }
+]
+```

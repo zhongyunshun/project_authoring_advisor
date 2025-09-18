@@ -1,0 +1,7 @@
+#### The "Design Brief - Phase II_DRAFT.pdf" and "Design Brief - Phase I.pdf" documents detail the engineering challenges and considerations for shoreline protection at Humber Bay Park East. These include:
+
+*   **Shoreline Protection Design:** Detailed design of shoreline protection for the eastern part of the site, from the beach area on the south side to the north-easterly headland of Humber Bay Park East. The project was split into three phases, with Phase 2 focusing on the southern headland and Phase 3 addressing the concrete rubble and gravel beach (Design Brief - Phase II_DRAFT.pdf, page 6; Design Brief - Phase I.pdf, page 5).
+*   **Coastal Conditions:** Evaluation of existing site conditions and coastal conditions along the shoreline (Design Brief - Phase II_DRAFT.pdf, page 19; Design Brief - Phase I.pdf, page 18).
+*   **Minimizing Disturbance:** Protection structures were designed to minimize cutting and disturbing native material, considering potential contamination (Design Brief - Phase II_DRAFT.pdf, page 22).
+*   **Water Levels:** Marine structures were designed using the 100-year return period instantaneous water level (Design Brief - Phase II_DRAFT.pdf, page 13).
+*   **Wave Overtopping:** Overtopping rates were estimated using methods for armored slopes and walls (EurOtop, 2018) (Design Brief - Phase II_DRAFT.pdf, page 25).

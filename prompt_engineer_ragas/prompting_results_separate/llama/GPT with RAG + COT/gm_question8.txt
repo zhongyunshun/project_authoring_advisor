@@ -1,0 +1,134 @@
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "
+--- Document 1 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase I – Eastern Headland 
+Project Brief  
+Toronto and Region Conservation Authority    |    33 
+ Post Construction Monitoring 
+The site will be inspected during the first year after major storm events and on an annual basis thereafter to 
+ensure that the implemented works are stable and performing as designed. Any maintenance requir ed will be...
+Metadata:
+- **source**: HBPE Project Brief - Phase I.pdf
+- **page**: 36
+
+--- Document 2 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase II – Western Headland 
+Project Brief  
+ 
+Toronto and Region Conservation Authority    |    34 
+ 
+ Post Construction Monitoring 
+The site will be inspected during the first year after major storm events and on an annual basis thereafter to 
+ensure that the implemented works are stable and performing as designed. Any maintenance required will be...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 37
+
+--- Document 3 ---
+Content:
+Humber Bay Park East Major Maintenance Project – Concept Brief 
+Toronto and Region Conservation Authority    |    12 
+addressing the leading erosion concerns of the park , including low crest elevation and wave overtopping.  The 
+proposed concepts have been designed to  address these concerns by plac ing new material over the existing 
+structures where toe and slope stability permits, thereby minimizing excavation requirements. Two sections have...
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 15
+
+--- Document 4 ---
+Content:
+Humber Bay Park East Major Maintenance Project – Concept Brief 
+Toronto and Region Conservation Authority    |    i 
+Table of Contents 
+1 INTRODUCTION........................... 0 
+2 SITE DESCRIPTION....................... 1...
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 2
+
+--- Document 5 ---
+Content:
+the Humber Bay Park East shoreline.  
+ Phasing 
+Due to the extent of the project area and the multi-year nature of construction, the Project has been divided 
+into three phases for design and implementation:  
+PROJECT NAME Humber Bay Park East Shoreline Maintenance Project 
+REGION City of Toronto 
+TRCA DIVISION Restoration and Infrastructure (Erosion Risk Management) 
+CFN 61338...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 4
+
+--- Document 6 ---
+Content:
+DETAILED DESIGN REPORT  
+ 
+ 
+ 
+TORONTO AND  REGION  CONSERVATION   AUTHORITY 
+ 
+Humber Bay Park East  
+Major Maintenance Project 
+  
+ 
+ 
+Prepared by 
+Shoreplan  
+Engineering Limited 
+ 
+ 
+ 
+October 2021...
+Metadata:
+- **source**: Design Brief - Phase I.pdf
+- **page**: 1
+
+--- Document 7 ---
+Content:
+Humber Bay Park East Major Maintenance Project – Concept Brief 
+Toronto and Region Conservation Authority    |    2 
+ 
+Figure 2. Location of pond drainage at eastern limit of Armourstone Headland WF11.10. Source: TRCA, 2021.  
+ Existing Erosion Control Structures 
+The condition of each of the three erosion control structures within the project area is summarized in Table 1. 
+Photos and sketches of the structures are presented in Figure 3 through Figure 12....
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 5
+
+--- Document 8 ---
+Content:
+Humber Bay Park East Major Maintenance Project 
+Detailed Design Report (Final Phase 1)  TRCA Project No. 10020801 
+Toronto Region Conservation Authority  Shoreplan File 19-3133 
+ 
+  14 
+4 Shoreline Protection Detailed Design 
+Shoreplan has evaluated the existing site  conditions as described in Section 2, and considered 
+the coastal conditions along the shoreline described in Section 3 of this report.  
+4.1 Conceptual Design Options...
+Metadata:
+- **source**: Design Brief - Phase I.pdf
+- **page**: 18
+
+--- Document 9 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase II – Western Headland 
+Project Brief  
+Toronto and Region Conservation Authority    |    29 
+9 EROSION AND SEDIMENT CONTROL MEASURES 
+Prior to the start of construction, staging and stockpiling areas will be isolated with standard silt socks to prevent 
+the entry of deleterious substances into the watercourse, as shown previously Figure 24. All barriers will be...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 32
+
+--- Document 10 ---
+Content:
+the 2017 and 2019  high lake level events as well as the  April 14-15, 2018 wind storm. Major maintenance is 
+required to return these structures to a state of good

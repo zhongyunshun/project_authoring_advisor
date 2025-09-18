@@ -1,0 +1,104 @@
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "
+--- Document 1 ---
+Content:
+previously noted, habitat disturbance within the Project limits will be mitigated through a comprehensive 
+restoration plan, which will focus on rebuilding the local habitat through the planting of suitable native 
+species and ultimately help to create a more robust local environment. 
+Significant Vegetation Communities 
+There are twelve different types of vegetation communities that exist within, or extend into, the Project...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 26
+
+--- Document 2 ---
+Content:
+heavy machinery within the Project limits, the impacts resulting from the proposed works on the  
+aforementioned species of concern will be minimal; tree or shrub removals will be planned and highly 
+selective. Additionally, post -construction restoration activities will focus on replanting suitable native 
+species to compensate for those that were removed and enhance the overall biodiversity of the Project...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 27
+
+--- Document 3 ---
+Content:
+Phase I to allow for public access to a portion of the park. Until this final restoration plan is developed, 
+preliminary planting plans have been drafted for Phases I and II. These plans represent a commitment to plant a 
+certain number of trees during final restoration and will be combined, updated and finalized into the full 
+planting plan for the site. 
+The Phase I preliminary plan involves the on-site planting of 280 trees whose approximate locations are shown...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 35
+
+--- Document 4 ---
+Content:
+main objectives of the proposed works is to enhance naturalization of the Project area. Thus, the proposed 
+works will result in the removal of exotic species within the Project limits and additional plantings of 
+suitable native species....
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 27
+
+--- Document 5 ---
+Content:
+Buckthorn are recognized (e.g. wildlife habitat, water quality, carbon sequestration), an ecological gain from the perspective of improving native species representation is expected once restoration plantings of native species are established. Tree removal numbers should be determined during detailed design to include construction-related disturbances and plan any refinements.   At this Conceptual Design phase, approximate percentages of tree removal by species has been calculated based on the...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 226
+
+--- Document 6 ---
+Content:
+restoration plans;
+     j)    natural features, areas and systems 
+contributing to the conservation of land , 
+including areas providing hydrologic 
+functions and ecological functions  
+are avoided or mitigated, pollution  is 
+prevented and erosion hazards have 
+been adequately addressed;...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 649
+
+--- Document 7 ---
+Content:
+several other species. Following TRCA’s replication ratio standards, 92 trees and 2291 shrubs are anticipated to 
+be planted during site restoration to compensate for the removals. Please refer to Section 2.4 of the Design Brief 
+(Greck and Associates Limited, 2020) for further details.  
+ Vibration and Construction Impacts 
+Due to the location of the project, there is no anticipated risk to adjacent properties or structures from vibration...
+Metadata:
+- **source**: 2021-02-24 Project Brief_90 percent.pdf
+- **page**: 9
+
+--- Document 8 ---
+Content:
+fish habitat. Please refer to Section 6.1 Fish Habitat During Construction of the Design Brief (Greck and Associates 
+Limited, 2020) for further details. 
+11 SITE RESTORATION AND MONITORING 
+ Restoration Plantings 
+As noted above, a total of 105 trees will need to be removed to facilitate construction. This equals 899 tree units 
+to be replaced under TRCA’s 2018 Guideline for Determining Ecosystem Compensation. For this project, six shrubs...
+Metadata:
+- **source**: 2021-02-24 Project Brief_90 percent.pdf
+- **page**: 11
+
+--- Document 9 ---
+Content:
+an opportunity for habitat improvements. The works will strive to serve an overall 
+ecological benefit to the area through natural design and restoration practices where the 
+following can be incorporated:...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 187
+
+--- Document 10 ---
+Content:
+Objective 2 – Naturalization 
+The preferred alternative supports the native terrestrial ecosystem habitat by supporting local biodiversity and 
+resiliency through the incorporation of native vegetation within the structure design. The face of the MSE 
+structure is designed to support the

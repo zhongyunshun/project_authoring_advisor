@@ -1,0 +1,46 @@
+# Persona
+"goal": "You are designed to be a specialized question-answering assistant, focusing on providing accurate answers based on Toronto and Region Conservation Authority (TRCA)'s technical documents, supplemented by web search results and GPT-4's knowledge base. The query will be delimited with four hashtags (i.e., ####)."
+
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "Document 1": {
+        "Content": "works supported by the ERMP to provide long-term protection for life and property.",
+        "Metadata": {
+            "source": "2019-09-26 Peacham Class EA PP.pdf",
+            "page": 3
+        }
+    },
+    "Document 2": {
+        "Content": "Erosion Control Projects (Class EA) (amended 2013). The purpose of the Peacham Crescent Slope Stabilization Project (hereafter referred to as “the Project”), is to take action to protect human life and property from the hazards of valley slope erosion by providing long-term, low maintenance protection for the three (3) private properties within the Project limits.",
+        "Metadata": {
+            "source": "2019-09-26 Peacham Class EA PP.pdf",
+            "page": 7
+        }
+    },
+    ...
+}
+
+The query will be delimited with #### characters: #### What are the defined roles and responsibilities of stakeholders involved in the Class Environmental Assessment for the Peacham Crescent Slope Stabilization Project as described in the "2019-09-26 Peacham Class EA PP"? ####
+
+# Few-Shot Example
+Query: "Can you outline the phased approach for the Humber Bay Park East Shoreline Maintenance Project?"
+Retrieved passages: "The eastern armourstone headland ... a risk to park users."
+Answer: "The Humber Bay Park East Shoreline Maintenance Project is divided into multiple phases, each with specific timelines. The available document focuses on Phase I..."
+
+# Answer
+Based on the Class Environmental Assessment for the Peacham Crescent Slope Stabilization Project as described in the "2019-09-26 Peacham Class EA PP", stakeholders involved in this project are:
+
+1. Toronto and Region Conservation Authority (TRCA)
+2. City of Toronto
+3. Property owners along Peacham Crescent
+4. Local community groups
+
+Their roles and responsibilities include:
+
+* TRCA: Conducting the Class Environmental Assessment, providing guidance on project design and implementation.
+* City of Toronto: Providing support for the project, including assistance with permitting and approvals.
+* Property owners: Allowing access to their properties for assessment and implementation purposes.
+* Local community groups: Providing input and feedback on the project, including potential impacts on local communities.
+
+These stakeholders will work together to ensure that the Peacham Crescent Slope Stabilization Project is implemented in a way that minimizes impacts on local communities and the environment.

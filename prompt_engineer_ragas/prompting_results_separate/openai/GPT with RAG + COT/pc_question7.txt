@@ -1,0 +1,17 @@
+The key factors influencing the selection of the preferred conceptual slope stabilization alternatives for the sites at 21, 23, and 25 Peacham Crescent, as detailed in the "2019-04-02 Conceptual Alt. Report Peacham_Final", include:
+
+1. **Geotechnical Analysis**: The alternatives were developed based on geotechnical conditions identified by previous assessments. The predominant soil type behind the properties was characterized as very loose to compact/soft to stiff earth fill materials, which necessitated approaches that could effectively stabilize these conditions.
+
+2. **Factor of Safety (FOS)**: The selected alternatives incorporated a Factor of Safety of 1.3, which was specified by the Toronto and Region Conservation Authority (TRCA) as a requirement for the conceptual stabilization designs.
+
+3. **Assessment of Alternatives**: A total of five potential alternatives were evaluated according to their feasibility, constructability, and cost. This evaluation considered the advantages and disadvantages of each method for addressing slope failure.
+
+4. **Stakeholder Feedback**: After a thirty-day stakeholder and public review period, feedback was taken into account to refine and finalize the preferred alternative.
+
+5. **Project Objectives**: The alternatives were judged against the project's objectives, including risk mitigation, minimizing environmental impact, and addressing drainage and stormwater concerns effectively.
+
+6. **Regulatory Compliance**: Ensuring that the chosen methods met all required regulatory standards and environmental protection protocols.
+
+The preferred alternative, identified as the Mechanically Stabilized Earth (MSE) Structure, was selected due to its anticipated lower impact on existing vegetation and its capacity to address drainage and runoff issues. This alternative was deemed the most suitable for fulfilling the project objectives while being practical for implementation. 
+
+These points are summarized based on the document and emphasize the critical considerations that guided the decision-making process for the slope stabilization project.

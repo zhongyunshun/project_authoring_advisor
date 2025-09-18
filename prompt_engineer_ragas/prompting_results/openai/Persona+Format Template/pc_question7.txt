@@ -1,0 +1,13 @@
+The selection of the preferred conceptual slope stabilization alternatives for the project behind 21, 23, and 25 Peacham Crescent was influenced by several key factors as outlined in the "2019-04-02 Conceptual Alt. Report Peacham_Final." These factors included:
+
+1. **Geotechnical Considerations**: The slope stabilization solutions were based on geotechnical assessments, ensuring that the selected alternative provided adequate stability. A specific Factor of Safety (FOS) of 1.3 was requested, guiding the design considerations and alternatives offered (Document 9).
+
+2. **Environmental Impact**: The evaluation of alternatives included a detailed environmental analysis to minimize impacts on existing vegetation and ecosystems. The chosen alternatives aimed to balance effective stabilization with ecological preservation (Document 4).
+
+3. **Feasibility and Constructability**: The practicality of implementing each alternative was a crucial factor. The alternatives were assessed based on their feasibility and the potential challenges associated with their construction (Document 17).
+
+4. **Cost Effectiveness**: Financial implications played a significant role in the selection process. The alternatives were examined for their cost estimates and overall affordability, ensuring that the preferred solution fit within the project's budgetary constraints (Document 5).
+
+5. **Stakeholder Feedback**: The results of the evaluation were subject to a stakeholder and public review process, ensuring that community concerns were addressed and considered in the final decision (Document 11).
+
+The culmination of these factors led to the identification of the Mechanically Stabilized Earth (MSE) Structure as the preferred solution for slope stabilization efforts in the project area.

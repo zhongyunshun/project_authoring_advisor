@@ -1,0 +1,16 @@
+The detailed design process for shoreline protection at Humber Bay Park East, as outlined in the "Design Brief - Phase II" document, addresses several engineering challenges and considerations. Key aspects include:
+
+1. **Erosion and Sediment Control**: The design emphasizes the need for effective erosion control measures, especially in high-wave action areas. The shoreline has been evaluated to address existing erosion concerns, including low crest elevation and wave overtopping.
+
+2. **Site Condition Assessment**: Shoreplan Engineering conducted multiple site visits to assess existing conditions and inform the detailed design. This includes considering the native material composition of the shoreline and potential contamination risks.
+
+3. **Wave Overtopping**: The design process rigorously considers wave overtopping rates and the potential impact on infrastructure and ecological features. This is crucial for ensuring the longevity and effectiveness of the shoreline protection.
+
+4. **Habitat Features**: The inclusion of habitat features was a significant part of the design, especially for the transition zones. These features aim to enhance the ecological value of the shoreline while providing structural support.
+
+5. **Construction Costs and Design Considerations**: Detailed estimations regarding construction costs and the structural capabilities needed to withstand dynamic lake conditions were assessed. This ensures that the design is both economically feasible and technically robust.
+
+The document reflects a commitment to both engineering efficiency and environmental protection, crucial for a project of this nature. For more specific details, you may consult page 25 and other relevant sections of the "Design Brief - Phase II" document, where these challenges are elaborated. 
+
+Sources:
+- Design Brief - Phase II_DRAFT.pdf, TRCA Project No. 10020801, pages 6, 25.

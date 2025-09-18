@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "answer": "The documents mention several sustainable development practices implemented in the Humber Bay Park East Major Maintenance Project for long-term environmental conservation:\n\n*   **Minimizing Excavation:** The proposed concepts are designed to address erosion concerns by placing new material over existing structures where toe and slope stability permits, thereby minimizing excavation requirements (Document 6).\n*   **Climate Change Considerations:** Research on climate change and its expected effects on the Great Lakes is considered in the project's design (Documents 14 & 15). This includes accounting for potential changes in water levels and storm frequency/intensity.\n*   **Protection of Native Material:** The protection structures are designed to minimize cutting and disturbing of native material, considering the potential for contamination (Document 17).\n*   **Aquatic Habitat Considerations:** The project considers aquatic habitat alteration and loss (Document 17).\n*   **Site Restoration and Monitoring:** Site restoration includes regrading and seeding (Document 22). Post-construction monitoring is conducted to ensure the implemented works are stable and performing as designed. Inspections occur after major storm events and annually (Documents 12 & 18).",
+        "source_documents": [
+            "Document 6",
+            "Document 14",
+            "Document 15",
+            "Document 17",
+            "Document 12",
+            "Document 18",
+            "Document 22"
+        ]
+    }
+]
+```

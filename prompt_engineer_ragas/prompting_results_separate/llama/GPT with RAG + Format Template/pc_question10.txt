@@ -1,0 +1,97 @@
+#### Given the importance of biodiversity conservation, how does the "2021-09-29 Peacham Cres Project Brief" address potential impacts on biodiversity, particularly in relation to bat species and butternut trees identified in the area ? ####
+
+To answer this question, we need to refer to the retrieved passage:
+
+{
+    ...
+--- Document 3 ---
+Content:
+Peacham Crescent and will result in only minimal impacts to bird habitat through the removal of select canopy trees. 
+...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 27
+
+--- Document 8 ---
+Content:
+vegetation communities within the study area. This data was gathered to inform planning and design activities 
+and to ensure decisions are made with consideration of the local ecosystem. 
+3.5.1 Bat Species 
+Bat habitat is present within the project and appropriate compensation will be coordinated by TRCA’s ERM 
+Project staff in accordance with the Ontario Ministry of Environment, Conservation, and Parks (MECP) Bat 
+Survey Protocol....
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 10
+
+--- Document 12 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    38 
+ 
+...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 44
+
+--- Document 13 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    23 
+ 
+...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 29
+
+--- Document 15 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    17 
+ 
+...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 23
+
+--- Document 19 ---
+Content:
+Species of Concern - Flora 
+A butternut tree was identified within the limits of the proposed construction access route to the Project site. Due to the impacts of the disease known as butternut canker has had on butternut populations across...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 26
+
+--- Document 20 ---
+Content:
+Peacham Crescent Slope Stabilization Project – Project Brief 
+Toronto and Region Conservation Authority    |    13 
+12 CONSTRUCTION TIMING 
+Works are tentatively scheduled to commence in October 2021 pending the receipt of all necessary permits and approvals. Tree removals will only occur outside the nesting window between October 4th and October 22nd to avoid nesting birds (as per the Migratory Birds Convention Act). Weather forecasts and water levels will be...
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 16
+
+--- Document 21 ---
+Content:
+heavy machinery within the Project limits, the impacts resulting from the propos ed works on the  
+aforementioned species of concern will be minimal; t ree or shrub removals will be planned and highly 
+selective. Additionally, post -construction r estoration activities will focus on replanting suitable native 
+species to compensate for those that were removed and enhance the overall biodiversity of the Project...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 27
+
+The "2021-09-29 Peacham Cres Project Brief" addresses potential impacts on biodiversity, particularly in relation to bat species and butternut trees identified in the area. The document outlines measures to minimize impacts on biodiversity, including:
+
+* Selective tree removals
+* Post-construction restoration activities focused on replanting suitable native species
+
+These measures aim to mitigate potential impacts on biodiversity, particularly for bat species and butternut trees.
+
+References:
+- Source: 2019-09-26 Peacham Class EA PP.pdf
+- Page: 27

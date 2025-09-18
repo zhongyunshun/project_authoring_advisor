@@ -1,0 +1,5 @@
+```json
+{
+ "answer": "Yes, both the Humber Bay Park East Shoreline Maintenance Project and the Peacham Crescent Erosion Control and Slope Stabilization Project involve phased approaches. The Humber Bay Park East project is divided into three phases for design and implementation due to the extent of the project area and the multi-year nature of construction (HBPE Project Brief - Phase I.pdf, page 4 and HBPE Project Brief - Phase II.pdf, page 4). For Phase I of the Humber Bay Park East project, site restoration will be limited to regrading and seeding, with the full Restoration Plan being part of the detailed designs for the final phase of the project (HBPE Project Brief - Phase I.pdf, page 34)."
+}
+```

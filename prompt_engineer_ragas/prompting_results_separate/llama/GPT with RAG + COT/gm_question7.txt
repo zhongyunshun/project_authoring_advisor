@@ -1,0 +1,95 @@
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "
+--- Document 1 ---
+Content:
+4.3.5.2 Effects on Coastal Processes 
+The new revetment structures planned for Phase 2 of this project are placed on the same footprint 
+as the existing revetment structures and therefore have a minimal impact on local coastal 
+processes. 
+4.3.5.3  Stone Sizing 
+Armour stone sizes were selected for stability using the Hudson equation and using the design 
+coastal conditions detailed in Section 3 for design input. 
+4.3.5.4 Cut and Fill Volumes...
+Metadata:
+- **source**: Design Brief - Phase II_DRAFT.pdf
+- **page**: 25
+
+--- Document 2 ---
+Content:
+processes. The new revetment structure placed between stations 0+550m and 0+650m will 
+stabilize and prevent further erosion of the shoreline in that area. 
+4.3.3 Stone Sizing 
+Armour stone sizes were selected for stability using the Hudson equation and using the design 
+coastal conditions detailed in Section 3 for design input. 
+4.3.4 Cut and Fill Volumes  
+Cutting into the bank was  minimized during the design process to avoid exposing potential...
+Metadata:
+- **source**: Design Brief - Phase I.pdf
+- **page**: 20
+
+--- Document 3 ---
+Content:
+Humber Bay Park East Major Maintenance Project – Concept Brief 
+Toronto and Region Conservation Authority    |    17 
+In general, smaller cobble sizes will offer a more user-friendly beach environment for park users than larger stone, 
+but more material will be required to sufficiently protect the shoreline. Treatments using smaller cobble  will 
+therefore have higher costs and a greater in -water footprint as well as greater potential  for maintenance needs...
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 20
+
+--- Document 4 ---
+Content:
+have been undermined due to the ongoing erosion. 
+The shoreline is currently protected by armour stone revetment structures. The size of the armour 
+stones, the crest elevations and the nature of placement of the armour stones varies considerably. 
+The armour stone sizes are most commonly in the 2 to 4 tonne range but larger stones up to 6 
+tonnes, and some even larger ones, were found on the site. High water levels experienced...
+Metadata:
+- **source**: Design Brief - Phase I.pdf
+- **page**: 7
+
+--- Document 5 ---
+Content:
+multi-use trail runs along the entire shoreline of the northern headland. Some sections of the trail 
+have been undermined due to the ongoing erosion. 
+The shoreline is currently protected by armour stone revetment structures. The size of the armour 
+stones, the crest elevations and the nature of placement of the armour stones varies considerably. 
+The armour stone sizes are most commonly in the 2 to 4 tonne range but larger stones up to 6...
+Metadata:
+- **source**: Design Brief - Phase II_DRAFT.pdf
+- **page**: 8
+
+--- Document 6 ---
+Content:
+4.2.5.3 Stone Sizing 
+Armour stone sizes were selected for stability using the Hudson equation and using the design 
+coastal conditions detailed in Section 3 for design input. 
+4.2.5.4 Cut and Fill Volumes  
+Cutting into the bank was  minimized during the design process to avoid exposing potential 
+contaminated material.  Additional fill material will be required behind the crest of the new 
+revetment structures to tie into existing grades. Phase 1 will include, in addition to stone materials...
+Metadata:
+- **source**: Design Brief - Phase II_DRAFT.pdf
+- **page**: 21
+
+--- Document 7 ---
+Content:
+as the neighbourhood evolves into a denser, high-rise residential community. 
+Erosion control structures, including headlands and beaches, were built in the early 1980s in order to protect the 
+shoreline. Toronto and Region Conservation Authority’s (TRCA) Er osion Risk Management Program (ERMP)  has 
+monitored these structures on an annual basis  since 2006. Both the western armourstone headland (WF 11.10)...
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 3
+
+--- Document 8 ---
+Content:
+Humber Bay Park East Major Maintenance Project – Concept Brief 
+Toronto and Region Conservation Authority    |    16 
+ WF11.11 – Cobble/Rubble Beach 
+The concept designs for the beach call for placement of fill over the existing profile of the beach (Figure 19). Four 
+alternative options were proposed  for the beach treatment which  vary based on the cobble size and required 
+quantity, ranging from 10 to 100 mm diameter stone (Figure 20). Profile details of the

@@ -1,0 +1,293 @@
+
+# Persona
+"goal": "You are designed to be a specialized question-answering assistant, focusing on providing accurate answers based on Toronto and Region Conservation Authority (TRCA)'s technical documents, supplemented by web search results and GPT-4's knowledge base. The query will be delimited with four hashtags (i.e., ####)."
+        
+
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "
+--- Document 1 ---
+Content:
+6.2 Indigenous Engagement 
+Indigenous Communities have a range of views and experience to contribute to a project, thus engagement may 
+take on different forms in each community, depending on both the scope of the project and interests of the 
+community. Indigenous Engagement is intended to provide Indigenous Communities with an opportunity to 
+receive information about and have input to the project  proposal and, equally allows TRCA to identify and...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 49
+
+--- Document 2 ---
+Content:
+consider the concerns and issues of those communities.  
+6.2.1 Indigenous Community Consultation  
+Prior to the delivery of any notifications, the Ministry of the Environment, Conservation, and Parks (MECP) was 
+contacted for advice and information on the Indigenous communities that should be contacted during the 
+Indigenous Engagement process. Additional Indigenous community contact lists were also considered, including...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 49
+
+--- Document 3 ---
+Content:
+Credit First Nation, Williams Treaties First Nations, and the Huron-Wendat Nation. No adverse effects on 
+traditional land uses were identified during engagement with Indigenous communities.  
+Indigenous Reserve or Community 
+There are no known Indigenous reserves or communities within the Project limits; therefore, there will be 
+no impacts due to these works. 
+Outstanding Native Land Claim or Treaty Rights...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 28
+
+--- Document 4 ---
+Content:
+communication process will respect the culture and practices of  the Indigenous communities being 
+engaged, and open dialogue and regular opportunities for feedba ck and input will be incorporated into 
+this project in order to ensure meaningful engagement....
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 46
+
+--- Document 5 ---
+Content:
+6.1 Public Notifications and Consultation .......................................................................................................... 42 
+6.2 Indigenous Engagement ............................................................................................................................... 43 
+6.3 Discussion of Concerns ................................................................................................................................. 44...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 4
+
+--- Document 6 ---
+Content:
+A full record of Indigenous community consultation including copies of all correspondence can be found in the 
+Record of Indigenous Engagement for the Peacham Crescent Slope Stabilization Project in Appendix D. 
+6.3 Discussion of Concerns 
+6.3.1 Discussion of Public Concerns 
+There have been no major concerns raised about this project. 
+6.3.2 Discussion of Indigenous Community Concerns...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 50
+
+--- Document 7 ---
+Content:
+• a record of consultation with interested persons, i ndigenous communities, government agencies, and 
+community groups; 
+• an outline of the monitoring program which will commence upon completion of the work....
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 7
+
+--- Document 8 ---
+Content:
+1.1 Summary of Indig enous Engagement 
+ 
+Archaeological Assessments 
+Nations were informed that a Stage 1-2 Archaeological Assessmen t (P1016-0132-2017) had been 
+completed. A copy of the archaeological assessment was provided to those nations who expressed interest. 
+All nations were assured that they will be notified if additional archaeology is required. 
+Environmental Studies 
+The Mississaugas of the New Credit First Nation (MNCFN), Missis saugas of Scugog Island First Nation...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 292
+
+--- Document 9 ---
+Content:
+Indigenous Community Engagement 
+August 8, 2019: Couriered and emailed notification package....
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 296
+
+--- Document 10 ---
+Content:
+1 I NDIGENOUS ENGAGEMENT  
+ 
+Prior to the delivery of any notifications, the Ministry of Indigenous Relations and Reconciliation (MIRR) and 
+the Ministry of the Environment and Climate Change (MOECC) were contacted for advice and information 
+on the Indigenous communities t hat should be contacted during t he Indigenous Engagement process.  
+Additional Indigenous community contact lists were also considered, including the lists held by Toronto and...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 292
+
+--- Document 11 ---
+Content:
+Haudenosaunee and Métis communities, whether 
+that be relatively informal partnerships in various 
+initiatives or formal engagement for TRCA projects 
+subject to legislation requiring engagement. TRCA’s 
+overall aim is to develop a positive relationship with 
+Aboriginal communities whose interests may be 
+impacted by TRCA projects, through a process of 
+meaningful, mutually respectful engagement....
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 575
+
+--- Document 12 ---
+Content:
+presentation and public consultation comment forms were posted to the project website and can also be 
+found in Appendix B of this Project File. The PIC meeting provided the opportunity  for members of the 
+public to provide input on the conceptual designs to assist in  the development and approval of the 
+preferred alternative solution.  
+8.4 INDIGENOUS CONSULTATION 
+ 
+Meaningful  Indigenous  engagement  will  occur  throughout  the  Environmental  Assessment.  The...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 46
+
+--- Document 13 ---
+Content:
+8.4  INDIGENOUS CONSULTATION .................................................................................................................................................................. 41 
+8.5  NOTICE OF COMPLETION ........................................................................................................................................................................... 42...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 4
+
+--- Document 14 ---
+Content:
+discussion will apply to TRCA Indigenous Engagement guidelines and Indigenous Engagement processes 
+at TRCA moving forward; it will not be specific to the German Mills Setters Park Sanitary Protection Project. 
+MNCFN and TRCA discussed meeting later in 2018.  
+The following presents a summary of the Indigenous engagement conducted during the German Mills Park 
+Sanitary Infrastructure Protection Project. 
+TABLE 1-1 SUMMARY OF CORRESPONDENCE WITH INDIGENOUS COMMUNITIES...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 293
+
+--- Document 15 ---
+Content:
+Involvement of Mississaugas of the New Credit First Nation Field Liaison Representatives  
+MNCFN requested information about planned archaeological assessments and environmental studies and 
+indicated interest in MNCFN Field Liaison Representatives (FLRs) participation.  
+Indigenous Engagement at TRCA is guided by TRCA Engagement Guidelines (2015) and these guidelines 
+were followed while completing this project. MNCFN has requeste d FLR participation for archeological...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 293
+
+--- Document 16 ---
+Content:
+• Mississaugas of the Credit First Nation 
+• Mississaugas of Scugog Island First Nation 
+• Six Nations of the Grand River First Nation 
+ Table 4. Summary of indigenous Group consultation for the project. Source: TRCA, 2018. 
+Communication Date Method of Communication 
+Notice of Intent November 28, 2018 Courier, Email 
+Community Liaison Committee 
+Notice and Notice of Intent 
+Follow Up 
+February 21, 2019 Email 
+Notice of Filing September 26, 2019 Courier, Email...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 50
+
+--- Document 17 ---
+Content:
+APPENDIX A: DOCUMENTATION OF INDIGENOUS 
+ENGAGEMENT 
+ 
+ 
+TRCA Correspondence Overview 
+Notification #1: Notice of Intent 
+Includes letter to community, study area maps, and a brief overview of the project. 
+Sent: April 19, 2018 
+ 
+Notification #2: Notice of Filing 
+Includes Notice of Filing. 
+To be sent: August 8, 2019 
+ 
+Additional Materials: Memo on Environmental Studies 
+Provided by request to Hiawatha First Nation, Mississaugas of t he New Credit First Nation, and...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 297
+
+--- Document 18 ---
+Content:
+(AANDC) (presently known as Crown ‐Indigenous Relations and Northern Affairs Canada and Indigenous 
+Services Canada). The following communities are known to have an interest in the study area: 
+ 
+ Beausoleil First Nation  
+ Chippewas of Georgina Island First Nation  
+ Chippewas of Rama First Nation  
+ Conseil de la Nation Huronne‐Wendat 
+ Curve Lake First Nation  
+ Hiawatha First Nation  
+ Mississaugas of Alderville First Nation  
+ Mississaugas of Scugog First Nation...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 47
+
+--- Document 19 ---
+Content:
+(MSIFN), and Hiawatha First Nation indicated an interest in completed and planned ecological and aquatic 
+studies related to the Project. These nations were provided wit h a memo summarizing the environmental 
+studies as well as digital access to completed environmental studies....
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 292
+
+--- Document 20 ---
+Content:
+system offered rich natural resources such as fish, waterfowl and game which would have like ly been 
+exploited by Indigenous peoples. The assessment also confirmed the existence of former historic 
+homesteads, orchards, and laneways  belonging to settlement communities. This historical context and 
+evidence thus indicate potential for the presence of buried cultural artifacts within the limits of the Project 
+area....
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 29
+
+--- Document 21 ---
+Content:
+42 
+ 
+A list of communities that have established or potential Aboriginal or Treaty rights within the study area, 
+or who have an established interest in the study area, has been consolidated from several sources. These 
+sources include contact lists from TRCA, the Ministry of Aborig inal Affairs (MAA) (presently known as 
+Ontario  Ministry  of  Indigenous  Affairs),  and  Aboriginal  Affairs  and  Northern  Development  Canada...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 47
+
+--- Document 22 ---
+Content:
+Table 4. Summary of indigenous Group consultation for the project. Source: TRCA, 2018. ................................. 44 
+Figures 
+Figure 1. The approximate location of works behind Peacham Crescent are denoted by red polygon. Source: 
+TRCA, 2018. .............................................................................................................................................................. 2...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 5
+"
+}
+        
+
+# Chain of Thought
+Step 1: #### Refer to TRCA's technical documents first.
+Step 2: #### If the information is incomplete, use web search for current data.
+Step 3: #### If still unresolved, utilize GPT-4's knowledge (up to its training cutoff).
+Step 4: #### Cite sources from TRCA docs or web. Indicate if info is based on GPT-4's training data.
+        
+
+# Format Template
+You are designed to ask for clarifications in case of ambiguous queries or when more specific details are needed.
+The tone of the responses will be professional, focusing on clarity, accuracy, and relevance, suitable for the technical nature of TRCA's content.
+Cite the sources of information from TRCA's documents, web search results, or GPT-4's training data when applicable.
+        
+The query will be delimited with #### characters: #### Are there any specific engagements or consultations with local Indigenous communities detailed in the projects' planning and implementation phases ? ####
+
+# Few-Shot Example
+Query: "Can you outline the phased approach for the Humber Bay Park East Shoreline Maintenance Project?"
+Retrieved passages: "The eastern armourstone headland ... a risk to park users."
+Answer: "The Humber Bay Park East Shoreline Maintenance Project is divided into multiple phases, each with specific timelines. The available document focuses on Phase I..."
+        

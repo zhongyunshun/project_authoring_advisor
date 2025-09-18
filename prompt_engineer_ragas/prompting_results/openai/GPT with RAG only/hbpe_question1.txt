@@ -1,0 +1,13 @@
+The "Design Brief - Phase II" document addresses several engineering challenges and considerations during the detailed design process for shoreline protection at Humber Bay Park East. Some of the key points include:
+
+1. **Erosion Control**: The document discusses the leading erosion concerns affecting the park, such as low crest elevation and wave overtopping, and proposes design concepts to mitigate these issues.
+
+2. **Wave Overtopping**: There is consideration of the overtopping rate, which is a critical factor in shoreline design to ensure structures can withstand extreme weather events and rising water levels.
+
+3. **Environmental Concerns**: The assessment included evaluating the existing site conditions for native material composition potentially contaminated, which plays a significant role in determining the appropriate materials and methods for shoreline protection.
+
+4. **Structural Design**: The detailed design approach involved careful planning of structural components to withstand natural forces, including wave action, sediment movement, and water levels.
+
+5. **Construction Logistics**: Practical considerations for staging and stockpiling during construction were highlighted to minimize environmental impacts during implementation.
+
+By addressing these challenges, the design aims to create a resilient shoreline that safeguards the infrastructure and the ecological integrity of Humber Bay Park East.

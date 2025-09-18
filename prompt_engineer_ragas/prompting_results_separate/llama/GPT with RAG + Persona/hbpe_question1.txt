@@ -1,0 +1,61 @@
+# Persona
+"goal": "You are designed to be a specialized question-answering assistant, focusing on providing accurate answers based on Toronto and Region Conservation Authority (TRCA)'s technical documents, supplemented by web search results and GPT-4's knowledge base. The query will be delimited with four hashtags (i.e., ####)." 
+
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "Design Brief - Phase II" : {
+        "Content": "The detailed design for the southern headland, proceeding counter-clockwise to the beach, is outlined in this report. The original scope of work has been split into 3 phases. This report details Phase 1, which includes the western armourstone headland and the eastern armourstone headland. Phase 2 will include the detailed design for the southern headland, and Phase 3 will include the concrete rubble and gravel beach.",
+        "Metadata": {
+            "source": "Design Brief - Phase II_DRAFT.pdf",
+            "page": "19"
+        }
+    },
+    "Design Brief - Phase I" : {
+        "Content": "The detailed design for the western armourstone headland and the eastern armourstone headland is outlined in this report. The original scope of work has been split into 3 phases. This report details Phase 1, which includes the western armourstone headland and the eastern armourstone headland.",
+        "Metadata": {
+            "source": "Design Brief - Phase I.pdf",
+            "page": "5"
+        }
+    },
+    # ... 
+} 
+
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "Humber Bay Park East Shoreline Maintenance Project" : {
+        "Content": "The Humber Bay Park East Shoreline Maintenance Project is a comprehensive project that aims to maintain and improve the shoreline of Humber Bay Park East. The project involves multiple phases, each with its own specific scope of work.",
+        "Metadata": {
+            "source": "Humber Bay Park East Concept Brief.pdf",
+            "page": "15"
+        }
+    },
+    # ... 
+} 
+
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "Shoreline Protection Detailed Design" : {
+        "Content": "The shoreline protection detailed design has been evaluated by Shoreplan, and considered the coastal conditions along the shoreline. The report details Phase 1, which includes the western armourstone headland and the eastern armourstone headland.",
+        "Metadata": {
+            "source": "Design Brief - Phase I.pdf",
+            "page": "18"
+        }
+    },
+    # ... 
+} 
+
+# Answer
+The Humber Bay Park East Shoreline Maintenance Project is divided into multiple phases, each with specific timelines. The available document focuses on Phase I, which includes the western armourstone headland and the eastern armourstone headland.
+
+In this phase, the project involves the construction of a temporary culvert and access bridge near the pond outlet. Additionally, staging and stockpiling areas will be established, and required trees will be removed.
+
+The detailed design for the western armourstone headland and the eastern armourstone headland is outlined in this report. The original scope of work has been split into 3 phases. This report details Phase 1, which includes the western armourstone headland and the eastern armourstone headland.
+
+Phase 2 will include the detailed design for the southern headland, and Phase 3 will include the concrete rubble and gravel beach.
+
+The project involves multiple stakeholders, including the Toronto and Region Conservation Authority (TRCA), Shoreplan Engineering Limited, and various contractors. The project requires careful planning and coordination to ensure that all phases are completed on time and within budget.
+
+Overall, the Humber Bay Park East Shoreline Maintenance Project is a complex and multifaceted undertaking that requires careful planning, coordination, and execution to achieve its goals and objectives.

@@ -1,0 +1,284 @@
+
+# Persona
+"goal": "You are designed to be a specialized question-answering assistant, focusing on providing accurate answers based on Toronto and Region Conservation Authority (TRCA)'s technical documents, supplemented by web search results and GPT-4's knowledge base. The query will be delimited with four hashtags (i.e., ####)."
+        
+
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "
+--- Document 1 ---
+Content:
+previously noted, habitat disturbance within the Project limits will be mitigated through a comprehensive 
+restoration plan, which will focus on rebuilding the local habitat through the planting of suitable native 
+species and ultimately help to create a more robust local environment. 
+Significant Vegetation Communities 
+There are twelve different types of vegetation communities that exist within, or extend into, the Project...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 26
+
+--- Document 2 ---
+Content:
+heavy machinery within the Project limits, the impacts resulting from the propos ed works on the  
+aforementioned species of concern will be minimal; t ree or shrub removals will be planned and highly 
+selective. Additionally, post -construction r estoration activities will focus on replanting suitable native 
+species to compensate for those that were removed and enhance the overall biodiversity of the Project...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 27
+
+--- Document 3 ---
+Content:
+Phase I to allow for public access to a portion of the park. Until this final restoration plan is developed, 
+preliminary planting plans have been drafted for Phases I and II. These plans represent a commitment to plant a 
+certain number of trees during final restoration and will be combined, updated and finalized into the full 
+planting plan for the site. 
+The Phase I preliminary plan involves the on-site planting of 280 trees whose approximate locations are shown...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 35
+
+--- Document 4 ---
+Content:
+main objectives of the proposed works is to enhance naturalization of the Project area. Thus, the proposed 
+works will resu lt in the removal of exotic species within the Project limits and additional plantings of 
+suitable native species....
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 27
+
+--- Document 5 ---
+Content:
+Buckthorn are recognized (e.g. wildlife habitat, water quality, carbon sequestration), an ecological gain from the perspective of improving native species representation is expected once restoration plantings of native species are established. Tree removal numbers should be determined during detailed design to include construction-related disturbances and plan any refinements.   At this Conceptual Design phase, approximate percentages of tree removal by species has been calculated based on the...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 226
+
+--- Document 6 ---
+Content:
+restoration plans;
+     j)    natur al features, areas and systems 
+contributing to the conservation of land , 
+including areas providing hydrologic 
+functions and ecological functions  
+are avoided or mitigated, pollution  is 
+prevented and erosion hazards have 
+been adequately addressed;...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 649
+
+--- Document 7 ---
+Content:
+several other species. Following TRCA’s replication ratio standards, 92 trees and 2291 shrubs are anticipated to 
+be planted during site restoration to compensate for the removals. Please refer to Section 2.4 of the Design Brief 
+(Greck and Associates Limited, 2020) for further details.  
+ Vibration and Construction Impacts 
+Due to the location of the project, there is no anticipated risk to adjacent properties or structures from vibration...
+Metadata:
+- **source**: 2021-02-24 Project Brief_90 percent.pdf
+- **page**: 9
+
+--- Document 8 ---
+Content:
+fish habitat. Please refer to Section 6.1 Fish Habitat During Construction of the Design Brief (Greck and Associates 
+Limited, 2020) for further details. 
+11 SITE RESTORATION AND MONITORING 
+ Restoration Plantings 
+As noted above, a total of 105 trees will need to be removed to facilitate construction. This equals 899 tree units 
+to be replaced under TRCA’s 2018 Guideline for Determining Ecosystem Compensation. For this project, six shrubs...
+Metadata:
+- **source**: 2021-02-24 Project Brief_90 percent.pdf
+- **page**: 11
+
+--- Document 9 ---
+Content:
+an opportunity for habitat improvements. The works will strive to serve an overall 
+ecological benefit to the area through natural design and restoration practices where the 
+following can be incorporated:...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 187
+
+--- Document 10 ---
+Content:
+Objective 2 – Naturalization 
+The preferred alternative supports the native terrestrial ecosystem habitat by supporting local biodiversity and 
+resiliency through the incorporation of native vegetation within the structure design. The face of the MSE 
+structure is designed to support the growth of vegetation and will be seeded with native seed mix during 
+installation. Additionally, restoration works are planned to follow construction activities to effectively restore...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 44
+
+--- Document 11 ---
+Content:
+follow construction activities and  remediate disturbance to existing habitat  through the replanting of 
+suitable native species. 
+Habitat Linkages or Corridors 
+The Project site is located adjacent to a stretch of parkland that measure s over one-kilometer in length. 
+This parkland is densely vegetated with predominantly native species and c onsists of ample tree cover. 
+The parkland is surrounded solely by urbanized land and thus offers important habitat for wildlife species....
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 26
+
+--- Document 12 ---
+Content:
+solution for slope stabilization, in conjunction with post -construction site restoration , are based on the 
+incorporation of native plant species that will: 
+• Provide increased stabilization to the slope face 
+• Increase resiliency to erosion forces resulting from rain and runoff 
+• Enhance biodiversity of terrestrial habitat species 
+• Improve the ecological health of the surrounding community by providing better resiliency to future changes 
+in the environment 
+C. Compatibility...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 11
+
+--- Document 13 ---
+Content:
+goals). 
+Restored meadow, post-implementation 
+(young planting)...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 770
+
+--- Document 14 ---
+Content:
+suitable native species . The planted vegetation will provide increased soil stabilization, reduce surficial 
+erosion, and add to the biodiversity of the local ecosystem once it becomes established. Unfortunately, it 
+will be necessary for the regraded slope to blend into the rear yards of 21, 23, and 25 Peacham Crescent, 
+effectively pushing the slope crest back towards the dwellings and reducing the amount of useable...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 40
+
+--- Document 15 ---
+Content:
+TRCA Guideline for Determining Ecosystem Compensation  Page 37 
+ 
+Riparian Planting 
+   
+      
+Project Goals: 
+ Restore ecosystem form and function 
+ Restore soil and soil processes 
+ Restore natural hydrologic processes 
+ Enhance and restore natural cover and 
+critical habitat  
+ Increased stream bank stability 
+ Reduced erosion/sedimentation 
+Details: 
+Project planning and development (permits, 
+detailed design and project mgmt.), site 
+preparation, essential wildlife structures and/or...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 768
+
+--- Document 16 ---
+Content:
+the banks provides aquatic habitat in terms of cover for fish species, this type of habitat is abundant both upstream and downstream of the area of disturbance. Furthermore, it is proposed to be restored following the proposed re-alignment of the creek. Impacts are therefore considered short-term and the impacts are not to aquatic habitat that is limiting to the productivity of fish. The goal of the restoration works is also to provide localized enhancements to the riparian vegetation.   7.2...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 227
+
+--- Document 17 ---
+Content:
+& erosion control, etc.), berm construction, 
+wetland topography contouring and 
+grading, habitat structure installation, 
+planting and seed application.  
+ 0.3 ha aquatic  
+ 0.7 ha terrestrial (50% of area 
+planted with shrubs (3,500 pots)) 
+ 
+Suggested plant species:  
+Plant native early successional riparian 
+shrub species, such as willow, red berry, 
+high bush cranberry and button bush.  
+ 
+Restored wet shrub thicket wetland, post-construction (pre-
+planting)...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 760
+
+--- Document 18 ---
+Content:
+construction of erosion and s ediment control, water management and site access. The 
+riparian vegetation will be rest ored once proposed plantings ar e re-established.  The 
+proposed riparian works also have the potential to create a net increase in wetland habitat 
+within the project area.  These works imply higher capital cost s ,  b u t  l o w e r  f u t u r e  
+maintenance costs.   
+The impacts associated with works for Option 2 are considered t emporary and minor...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 400
+
+--- Document 19 ---
+Content:
+1. Remedial works shall include the removal of invasive species within the project 
+area and restore the site with native plantings, 
+2. Channel realignments shall follow natural channel design principles, and create 
+habitat through: 
+a. Formation of deep pool-riffle sequences 
+b. Replace hard bank armouring with softer, vegetated treatments 
+c. Provide a vegetated buffer to reduce anthropogenic disturbance between 
+the watercourse and public path...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 188
+
+--- Document 20 ---
+Content:
+Opportunities Planning Primer and Integrated Restoration Prioritization: A Multiple Benefit 
+Approach to Restoration Planning. In addition to scenarios where TRCA undertakes 
+compensation restoration, these tools are available to help inform restoration actions by 
+municipalities, other public agencies, as well as private proponents and their consultants....
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 752
+
+--- Document 21 ---
+Content:
+disturbed areas and further support the naturalization of the local ecosystem through the plantings of suitable 
+native species. 
+Objective 3 – Compatibility 
+While evaluating alternatives, preference was given to alternatives which would have a minimal construction 
+footprint and machine access requirements in effort to reduce impacts to the surrounding natural and built 
+environments. Resulting impacts to public safety was also considered during the evaluation process....
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 44
+
+--- Document 22 ---
+Content:
+37% of the plant biodiversity within this geographic range. Two exotic vegetation communities were 
+identified within the Project area but are limited to the lower reaches of the Project limits and do not exist 
+on the slope behind Peacham Crescent . Levels of disturbance res ulting from t hese exotic species and 
+communities throughout the ecology Study Area were observed to be moderate to severe. One of the...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 27
+"
+}
+        
+
+# Chain of Thought
+Step 1: #### Refer to TRCA's technical documents first.
+Step 2: #### If the information is incomplete, use web search for current data.
+Step 3: #### If still unresolved, utilize GPT-4's knowledge (up to its training cutoff).
+Step 4: #### Cite sources from TRCA docs or web. Indicate if info is based on GPT-4's training data.
+        
+The query will be delimited with #### characters: #### How do the restoration plantings described in the "HBPE Project Brief - Phase I" contribute to or mitigate against biodiversity loss, particularly concerning species at risk? ####
+
+# Few-Shot Example
+Query: "Can you outline the phased approach for the Humber Bay Park East Shoreline Maintenance Project?"
+Retrieved passages: "The eastern armourstone headland ... a risk to park users."
+Answer: "The Humber Bay Park East Shoreline Maintenance Project is divided into multiple phases, each with specific timelines. The available document focuses on Phase I..."
+        

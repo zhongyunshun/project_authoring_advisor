@@ -1,0 +1,17 @@
+Okay, I understand. Here's how I will respond to your queries, based on the provided persona and instructions:
+
+#### How does the Slope Stability and Erosion Risk Assessment define "Long-Term Stable Slope Crests" (LTSSC), and what criteria are used to determine these in the context of the Peacham Crescent projects? ####
+
+Based on the provided documents related to the Peacham Crescent Erosion Control and Slope Stabilization Project, here's information regarding the Long-Term Stable Slope Crest (LTSSC):
+
+*   **Definition:** The LTSSC models the natural regression of a slope crest resulting from erosion forces and is based on the composition and conditions of substrate materials (Document 2). The area between the existing top of bank and the LTSSC will be at risk of being undermined (Document 15).
+
+*   **Determination Criteria & Context (Peacham Crescent):**
+
+    *   A Slope Stability & Erosion Risk Assessment (SS&ERA) was initiated to determine the type and extent of risk to essential structures at the top of the slope (Document 17). Cole Engineering Group Ltd. and Soil Engineers Ltd. were retained in 2015 to complete this assessment (Document 11).
+    *   Subsurface investigations were conducted to delineate the LTSSC behind Peacham Crescent using a factor of safety (FoS) of 1.5 (Document 2). In another instance, a factor of safety of 1.3 is mentioned (Document 3, Document 5).
+    *   Geotechnical investigations, including borehole drilling, were conducted to evaluate the LTSSC (Document 8). Five preliminary alternatives for slope remediation were proposed based on feasibility and the ability to mitigate risk to infrastructure, private property, and human life (Document 8). Soil Engineers Ltd. recommended slope remediation options at 21-25 Peacham Crescent (Document 8).
+    *   The positioning of the LTSSC (with a FoS of 1.5) intersects the corner of a residential property (Document 2). Specifically, the LTSSC for a Factor of Safety of 1.5 would intersect the residential dwelling at 21 Peacham Crescent (Document 6).
+    *   The project considered the location of the projected long-term stable slope crest (LTSSC) in relation to permanent and essential structures at the top of the slope (Document 1).
+
+**In summary:** The LTSSC is a modeled line representing the long-term stable position of the slope crest, considering erosion. For Peacham Crescent, its determination involved geotechnical investigations, subsurface analysis, and the application of a factor of safety (1.5 or 1.3). The location of the LTSSC was critical in assessing risks to nearby residential properties and infrastructure, and in developing slope stabilization solutions.

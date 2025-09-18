@@ -1,0 +1,117 @@
+#### Inject Domain Information
+
+Here is the retrieved passage:
+{
+    "
+--- Document 1 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+     Toronto and Region Conservation Authority    |    40 
+ 
+Screening Criteria 
+Rating of Potential Effects 
+-H -M -L NIL +L +M +H NA Comments 
+Biological
+Wildlife Habitat          
+Habitat Linkages or Corridors          
+Significant Vegetation 
+Communities    ...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 46
+
+--- Document 2 ---
+Content:
+Peacham Crescent Slope Stabilization Project – Project Brief 
+Toronto and Region Conservation Authority    |    14 
+14 REFERENCES 
+Cole Engineering, (2015). SLOPE STABILITY & EROSION RISK ASSESSMENT.  
+Terraprobe. (2020). Design Brief, 21 to 27 Peacham Crescent, Toronto, Ontario. Toronto. 
+Toronto and Region Conservation Authority (2019). Class Environmental Assessment For Remedial Flood And Erosion 
+Control Projects, Peacham Crescent Slope Stabilization Project City of Toronto....
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 17
+
+--- Document 3 ---
+Content:
+Peacham Crescent Slope Stabilization Project – Project Brief 
+Toronto and Region Conservation Authority    |    12 
+9 EROSION AND SEDIMENT CONTROL MEASURES 
+Prior to the start of construction, the Work Area will be isolated with standard sediment control fencing to 
+prevent the entry of deleterious substances into the watercourse. All barriers will be inspected and maintained 
+in proper working order throughout the duration of construction and will remain in place until the site is...
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 15
+
+--- Document 4 ---
+Content:
+Peacham Crescent Slope Stabilization Project 
+City of Toronto 
+Project Brief 
+Prepared by Erosion Risk Management 
+September 2021...
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 1
+
+--- Document 5 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    39 
+ 
+Table 3. Detailed Environmental Analysis of the Preferred Alternative – MSE Structure 
+Screening Criteria 
+Rating of Potential Effects 
+-H -M -L NIL +L +M +H NA Comments 
+Physical
+Unique Landforms    ...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 45
+
+--- Document 6 ---
+Content:
+Peacham Crescent Slope Stabilization Project – Project Brief 
+Toronto and Region Conservation Authority    |    10 
+Please refer to Section 5 – Remediation Design in the Detailed Design Brief (Terraprobe, 2020) for further details 
+on the scope of work. 
+ Design Rationale 
+Please refer to Section 5 – Remediation Design in the Detailed Design Brief (Terraprobe, 2020) for further details 
+on the design rationale for the scope of work. 
+7 SURVEY REQUIREMENTS...
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 13
+
+--- Document 7 ---
+Content:
+Peacham Crescent Slope Stabilization Project – Project Brief 
+Toronto and Region Conservation Authority    |    i 
+Table of Contents 
+1 INTRODUCTION........................... 1 
+2 SITE DESCRIPTION....................... 2...
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 2
+
+--- Document 8 ---
+Content:
+works supported by the ERMP to provide long-term protection for life and property. 
+The Peacham Crescent Slope Stabilization P roject is being completed in accordance with the Class Environmental 
+Assessment for Remedial Flood and Erosion Control Projects, amended 2013 (Class EA), with the objective of reducing risk 
+to life and property, as per the mandate of Conservation Authoriti es under the Conservation Authorities Act (R.S.O 1990)....
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 3
+
+--- Document 9 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    39 
+ 
+Table 3. Detailed Environmental Analysis of the Preferred Alternative – MSE Structure 
+Screening

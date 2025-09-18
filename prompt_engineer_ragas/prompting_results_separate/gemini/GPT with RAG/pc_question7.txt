@@ -1,0 +1,6 @@
+Based on the provided documents, specifically referencing the "2019-04-02 Conceptual Alt. Report Peacham_Final" (Documents 6, 9, and 14), the key factors influencing the selection of conceptual slope stabilization alternatives included:
+
+*   **Factor of Safety (FOS):** Alternatives were developed based on a Factor of Safety of 1.3, as requested by TRCA (Document 9).
+*   **Stabilization of the upper slope:** All options included stabilization of the upper 3 to 6 meter portion of the slope where the slope failure occurred (Document 9).
+*   **Topographic data and subsurface information:** Conceptual designs were developed utilizing topographic data provided by TRCA and subsurface information from reports prepared by Cole and Soil Engineers (Document 14).
+*   **Composition of subsurface materials:** The slope behind 21, 23, & 25 Peacham Crescent predominantly consists of very loose to compact/soft to stiff earth fill materials (Document 14).

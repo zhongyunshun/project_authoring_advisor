@@ -1,0 +1,33 @@
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    ...
+--- Document 21 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    10 
+ 
+• The location of the projected long-term stable slope crest (LTSSC) in relation to permanent and essential 
+structures at the top of slope; 
+• The presence of a public footpath at the base of slope; and 
+• The presence of potentially impacted infrastructure located within the tributary and surrounding area...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 16
+}
+    ...
+}
+
+# Chain of Thought
+Step 1: #### Review the Project Plan to identify key considerations related to potential impacts on biodiversity.
+Step 2: #### Pay particular attention to sections that discuss the presence and protection of sensitive species, such as bat species and butternut trees.
+Step 3: #### Analyze the information provided in the Project Plan to determine whether it adequately addresses potential impacts on biodiversity.
+
+# Chain of Thought
+Given the importance of biodiversity conservation, how does the "2021-09-29 Peacham Cres Project Brief" address potential impacts on biodiversity, particularly in relation to bat species and butternut trees identified in the area ?
+
+# Few-Shot Example
+Query: "Can you outline the phased approach for the Humber Bay Park East Shoreline Maintenance Project?"
+Retrieved passages: "The eastern armourstone headland ... a risk to park users."
+Answer: "The Humber Bay Park East Shoreline Maintenance Project is divided into multiple phases, each with specific timelines. The available document focuses on Phase I..."

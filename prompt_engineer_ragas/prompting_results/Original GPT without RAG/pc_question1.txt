@@ -1,0 +1,10 @@
+The "Long-Term Stable Slope Crests" (LTSSC) in the context of Slope Stability and Erosion Risk Assessment refers to areas where the slopes are considered stable over an extended period, typically accounting for various environmental and geological factors. For the Peacham Crescent projects, the criteria used to determine LTSSC likely include factors such as:
+
+1. **Geotechnical Evaluation**: Analysis of soil and rock properties, including shear strength, cohesion, and internal friction angle.
+2. **Hydrological Assessment**: Evaluation of water flow and drainage patterns that may affect slope stability, including groundwater levels and surface water runoff.
+3. **Erosion Potential**: Assessment of soil erosion risks due to weather conditions, vegetation cover, and land use practices.
+4. **Vegetation Stability**: Examination of the root systems of vegetation that can help stabilize slopes through soil binding.
+5. **Slope Geometry**: Consideration of the angle of the slope and its relationship to the materials present.
+6. **Historical Data**: Review of past slope behavior and failure events to understand long-term stability trends.
+
+By applying these criteria, the assessment aims to identify areas where the slopes can be expected to remain stable, thereby minimizing the risk of erosion and landslides over time.

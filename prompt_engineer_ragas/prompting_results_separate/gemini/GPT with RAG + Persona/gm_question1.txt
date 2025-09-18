@@ -1,0 +1,7 @@
+The provided documents do not contain detailed information on the specific methodology used for the "Slope Stability Analysis" for the Peacham Crescent Slope Stabilization Project. However, they do provide some context:
+
+*   **Cole Engineering's Role:** Cole Engineering Group Ltd. conducted a "Slope Stability & Erosion Risk Assessment" for the area (Document 1, Document 16). Figure 7 in the Class EA Project Plan shows the Long-Term Stable Slope Crest (LTSSC) projected behind Peacham Crescent, with a factor of safety of 1.5, and credits Cole Engineering Group Ltd. as the source (Document 10).
+
+*   **Impact on Project Decisions:** The location of the projected long-term stable slope crest (LTSSC) in relation to permanent and essential structures at the top of the slope is a key factor considered in the project (Document 4). The project aims to protect human life and property from valley slope erosion by providing long-term, low-maintenance protection for the properties within the project limits (Document 7). The selected alternative for the project is designed to meet the objective of risk mitigation (Document 9).
+
+To get a detailed explanation of the methodology, you would need to consult the "SLOPE STABILITY & EROSION RISK ASSESSMENT" report prepared by Cole Engineering (2015) or the "Detailed Design Brief" by Terraprobe (2020) (Document 1, Document 12).

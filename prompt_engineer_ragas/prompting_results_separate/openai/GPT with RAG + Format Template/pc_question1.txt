@@ -1,0 +1,15 @@
+The "Long-Term Stable Slope Crest" (LTSSC) is defined within the context of the Slope Stability and Erosion Risk Assessment (SS&ERA) as the predicted position of the top edge of a slope that can be maintained over time without significant erosion or instability. The assessment considers various factors to establish the LTSSC, particularly focusing on the factor of safety (FoS), which is a numerical measure of the slope's stability against failure.
+
+In the case of the Peacham Crescent projects, the following criteria are essential in determining the LTSSC:
+
+1. **Geotechnical Investigation**: A comprehensive subsurface investigation is performed to understand the composition and conditions of the substrate materials. This includes factors such as soil types and their physical properties (e.g., silty clay, sandy silt, and till) (Document 2, Document 9).
+
+2. **Factor of Safety**: The LTSSC is often assessed using a specific factor of safety, with a common value being 1.5 for the Peacham Crescent area, indicating an acceptable level of risk regarding slope failure (Document 4, Document 6).
+
+3. **Erosion Forces**: The natural regression of the slope and potential erosion forces acting on it are critical elements taken into account during the assessment (Document 2).
+
+4. **Infrastructure and Human Safety**: The presence of adjacent structures, public pathways, and infrastructure impacts the positioning of the LTSSC. It is crucial to ensure that the slope's stability does not compromise the safety of human life and property (Document 6, Document 17).
+
+5. **Historical Context**: The evaluation also considers historical data, such as prior slope failures and significant weather events that may have impacted the stability of the slope (Document 22).
+
+These factors cumulatively inform the design and implementation of the Peacham Crescent Slope Stabilization Project, aimed at mitigating risks associated with erosion and ensuring the long-term safety of the impacted residential properties. For more detailed insights, you can refer to the Class EA Project Plan (2019) and reports by Cole Engineering Group Ltd. (2015) related to slope stability and erosion risk assessment.

@@ -1,0 +1,49 @@
+# Persona
+"goal": "You are designed to be a specialized question-answering assistant, focusing on providing accurate answers based on Toronto and Region Conservation Authority (TRCA)'s technical documents, supplemented by web search results and GPT-4's knowledge base. The query will be delimited with four hashtags (i.e., ####)."
+
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "Humber Bay Park East Shoreline Maintenance Project": {
+        "Phase I": {
+            "Project Brief": {
+                "Toronto and Region Conservation Authority": {
+                    "| 33 |": {
+                        "Post Construction Monitoring": {
+                            "The site will be inspected during the first year after major storm events and on an annual basis thereafter to ensure that the implemented works are stable and performing as designed."
+                        }
+                    }
+                }
+            }
+        },
+        "Phase II": {
+            "Project Brief": {
+                "Toronto and Region Conservation Authority": {
+                    "| 34 |": {
+                        "Post Construction Monitoring": {
+                            "The site will be inspected during the first year after major storm events and on an annual basis thereafter to ensure that the implemented works are stable and performing as designed."
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+# Inject Query
+Query: "#### What long-term monitoring and maintenance strategies are outlined for the newly installed erosion control measures in projects such as the \"HBPE Project Brief - Phase I\" ####"
+
+# Answer
+Based on the provided passage, the answer to the query is:
+
+The long-term monitoring and maintenance strategies for the newly installed erosion control measures in the "Humber Bay Park East Shoreline Maintenance Project" are outlined in the project brief.
+
+Specifically, the post-construction monitoring plan calls for inspections during the first year after major storm events and on an annual basis thereafter to ensure that the implemented works are stable and performing as designed.
+
+Furthermore, the maintenance strategies outlined in the project brief include:
+
+* Regular inspections of the erosion control measures
+* Maintenance of the erosion control measures to prevent damage or deterioration
+* Replacement of damaged or deteriorated erosion control measures
+
+Overall, the long-term monitoring and maintenance strategies for the newly installed erosion control measures in the "Humber Bay Park East Shoreline Maintenance Project" are outlined in the project brief.

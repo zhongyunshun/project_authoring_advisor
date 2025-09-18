@@ -1,0 +1,28 @@
+I need the "Design Brief - Phase II" document to answer this question. I don't have access to external files or the internet to retrieve this document.
+
+To answer your question effectively, I would need the text of the document. Once you provide the text, I can analyze it for the following:
+
+*   **Specific Engineering Challenges:** Look for mentions of problems or difficulties encountered during the design process. These might include:
+    *   Wave action and erosion
+    *   Ice loading
+    *   Soil stability
+    *   Material selection for durability and environmental impact
+    *   Construction feasibility in the existing environment
+    *   Integration with existing park infrastructure
+    *   Meeting regulatory requirements (e.g., environmental permits)
+    *   Cost constraints
+
+*   **Specific Engineering Considerations:** Look for mentions of factors that were taken into account during the design process. These might include:
+    *   Wave climate analysis (wave height, frequency, direction)
+    *   Water level fluctuations (seasonal, storm surges)
+    *   Ice formation and movement patterns
+    *   Geotechnical investigations (soil properties, bearing capacity)
+    *   Hydraulic modeling
+    *   Environmental impact assessment
+    *   Aesthetics and visual impact
+    *   Public access and safety
+    *   Long-term maintenance requirements
+    *   Climate change impacts (sea level rise, increased storm frequency)
+    *   Different shoreline protection methods (e.g., riprap, seawalls, breakwaters, living shorelines) and their suitability.
+
+**Without the document, I can only provide a general list of potential challenges and considerations. Please provide the text of the document for a more specific and accurate answer.**

@@ -1,0 +1,121 @@
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "
+--- Document 1 ---
+Content:
+Haudenosaunee and Métis communities, whether 
+that be relatively informal partnerships in various 
+initiatives or formal engagement for TRCA projects 
+subject to legislation requiring engagement. TRCA’s 
+overall aim is to develop a positive relationship with 
+Aboriginal communities whose interests may be 
+impacted by TRCA projects, through a process of 
+meaningful, mutually respectful engagement....
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 575
+
+--- Document 2 ---
+Content:
+Table 4. Summary of indigenous Group consultation for the project. Source: TRCA, 2018. ................................. 44 
+Figures 
+Figure 1. The approximate location of works behind Peacham Crescent are denoted by red polygon. Source: 
+TRCA, 2018............................... 2...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 5
+
+--- Document 3 ---
+Content:
+6.2 Indigenous Engagement 
+Indigenous Communities have a range of views and experience to contribute to a project, thus engagement may 
+take on different forms in each community, depending on both the scope of the project and interests of the 
+community. Indigenous Engagement is intended to provide Indigenous Communities with an opportunity to 
+receive information about and have input to the project  proposal and, equally allows TRCA to identify and...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 49
+
+--- Document 4 ---
+Content:
+partners for building sustainable communities. The 
+policies also reflect the unique characteristics of TRCA’s 
+watersheds, and are informed by an integrated watershed 
+management approach.
+Humber Bay Shores, Humber River Watershed...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 584
+
+--- Document 5 ---
+Content:
+Implementation of these programs and strategies 
+occurs in a number of ways. For example, TWAHRS may 
+inform compensation projects required under the federal 
+Fisheries Act. 
+In reviewing planning and environmental assessment  
+applications affecting the waterfront, TRCA recognizes the 
+need to balance waterfront revitalization/redevelopment, 
+public access, and an open space “aesthetic” with natural 
+heritage and natural hazard protection and management....
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 591
+
+--- Document 6 ---
+Content:
+development of trails and management plans. This 
+community-based, ecologically-focused model was 
+adopted by other community groups and repeated 
+Lake Ontario shoreline and in the way TRCA conducts 
+its business today: 1) the creation of a number of large, 
+open space/parkland areas connected by a waterfront 
+trail system, including several public marinas; and, 2) a 
+planning process that is integrated with the municipal 
+planning process to include a variety of opportunities...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 552
+
+--- Document 7 ---
+Content:
+Region Conservation Authority (TRCA). The following communities and agencies were engaged: 
+ Beausoleil First Nation 
+ Chippewas of Georgina Island First Nation 
+ Chippewas of Rama-Mnjikaning First Nation 
+ Conseil de la Nation Huronne-Wendat 
+ Williams Treaties Claims Coordinator  
+ Curve Lake First Nation 
+ Hiawatha First Nation 
+ Mississaugas of Alderville First Nation 
+ Mississaugas of the New Credit First Nation 
+ Mississaugas of Scugog Island First Nation...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 292
+
+--- Document 8 ---
+Content:
+comment on development activities in hazardous areas and to ensure TRCA’s policy and 
+program objectives are considered during the planning process. 
+ 
+Note: The following sections on “Preliminary Consultation” and “Complete Application” 
+requirements may be subject to future updates and amendments as a result of municipal 
+implementation of the Regulations under the Planning and Conservation Land Statute Law 
+Amendment Act 2005 (Bill 51). 
+ 
+Preliminary Consultation...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 460
+
+--- Document 9 ---
+Content:
+the lists held by Toronto and Region Conservation Authority (TRCA). The following communities and agencies 
+were consulted, as outlined in Table 4; based on asserted or established interest:...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 49
+
+--- Document 10 ---

@@ -1,0 +1,23 @@
+# Persona
+"goal": "You are designed to be a specialized question-answering assistant, focusing on providing accurate answers based on Toronto and Region Conservation Authority (TRCA)'s technical documents, supplemented by web search results and GPT-4's knowledge base. The query will be delimited with four hashtags (i.e., ####)."
+
+# Inject Domain Information
+
+To answer the query: "#### Based on the '2019-04-02 Conceptual Alt. Report Peacham_Final', what were the key factors influencing the selection of the preferred conceptual slope stabilization alternatives? ####"
+I need to analyze the provided documents and identify the key factors that influenced the selection of the preferred conceptual slope stabilization alternatives.
+
+From Document 14, we can see that the subject slope behind 21, 23, & 25 Peacham Crescent predominantly consists of very loose to compact/soft to stiff earth fill materials (about 4.5 meters thick).
+
+Document 8 mentions that the MSE structure along the upper slope behind 21, 23, and 25 Peacham Crescent was the preferred slope stabilization solution.
+
+From Document 13, we can see that the Toronto and Region Conservation Authority (TRCA) developed a Class Environmental Assessment (EA) project plan for the Peacham Crescent Erosion Control and Slope Stabilization Project.
+
+From Document 14, we can see that the conceptual stabilization options for this site are developed based on a Factor of Safety (FOS) of 1.3 as requested by TRCA.
+
+Based on these documents, I would say that the key factors influencing the selection of the preferred conceptual slope stabilization alternatives include:
+
+* The existing geotechnical conditions behind 21, 23, & 25 Peacham Crescent.
+* The Factor of Safety (FOS) of 1.3 as requested by TRCA.
+* The feasibility, constructability, and cost of each alternative.
+
+Therefore, my answer to the query is: "The key factors influencing the selection of the preferred conceptual slope stabilization alternatives include the existing geotechnical conditions behind 21, 23, & 25 Peacham Crescent, the Factor of Safety (FOS) of 1.3 as requested by TRCA, and the feasibility, constructability, and cost of each alternative."

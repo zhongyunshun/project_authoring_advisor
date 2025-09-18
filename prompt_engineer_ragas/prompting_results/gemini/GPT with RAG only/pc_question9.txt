@@ -1,0 +1,49 @@
+```json
+[
+    {
+        "document_id": 1,
+        "content": "A full record of Indigenous community consultation including copies of all correspondence can be found in the \nRecord of Indigenous Engagement for the Peacham Crescent Slope Stabilization Project in Appendix D. \n6.3 Discussion of Concerns \n6.3.1 Discussion of Public Concerns \nThere have been no major concerns raised about this project. \n6.3.2 Discussion of Indigenous Community Concerns...",
+        "metadata": {
+            "source": "2019-09-26 Peacham Class EA PP.pdf",
+            "page": 50
+        },
+        "domain_information": "This document mentions that a full record of Indigenous community consultation, including correspondence, is available in Appendix D of the Record of Indigenous Engagement for the Peacham Crescent Slope Stabilization Project. It also indicates a discussion of Indigenous community concerns, suggesting that engagement did occur and concerns were addressed, however the details are not provided in this document."
+    },
+    {
+        "document_id": 2,
+        "content": "Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project \n  \n     Toronto and Region Conservation Authority    |    42 \n \n6.1 Public Notifications and Consultation \nIn accordance with the Class EA process, the first point of public contact occurred with the publication of the \nNotice of Intent on November 22, 2018.  \nNotices were sent to community groups, homeowners in the vicinity of the Project site, Indigenous communities,...",
+        "metadata": {
+            "source": "2019-09-26 Peacham Class EA PP.pdf",
+            "page": 48
+        },
+        "domain_information": "This document states that Indigenous communities were notified as part of the public consultation process, beginning with a Notice of Intent on November 22, 2018, indicating initial engagement."
+    },
+    {
+        "document_id": 3,
+        "content": "Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project \n  \n     Toronto and Region Conservation Authority    |    44 \n \n• Beausoleil First Nation \n• Chippewas of Georgina Island First Nation \n• Chippewas of Rama-Mnjikaning First Nation \n• Huron-Wendat Nation \n• Coordinator for the Williams Treaties First Nations \n• Curve Lake First Nation \n• Hiawatha First Nation \n• Mississaugas of Alderville First Nation \n• Mississaugas of the Credit First Nation...",
+        "metadata": {
+            "source": "2019-09-26 Peacham Class EA PP.pdf",
+            "page": 50
+        },
+        "domain_information": "This document lists specific Indigenous communities that were consulted for the Peacham Crescent Erosion Control and Slope Stabilization Project, providing a list of the First Nations involved in the consultation process. It does not detail the form of engagement or the resulting outcomes."
+    },
+    {
+        "document_id": 19,
+        "content": "assessment at 21, 23, and  25 Peacham Crescent, an evaluation of preliminary alternative solutions, and the \nproposed next steps. The CLC meeting served as a forum for interested residents and stakeholders to ask \nquestions of senior project staff regarding the proposed erosion control and slope stabilization works, including \ntimelines. \nComment forms were distributed by TRCA following the CLC meeting to ensure an understanding of the Project...",
+        "metadata": {
+            "source": "2019-09-26 Peacham Class EA PP.pdf",
+            "page": 49
+        },
+        "domain_information": "This document mentions a Community Liaison Committee (CLC) meeting where stakeholders, including residents, could ask questions about the project. Comment forms were distributed afterwards to gather feedback. While not explicitly stating Indigenous involvement in this specific meeting, it indicates a process for gathering feedback from the broader community, which could have included Indigenous representatives."
+    },
+    {
+        "document_id": 20,
+        "content": "Table 4. Summary of indigenous Group consultation for the project. Source: TRCA, 2018. ................................. 44 \nFigures \nFigure 1. The approximate location of works behind Peacham Crescent are denoted by red polygon. Source: \nTRCA, 2018. .............................................................................................................................................................. 2...",
+        "metadata": {
+            "source": "2019-09-26 Peacham Class EA PP.pdf",
+            "page": 5
+        },
+        "domain_information": "This document refers to 'Table 4. Summary of indigenous Group consultation for the project,' which suggests a summary table detailing the indigenous group consultation is included in the document, presumably on page 44.  This indicates a formal process for documenting Indigenous engagement."
+    }
+]
+```

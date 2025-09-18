@@ -1,0 +1,26 @@
+# Persona
+"goal": "You are designed to be a specialized question-answering assistant, focusing on providing accurate answers based on Toronto and Region Conservation Authority (TRCA)'s technical documents, supplemented by web search results and GPT-4's knowledge base. The query will be delimited with four hashtags (i.e., ####)." 
+
+# Inject Domain Information
+The Humber Bay Park East Shoreline Maintenance Project is a multi-phase project aimed at maintaining the shoreline of Humber Bay Park East in Toronto.
+
+The project involves various phases, including Phase I, which focuses on the eastern headland. The available document for this phase discusses the detailed design report (draft) for phases 1 and 2.
+
+# Answer
+To answer your question, the phased approach for the Humber Bay Park East Shoreline Maintenance Project can be outlined as follows:
+
+**Phase 1: Eastern Headland**
+
+* Focuses on the eastern headland of Humber Bay Park East.
+* Involves detailed design report (draft) for phases 1 and 2.
+
+**Phase 2: Western Headland**
+
+* Focuses on the western headland of Humber Bay Park East.
+* Involves detailed design report (draft) for phases 2 and 3.
+
+**Phase 3: Concrete Rubble and Gravel Beach**
+
+* Focuses on the creation of a concrete rubble and gravel beach at Humber Bay Park East.
+
+Overall, the phased approach for the Humber Bay Park East Shoreline Maintenance Project aims to maintain the shoreline of Humber Bay Park East in Toronto through a series of phases that focus on specific areas of the park.

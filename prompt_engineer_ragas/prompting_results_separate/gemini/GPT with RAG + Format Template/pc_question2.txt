@@ -1,0 +1,4 @@
+Query: #### In light of the findings from the Ecology Survey Memorandum for the Peacham Crescent Erosion Control and Slope Stabilization Project, what specific measures are proposed to mitigate impacts on local wildlife, especially concerning species identified in the vicinity? ####
+Answer: "The documents related to the Peacham Crescent Erosion Control and Slope Stabilization Project mention measures to minimize impacts on wildlife. Key strategies include planning construction activities to have the smallest footprint possible and scheduling them outside key migration and breeding windows (Document 3). Additionally, the project aims to minimize impacts to bird habitat through selective tree removal and conducting construction activities outside the bird breeding window (Document 18).
+
+Could you please specify which species identified in the vicinity you are most concerned about? This will help me refine the search for more specific mitigation measures."

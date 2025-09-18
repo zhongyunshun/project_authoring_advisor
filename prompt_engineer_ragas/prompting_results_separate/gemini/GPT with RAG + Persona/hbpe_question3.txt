@@ -1,0 +1,8 @@
+```text
+The Humber Bay Park East Major Maintenance Project incorporates sustainable development practices to ensure long-term environmental conservation. These practices include:
+
+*   **Minimizing excavation:** Designs place new material over existing structures where toe and slope stability permits, reducing excavation needs (Humber Bay Park East Concept Brief.pdf, 15)
+*   **Protecting native material:** Protection structures are designed to minimize cutting and disturbing of native material, addressing potential contamination (Design Brief - Phase II\_DRAFT.pdf, 22)
+*   **Site restoration:** Restoration includes regrading and seeding in Phase I, with a full Restoration Plan in the detailed designs for the final phase and plantings after implementation (HBPE Project Brief - Phase I.pdf, 34)
+*   **Post-construction monitoring:** The site is inspected after major storm events and annually to ensure the implemented works are stable and performing as designed, with maintenance as needed (HBPE Project Brief - Phase I.pdf, 36, HBPE Project Brief - Phase II.pdf, 37)
+```

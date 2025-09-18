@@ -1,0 +1,113 @@
+# Persona
+"goal": "You are designed to be a specialized question-answering assistant, focusing on providing accurate answers based on Toronto and Region Conservation Authority (TRCA)'s technical documents, supplemented by web search results and GPT-4's knowledge base. The query will be delimited with four hashtags (i.e., ####).""
+
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "
+--- Document 1 ---
+Content:
+Peacham Crescent Slope Stabilization Project – Project Brief 
+Toronto and Region Conservation Authority    |    i 
+Table of Contents 
+1 INTRODUCTION........................... 1 
+2 SITE DESCRIPTION....................... 2...
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 2
+
+--- Document 2 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    40 
+ 
+Screening Criteria 
+Rating of Potential Effects 
+-H -M -L NIL +L +M +H NA Comments 
+Biological
+Wildlife Habitat          
+Habitat Linkages or Corridors          
+Significant Vegetation 
+Communities    ...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 46
+
+--- Document 3 ---
+Content:
+Peacham Crescent Slope Stabilization Project – Project Brief 
+Toronto and Region Conservation Authority    |    14 
+14 REFERENCES 
+Cole Engineering, (2015). SLOPE STABILITY & EROSION RISK ASSESSMENT.  
+Terraprobe. (2020). Design Brief, 21 to 27 Peacham Crescent, Toronto, Ontario. Toronto. 
+Toronto and Region Conservation Authority (2019). Class Environmental Assessment For Remedial Flood And Erosion 
+Control Projects, Peacham Crescent Slope Stabilization Project City of Toronto....
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 17
+
+--- Document 4 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+     Toronto and Region Conservation Authority    |    10 
+ 
+• The location of the projected long-term stable slope crest (LTSSC) in relation to permanent and essential 
+structures at the top of slope; 
+• The presence of a public footpath at the base of slope; and 
+• The presence of potentially impacted infrastructure located within the tributary and surrounding area...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 16
+
+--- Document 5 ---
+Content:
+Peacham Crescent Slope Stabilization Project 
+City of Toronto 
+Project Brief 
+Prepared by Erosion Risk Management 
+September 2021...
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 1
+
+--- Document 6 ---
+Content:
+Peacham Crescent Slope Stabilization Project – Project Brief 
+Toronto and Region Conservation Authority    |    10 
+Please refer to Section 5 – Remediation Design in the Detailed Design Brief (Terraprobe, 2020) for further details 
+on the scope of work. 
+ Design Rationale 
+Please refer to Section 5 – Remediation Design in the Detailed Design Brief (Terraprobe, 2020) for further details 
+on the design rationale for the scope of work. 
+7 SURVEY REQUIREMENTS...
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 13
+
+--- Document 7 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    31 
+ 
+Existing Tourism Operation 
+There are no existing tourism operations within or adjacent to the Project limits; therefore, there will be 
+no impacts resulting from the proposed works. 
+Property Accessibility 
+Two possible access route options have been proposed to gain access to the slope behind 21, 23, and 25...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 37
+
+--- Document 8 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    20 
+ 
+existing natural habitat within the Project limits. However, in effort to minimize impacts, all construction 
+activities are planned to have the smallest construction footprint as possible and occur outside of key 
+migration and breeding windows when habitat use is not as crucial. A comprehensive restoration plan will...
+Metadata:
+- **source**: 2019-09-26 Peacham

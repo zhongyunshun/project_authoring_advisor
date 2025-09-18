@@ -1,0 +1,25 @@
+To detail the decision-making process behind choosing specific erosion control structures such as armourstone headlands and cobble/rubble beaches, we can refer to various technical documents sourced from the Toronto and Region Conservation Authority (TRCA).
+
+### Decision-Making Process:
+
+1. **Assessment of Erosion Risks**: The first step involved assessing the risks associated with shoreline erosion. The TRCA's Erosion Risk Management Program (ERMP) identifies critical areas where erosion poses a threat to both the natural environment and human infrastructures, such as homes and recreational areas (Document 7).
+
+2. **Analysis of Coastal Conditions**: Coastal conditions, including wave action, sediment transport, and the historical patterns of erosion, were evaluated to understand how different structures could perform under various scenarios. For example, the armourstone sizes were determined using the Hudson equation, relying on localized coastal conditions (Documents 6 and 4).
+
+3. **Environmental Impact Considerations**: Environmental impact was a significant factor in the choice of materials and designs. Smaller cobble sizes, while less protective, provide a more user-friendly beach environment and require more material to achieve protection levels comparable to larger stones (Document 3). This reflects a balance between user experience and effective erosion control.
+
+4. **Design Approach**: Two main approaches were considered for the revetment portions of the shoreline:
+   - **Option 1**: A complete rebuild of the existing revetment using the existing armourstone and introducing new materials where needed (Document 10).
+   - **Option 2**: Supplementing the existing structures with additional armour stone, which would maintain the shoreline while reducing overall disturbance (Document 22). This option aimed to mitigate environmental impact while providing adequate protectiveness against erosion.
+
+5. **Implementation Phases**: The project was executed in phases, ensuring that ongoing evaluations could be made and adjustments implemented as necessary. For example, discussions with TRCA staff influenced the choice of moving forward with option 2 in Phase I of the project (Document 22).
+
+6. **Monitoring and Maintenance**: The performance of the structures is regularly monitored post-installation to address any emerging issues such as material displacement or scouring. The documents frequently highlight that stability is paramount and immediate corrective actions may be required if natural settling occurs (Document 12).
+
+### Conclusion:
+The TRCA's strategic decision-making process for selecting erosion control structures hinges on a careful assessment of risk, local environmental conditions, user experience considerations, and ongoing monitoring. The detailed approach ensures that chosen methods are both effective in protecting the shoreline and sustainable for the local ecosystem.
+
+**Citations**:
+- Design Brief - Phase I and II
+- Humber Bay Park East Concept Brief
+- TRCA Erosion Risk Management Program Documentation

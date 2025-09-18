@@ -1,0 +1,424 @@
+
+# Persona
+"goal": "You are designed to be a specialized question-answering assistant, focusing on providing accurate answers based on Toronto and Region Conservation Authority (TRCA)'s technical documents, supplemented by web search results and GPT-4's knowledge base. The query will be delimited with four hashtags (i.e., ####)."
+        
+
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "
+--- Document 1 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+     Toronto and Region Conservation Authority    |    10 
+ 
+• The location of the projected long-term stable slope crest (LTSSC) in relation to permanent and essential 
+structures at the top of slope; 
+• The presence of a public footpath at the base of slope; and 
+• The presence of potentially impacted infrastructure located within the tributary and surrounding area...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 16
+
+--- Document 2 ---
+Content:
+The LTS SC models the natural regression of a slope crest resulting from erosion forces and is based on the 
+composition and conditions  of substrate materials. As part of the 2015 SS&ERA, Cole Engineering Group Ltd.  
+conducted a subsurface investigation to delineate the LTSSC behind Peacham Crescent using a factor of safety 
+(FoS) of 1.5. As can be seen in Figure 7, the positioning of th is LTSSC intersects the corner of the residential...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 16
+
+--- Document 3 ---
+Content:
+Long Term Stable Slope
+Crest (LTSSC) (FS 1.3) /
+Proposed Slope Crest
+21
+PEACHAM
+CRESCENT
+23
+PEACHAM
+CRESCENT
+25
+PEACHAM
+CRESCENT
+PEACHAM CRESCENT
+Chainlink fence
+A
+A'
+BC
+D
+EE'
+D' C'
+B'
+Asphalt path
+Wood walls
+Gabion Walls
+Chainlink fence
+(temporary)
+Chainlink fence
+Approximate
+extent of cut and
+revegetate
+Approximate
+Property
+Boundary
+Long Term Stable Slope
+Crest (LTSSC) (FS 1.3)
+54 05m 3 2 1
+SCALE 1:250FIGURE :
+Terraprobe
+11 Indell Lane, Brampton, Ontario, L6T 3Y3...
+Metadata:
+- **source**: 2019-04-02 Conceptual Alt. Report Peacham_Final.pdf
+- **page**: 16
+
+--- Document 4 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    11 
+ 
+ 
+Figure 7. The LTSSC projected behind Peacham Crescent, in the City of Toronto, with a factor of safety of 1.5. Source: Cole Engineering Group Ltd., 2015....
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 17
+
+--- Document 5 ---
+Content:
+Long Term Stable Slope Crest
+(LTSSC) (FS 1.3) /
+Proposed Slope Crest
+142
+144
+146
+148
+150
+152
+154
+156
+158
+05101520253035
+Chainlink fence
+(to be moved)
+21
+Peacham
+CrescentPatioExisting Shed
+(to be demolished /
+moved)
+1
+1.1±
+1
+7.7±
+SECTION A-A'
+DISTANCE (m)
+ELEVATION (m)
+ELEVATION (m)
+142
+144 146
+148
+150 152 154
+156
+158
+northwestsoutheast
+Silty Clay
+Sandy Silt
+Sandy Silt Till
+Silty Sand
+Silty Sand
+Silty Clay
+Erosion Control Blanket
+Min. 150mm Topsoil
+(vegetation as approved by TRCA)...
+Metadata:
+- **source**: 2019-04-02 Conceptual Alt. Report Peacham_Final.pdf
+- **page**: 17
+
+--- Document 6 ---
+Content:
+(LTSSC for a Factor of Safety of 1.5) would intersect the resid ential dwelling at 21 Peacham Crescent 
+(refer to the report Slope Stability & Erosion Risk Assessment, Area  E Properties, City of Toronto, File 
+No. WR14-0072, dated April 2015 ). As a result of the identified risk to human life and propert y from the 
+hazards of erosion and slope instability, TRCA proceeded with t he design and implementation of slope 
+stabilization work....
+Metadata:
+- **source**: 2019-04-02 Conceptual Alt. Report Peacham_Final.pdf
+- **page**: 2
+
+--- Document 7 ---
+Content:
+protection schemes are already in place, effectively preventing toe erosion along the 
+watercourse. 
+ 
+The Long-Term Stable Slope Line (LTSSL), incorporating the stable gradient and toe 
+erosion setbacks, if any, is presented on the stable/remodeled slope Drawing Nos. 1 to 
+73.  As revealed, the LTSSL will cut into the majority of the existing residential house 
+envelopes.  In order to reduce the hazards identified and to maintain the available space...
+Metadata:
+- **source**: 2015-05-19 Cole AREA E - Peacham Cres.pdf
+- **page**: 165
+
+--- Document 8 ---
+Content:
+topographic survey, and Soil Engineers Ltd. conducted borehole drilling to evaluate the LTSSC. Using the 
+field investigations, five (5) preliminary alternatives were proposed based on feasibility and the ability to 
+mitigate risk to infrastructure, private property and human life. 
+Based  on  the  results  of  the  geotechnical  investigation,  Soil  Engineers  Ltd.  has  recommended  the 
+following slope remediation options at 21Ͳ25 Peacham Crescent: ...
+Metadata:
+- **source**: 2015-05-19 Cole AREA E - Peacham Cres.pdf
+- **page**: 13
+
+--- Document 9 ---
+Content:
+In 2015, a geotechnical investigation was completed by Cole Engineering Group Ltd. to determine the 
+position of the LTSSC along a section of valley slope behind 21, 23, and 25 Peacham Crescent at a factor 
+of safety of 1.5. Cole Engineering Group Ltd. worked with Soil Engineers Ltd. to advance five (5) boreholes, 
+one of which was used as a monitoring well to assess ground water conditions, to determine the...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 20
+
+--- Document 10 ---
+Content:
+Figure 7. The LTSSC projected behind Peacham Crescent, in the City of Toronto, with a factor of safety of 1.5. 
+Source: Cole Engineering Group Ltd., 2015. ........................................................................................................... 11 
+Figure 8. 1946 historical aerial photograph of area surrounding the location of the Peacham Crescent Slope...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 5
+
+--- Document 11 ---
+Content:
+damage behind the properties, a slope stability and erosion ris k assessment (SS&ERA) was initiated by 
+TRCA through the Erosion Risk Management Program. As part of th is work, Cole Engineering Group 
+Ltd. (Cole) and Soil Engineers Ltd. (Soil Engineers) were retai ned in 2015 to complete the assessment. 
+Based on the results of the SS&ERA, it was revealed that the an ticipated Long Term Stable Slope Crest...
+Metadata:
+- **source**: 2019-04-02 Conceptual Alt. Report Peacham_Final.pdf
+- **page**: 2
+
+--- Document 12 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    39 
+ 
+Table 3. Detailed Environmental Analysis of the Preferred Alternative – MSE Structure 
+Screening Criteria 
+Rating of Potential Effects 
+-H -M -L NIL +L +M +H NA Comments 
+Physical                                                                                                                                   
+Unique Landforms    ...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 45
+
+--- Document 13 ---
+Content:
+Peacham Crescent Slope Stabilization Project – Project Brief 
+Toronto and Region Conservation Authority    |    14 
+14 REFERENCES 
+Cole Engineering, (2015). SLOPE STABILITY & EROSION RISK ASSESSMENT.  
+Terraprobe. (2020). Design Brief, 21 to 27 Peacham Crescent, Toronto, Ontario. Toronto. 
+Toronto and Region Conservation Authority (2019). Class Environmental Assessment For Remedial Flood And Erosion 
+Control Projects, Peacham Crescent Slope Stabilization Project City of Toronto....
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 17
+
+--- Document 14 ---
+Content:
+Hydroseed, live planting & staking
+Long Term Stable Slope
+Crest (LTSSC) (FS 1.3) /
+Proposed Slope Crest
+Subdrain 150mm Dia.
+connected to a positive outlet
+(Refer to Figures 5 and 5C for
+plan and details)
+142
+144
+146
+148
+150
+152
+154
+156
+0510152025303540
+1
+11.3±
+SECTION E-E'
+25
+Peacham
+Crescent
+PatioPatio
+Stone
+ELEVATION (m)
+ELEVATION (m)
+142
+144
+146
+148 150
+152
+154 156
+northsouthEarth Fill
+Silty Clay Till
+Sandy Silt Till
+Silty Clay Till
+Silty Fine Sand
+DISTANCE (m)...
+Metadata:
+- **source**: 2019-04-02 Conceptual Alt. Report Peacham_Final.pdf
+- **page**: 25
+
+--- Document 15 ---
+Content:
+Toronto and Region Conservation Authority  21 Peacham Crescent 
+City of Toronto  Slope Stability & Erosion Risk Assessment 
+area  between  the  existing  top  of  bank  and  the  LTSSC  will  be  at  risk  of being  undermined.  This 
+alternative would not stabilize the slope or mitigate the erosion occurring on the site. The “Do Nothing” 
+approach is not desired due to the LTSSC crossing through the footprint of the existing building. The Do ...
+Metadata:
+- **source**: 2015-05-19 Cole AREA E - Peacham Cres.pdf
+- **page**: 11
+
+--- Document 16 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    12 
+ 
+2.0 BACKGROUND 
+This section provides an overview of the causes and extent of erosion and slope instability hazards 
+impacting the Project site and includes justification for TRCA’s involvement and approach to developing a 
+remedial solution. The studies and assessments undertaken by TRCA to evaluate the Project site are listed...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 18
+
+--- Document 17 ---
+Content:
+following the July 8, 2013 severe storm event. The Project limits incorporate a segment of valley slope located behind three 
+(3) residential properties located at 21, 23, and 25 Peacham Crescent, in the City of Toronto. Following visual inspections in 
+2013 by TRCA Erosion Risk Management staff, this site was recommended to undergo a detailed slope stability and erosion 
+risk assessment (SS&ERA) to  determine the type and extent of risk to essential structures at the top of slope . The SS&ERA...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 3
+
+--- Document 18 ---
+Content:
+geogrid, flex MSE bag & plate)
+Hydroseed, live planting & staking
+Long Term Stable Slope
+Crest (LTSSC) (FS 1.3) /
+Proposed Slope Crest
+Subdrain 150mm Dia.
+connected to a positive outlet
+(Refer to Figures 4 and 4C for
+plan and details)
+142
+144
+146
+148
+150
+152
+154
+156
+0510152025303540
+1
+11.3±
+SECTION E-E'
+25
+Peacham
+Crescent
+PatioPatio
+Stone
+ELEVATION (m)
+ELEVATION (m)
+142
+144
+146 148
+150 152 154
+156
+northsouth
+Earth Fill
+Silty Clay Till
+Sandy Silt Till
+Silty Clay Till
+Silty Fine Sand...
+Metadata:
+- **source**: 2019-04-02 Conceptual Alt. Report Peacham_Final.pdf
+- **page**: 21
+
+--- Document 19 ---
+Content:
+hazards of valley slope erosion by providing long-term, low maintenance protection for the four (4) private 
+properties within the Project limits. 
+Following the July 8, 2013, severe weather event, significant slumping and slope instability was reported behind 
+Peacham Crescent (Figure 1 and Figure 2). After visual inspections by TRCA Erosion Risk Management staff, it 
+was noted that a failure had occurred along the upper slope causing damage to an existing wooden retaining...
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 4
+
+--- Document 20 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    40 
+ 
+Screening Criteria 
+Rating of Potential Effects 
+-H -M -L NIL +L +M +H NA Comments 
+Biological                                                                                                                                   
+Wildlife Habitat          
+Habitat Linkages or Corridors          
+Significant Vegetation 
+Communities    ...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 46
+
+--- Document 21 ---
+Content:
+works supported by the ERMP to provide long-term protection for life and property. 
+The Peacham Crescent Slope Stabilization P roject is being completed in accordance with the Class Environmental 
+Assessment for Remedial Flood and Erosion Control Projects, amended 2013 (Class EA), with the objective of reducing risk 
+to life and property, as per the mandate of Conservation Authoriti es under the Conservation Authorities Act (R.S.O 1990)....
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 3
+
+--- Document 22 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+     Toronto and Region Conservation Authority    |    6 
+ 
+1.3 Description of the Study Area 
+Following the July 8, 2013 severe weather event, significant slumping ; slippage; and slope instability w ere 
+reported to have occurred behind three properties on Peacham Crescent, spanning approximately 52 metres of...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 12
+"
+}
+        
+
+# Chain of Thought
+Step 1: #### Refer to TRCA's technical documents first.
+Step 2: #### If the information is incomplete, use web search for current data.
+Step 3: #### If still unresolved, utilize GPT-4's knowledge (up to its training cutoff).
+Step 4: #### Cite sources from TRCA docs or web. Indicate if info is based on GPT-4's training data.
+        
+The query will be delimited with #### characters: #### How does the Slope Stability and Erosion Risk Assessment define "Long-Term Stable Slope Crests" (LTSSC), and what criteria are used to determine these in the context of the Peacham Crescent projects? ####
+
+# Few-Shot Example
+Query: "Can you outline the phased approach for the Humber Bay Park East Shoreline Maintenance Project?"
+Retrieved passages: "The eastern armourstone headland ... a risk to park users."
+Answer: "The Humber Bay Park East Shoreline Maintenance Project is divided into multiple phases, each with specific timelines. The available document focuses on Phase I..."
+        

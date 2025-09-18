@@ -1,0 +1,27 @@
+Based on the provided documents, here's a summary of the long-term monitoring and maintenance strategies outlined for erosion control measures, particularly within the "HBPE Project Brief - Phase I" and related projects:
+
+**Key Strategies:**
+
+*   **Post-Construction Monitoring:** Sites are inspected during the first year after major storm events and annually thereafter to ensure the implemented works are stable and performing as designed (Documents 1 & 2).
+*   **Maintenance:** Any maintenance required will be performed (Documents 1 & 2).
+*   **Erosion and Sediment Control (ESC) Measures:** ESC measures are implemented prior to and maintained during construction to prevent sediment entry into the water. Damaged measures should be repaired/replaced within 48 hours of inspection (Document 5).
+*   **Adaptive Management:** Erosion and sediment control strategies are not static and may need upgrades/amendments as site conditions change to minimize sediment laden runoff. Alternative measures must be implemented immediately if prescribed measures are ineffective (Document 6).
+*   **Pre- and Post-Construction Erosion Monitoring:** Monitoring includes a record of photographs (Document 7).
+*   **Vegetation Monitoring:** Monitoring of proposed vegetation should be conducted for two (2) years after planting to ensure survivability (Document 7).
+*   **Site Restoration and Plantings:** Site restoration includes regrading and seeding. The full Restoration Plan will be part of the detailed designs for the final phase of the project, and plantings will occur after the implementation (Document 9). Final site restoration will occur following completion of all three phases of the project (Document 17).
+*   **Long-term Resiliency:** Designs prioritize long-term resiliency while reducing the need for excavation and off-site disposal to limit disturbance and impacts of the construction activities (Document 8).
+*   **Regular Monitoring During Construction:** Regular monitoring by trained professionals will be conducted to ensure all best management practices are being used to avoid or minimize disturbance to the environment. Any damaged or defective ESC measures will be repaired upon detection (Document 15).
+*   **Maintenance Until Re-vegetation:** Effective erosion and sediment control measures will be maintained until the site is re-vegetated (Document 13).
+
+**Specific Project Context (Humber Bay Park East):**
+
+*   The Humber Bay Park East Shoreline Maintenance Project involves multiple phases (Phase I - Eastern Headland, Phase II - Western Headland).
+*   The projects aim to address erosion concerns, including low crest elevation and wave overtopping (Document 8 & 18).
+*   Site setup includes installation of ESC measures, tree protection, and site perimeter control (Documents 11 & 19).
+
+**Overall Goals:**
+
+*   Provide long-term, low-maintenance protection against erosion (Document 12).
+*   Ensure compatibility with the surrounding environment, including habitat enhancement (Document 12).
+*   Minimize pollution and sedimentation during construction and post-construction using best management practices (Document 20).
+*   Restore disturbed areas to existing conditions or better, including vegetation (Document 21).

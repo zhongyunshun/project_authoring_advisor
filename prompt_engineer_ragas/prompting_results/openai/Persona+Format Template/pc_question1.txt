@@ -1,0 +1,14 @@
+The "Long-Term Stable Slope Crest" (LTSSC) is defined within the context of slope stability assessments, particularly as it pertains to projects like the Peacham Crescent Slope Stabilization Project undertaken by the Toronto and Region Conservation Authority (TRCA). The LTSSC represents the projected position of a slope crest that is deemed stable over the long term, taking into account various factors such as erosion forces, geological composition, and environmental conditions.
+
+### Criteria for Determining LTSSC
+1. **Geotechnical Investigations**: The LTSSC is established based on data gathered from detailed geotechnical investigations. In the case of the Peacham Crescent project, Cole Engineering Group Ltd. conducted subsurface investigations to delineate the LTSSC parameters. This included diverse soil composition assessments and the evaluation of slope conditions (Documents 2 and 9).
+
+2. **Factor of Safety (FS)**: The LTSSC is determined with a specific factor of safety in mind—in this case, a factor of safety of 1.5 was used as a standard for projecting the LTSSC behind certain residential properties (Document 6). This factor is critical for ensuring that the slope is robust enough to withstand potential erosion and slippage.
+
+3. **Historical Data and Events**: Recent significant weather events, such as the severe storm on July 8, 2013, served as catalysts for initiating thorough stability assessments, contributing historical context to the evaluation of slope stability and erosion risks (Document 19).
+
+4. **Assessment of Infrastructure Risk**: The assessment considers the proximity of the LTSSC to existing structures and private properties, evaluating potential risks to human life and property based on the projected slope stability (Documents 4 and 21).
+
+5. **Mitigation Strategies**: Furthermore, different mitigation alternatives are examined, exploring what strategies might effectively reduce risks associated with erosion and instability, leading to the proposal of five preliminary alternatives aimed at protecting infrastructure and residential properties (Document 8).
+
+In summary, the LTSSC is a critical component of the overall slope stability and erosion risk assessment process at Peacham Crescent, being determined through a combination of geotechnical analysis, safety factors, historical weather events, and potential risk assessments pertaining to infrastructure.

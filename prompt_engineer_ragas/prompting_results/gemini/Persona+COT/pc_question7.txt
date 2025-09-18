@@ -1,0 +1,11 @@
+Based on the "2019-04-02 Conceptual Alt. Report Peacham_Final.pdf" and related documents regarding the Peacham Crescent slope stabilization, the key factors influencing the selection of the preferred conceptual slope stabilization alternatives included:
+
+*   **Factor of Safety (FOS):** The conceptual stabilization options were developed based on a Factor of Safety of 1.3, as requested by TRCA (2019-04-02 Conceptual Alt. Report Peacham\_Final.pdf, page 3).
+*   **Slope Failure Location**: All options included stabilization of the upper portion of the slope (approximately 3 to 6 m) where the slope failure occurred (2019-04-02 Conceptual Alt. Report Peacham\_Final.pdf, page 3).
+*   **Subsurface Conditions:** The designs considered the subsurface information, including the presence of very loose to compact/soft to stiff earth fill materials (2019-04-02 Conceptual Alt. Report Peacham\_Final.pdf, page 2).
+*   **Feasibility, Constructability, and Cost:** Soil Engineers Ltd. provided five potential alternatives, which were assessed based on these criteria. (2015-05-19 Cole AREA E - Peacham Cres.pdf, page 61)
+*   **Project Objectives:** The selected alternative needed to meet the project objectives, including risk mitigation and addressing drainage and stormwater runoff concerns (2019-09-26 Peacham Class EA PP.pdf, page 44).
+*   **Impact on Tableland:** Alternatives were evaluated based on whether they eliminated the loss of tableland from the rear of the properties (2019-09-26 Peacham Class EA PP.pdf, page 40).
+*   **Environmental Impact:** Alternatives were assessed for their impact on existing vegetation and the amount of excess soil removal required (2019-09-26 Peacham Class EA PP.pdf, page 44).
+*   **Maintenance Costs**: The cost to maintain the proposed structure (2019-09-26 Peacham Class EA PP.pdf, page 42)
+*   **Public Safety**: Potential risks to the public and requirements for safety features (2019-09-26 Peacham Class EA PP.pdf, page 42)

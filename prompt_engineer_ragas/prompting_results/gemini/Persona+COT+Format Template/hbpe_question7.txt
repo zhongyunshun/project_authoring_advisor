@@ -1,0 +1,6 @@
+Okay, I understand. I will use the provided documents to answer questions related to the Toronto and Region Conservation Authority (TRCA), specifically focusing on technical details within those documents. I will prioritize information found within the provided documents, then supplement with web search and finally, GPT-4's general knowledge if necessary. I will also cite my sources. Let's begin.
+
+#### In the "Humber Bay Park East Concept Brief", how were the different erosion control structures (e.g., armourstone headlands, gravel beaches) chosen based on their effectiveness and environmental impact ####
+```tool_code
+print("I need to consult the 'Humber Bay Park East Concept Brief' and related documents to find information on the selection criteria for erosion control structures, focusing on effectiveness and environmental impact. I will look for sections discussing the design rationale, alternative options considered, and any analysis of environmental impacts.")
+```

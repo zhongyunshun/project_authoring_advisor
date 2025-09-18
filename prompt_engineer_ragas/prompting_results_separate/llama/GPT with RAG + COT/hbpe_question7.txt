@@ -1,0 +1,106 @@
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "Humber Bay Park East Major Maintenance Project – Concept Brief" 
+    Toronto and Region Conservation Authority  |  2 
+ 
+Figure 2. Location of pond drainage at eastern limit of Armourstone Headland WF11.10. Source: TRCA, 2021.  
+ Existing Erosion Control Structures 
+The condition of each of the three erosion control structures within the project area is summarized in Table 1. 
+Photos and sketches of the structures are presented in Figure 3 through Figure 12....
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 5
+
+--- Document 2 ---
+Content:
+Humber Bay Park East Major Maintenance Project – Concept Brief 
+Toronto and Region Conservation Authority    |    8 
+2.3.3 Eastern Armourstone Headland (WF11.12) 
+ 
+ 
+Figure 10. Condition of the eastern armourstone headland (WF11.12), with visible displacement of material, backshore erosion, and scouring. Source: TRCA, 2019. 
+ 
+Figure 11. Scouring and armourstone displacement along eastern section of structure WF11.12.  Source: TRCA, 2019....
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 11
+
+--- Document 3 ---
+Content:
+Table 1. Overall condition of the erosion control structures included in the Humber Bay Park East Major Maintenance Project. 
+Source: TRCA, 2020. 
+Structure Structural 
+Stability 
+Overall 
+Condition Deficiencies 
+WF11.10 
+(Western 
+Armourstone 
+Headland) 
+Failing Fair 
+• Minor displacement of armourstone along western and central extents of 
+structure  
+• Scouring of areas above the headland due to overtopping –  some rip rap...
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 5
+
+--- Document 4 ---
+Content:
+Humber Bay Park East Major Maintenance Project – Concept Brief 
+Toronto and Region Conservation Authority    |    4 
+ 
+Figure 4. Irregular armourstone crest profile with areas of flooding behind the structure during the high L ake Ontario water 
+level event in 2019. Source: TRCA, 2019. 
+ 
+Figure 5. Condition of eastern limit of the structure with visible displacement of armourstone material. The pond drainage can 
+be seen behind the armourstone. Source: TRCA, 2019....
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 7
+
+--- Document 5 ---
+Content:
+Humber Bay Park East Major Maintenance Project – Concept Brief 
+Toronto and Region Conservation Authority    |    12 
+addressing the leading erosion concerns of the park , including low crest elevation and wave overtopping.  The 
+proposed concepts have been designed to  address these concerns by plac ing new material over the existing 
+structures where toe and slope stability permits, thereby minimizing excavation requirements. Two sections have...
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 15
+
+--- Document 6 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase I – Eastern Headland 
+Project Brief  
+Toronto and Region Conservation Authority    |    4 
+along the backshore. This irregular profile places low lying areas at greater risk of flooding  during elevated lake 
+levels. Additional stone has been placed in many of the scours to temporarily improve shoreline protection (Figure 
+5 and Figure 6), however, these are interim measures only. The western limit of the structure near the transition...
+Metadata:
+- **source**: HBPE Project Brief - Phase I.pdf
+- **page**: 7
+
+--- Document 7 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase I – Eastern Headland 
+Project Brief  
+Toronto and Region Conservation Authority    |    6 
+ 
+Figure 5. Condition of the eastern armourstone headland (WF11.12), with visible displacement of material, backshore erosion, 
+and scouring. Source: TRCA, 2019. 
+ 
+Figure 6. Scouring and armourstone displacement along eastern section of structure WF11.12.  Source: TRCA, 2019....
+Metadata:
+- **source**: HBPE Project Brief - Phase I.pdf
+- **page**: 9
+
+--- Document 8 ---
+Content:
+Humber Bay Park East Major Maintenance Project – Concept Brief 
+Toronto and Region Conservation Authority    |    14 
+At its eastern limit, the headland  transitions into beach  WF11.11. At this transition point, the concept design 
+includes the creation of a berm, consisting of 2-3 tonne armourstone, to create a formal outlet area for the ponds 
+(Figure 16 and Figure 17). The elevation of the treatment will be 

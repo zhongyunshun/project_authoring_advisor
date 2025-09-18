@@ -1,0 +1,329 @@
+
+# Persona
+"goal": "You are designed to be a specialized question-answering assistant, focusing on providing accurate answers based on Toronto and Region Conservation Authority (TRCA)'s technical documents, supplemented by web search results and GPT-4's knowledge base. The query will be delimited with four hashtags (i.e., ####)."
+        
+
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "
+--- Document 1 ---
+Content:
+Humber Bay Park East Major Maintenance Project – Concept Brief 
+Toronto and Region Conservation Authority    |    2 
+ 
+Figure 2. Location of pond drainage at eastern limit of Armourstone Headland WF11.10. Source: TRCA, 2021.  
+ Existing Erosion Control Structures 
+The condition of each of the three erosion control structures within the project area is summarized in Table 1. 
+Photos and sketches of the structures are presented in Figure 3 through Figure 12....
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 5
+
+--- Document 2 ---
+Content:
+Humber Bay Park East Major Maintenance Project – Concept Brief 
+Toronto and Region Conservation Authority    |    8 
+2.3.3 Eastern Armourstone Headland (WF11.12) 
+ 
+ 
+Figure 10. Condition of the eastern armourstone headland (WF11.12), with visible displacement of material, backshore 
+erosion, and scouring. Source: TRCA, 2019. 
+ 
+Figure 11. Scouring and armourstone displacement along eastern section of structure WF11.12.  Source: TRCA, 2019....
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 11
+
+--- Document 3 ---
+Content:
+Table 1. Overall condition of the erosion control structures included in the Humber Bay Park East Major Maintenance Project. 
+Source: TRCA, 2020. 
+Structure Structural 
+Stability 
+Overall 
+Condition Deficiencies 
+WF11.10 
+(Western 
+Armourstone 
+Headland) 
+Failing Fair 
+• Minor displacement of armourstone along western and central extents of 
+structure  
+• Scouring of areas above the headland due to overtopping –  some rip rap...
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 5
+
+--- Document 4 ---
+Content:
+Humber Bay Park East Major Maintenance Project – Concept Brief 
+Toronto and Region Conservation Authority    |    4 
+ 
+Figure 4. Irregular armourstone crest profile with areas of flooding behind the structure during the high L ake Ontario water 
+level event in 2019. Source: TRCA, 2019. 
+ 
+Figure 5. Condition of eastern limit of the structure with visible displacement of armourstone material. The pond drainage can 
+be seen behind the armourstone. Source: TRCA, 2019....
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 7
+
+--- Document 5 ---
+Content:
+Humber Bay Park East Major Maintenance Project – Concept Brief 
+Toronto and Region Conservation Authority    |    12 
+addressing the leading erosion concerns of the park , including low crest elevation and wave overtopping.  The 
+proposed concepts have been designed to  address these concerns by plac ing new material over the existing 
+structures where toe and slope stability permits, thereby minimizing excavation requirements. Two sections have...
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 15
+
+--- Document 6 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase I – Eastern Headland 
+Project Brief  
+Toronto and Region Conservation Authority    |    4 
+along the backshore. This irregular profile places low lying areas at greater risk of flooding  during elevated lake 
+levels. Additional stone has been placed in many of the scours to temporarily improve shoreline protection (Figure 
+5 and Figure 6), however, these are interim measures only. The western limit of the structure near the transition...
+Metadata:
+- **source**: HBPE Project Brief - Phase I.pdf
+- **page**: 7
+
+--- Document 7 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase I – Eastern Headland 
+Project Brief  
+Toronto and Region Conservation Authority    |    6 
+ 
+Figure 5. Condition of the eastern armourstone headland (WF11.12), with visible displacement of material, backshore erosion, 
+and scouring. Source: TRCA, 2019. 
+ 
+Figure 6. Scouring and armourstone displacement along eastern section of structure WF11.12.  Source: TRCA, 2019....
+Metadata:
+- **source**: HBPE Project Brief - Phase I.pdf
+- **page**: 9
+
+--- Document 8 ---
+Content:
+Humber Bay Park East Major Maintenance Project – Concept Brief 
+Toronto and Region Conservation Authority    |    14 
+At its eastern limit, the headland  transitions into beach  WF11.11. At this transition point, the concept design 
+includes the creation of a berm, consisting of 2-3 tonne armourstone, to create a formal outlet area for the ponds 
+(Figure 16 and Figure 17). The elevation of the treatment will be 78.5 m.a.s.l. (Figure 17). The pond will drain into...
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 17
+
+--- Document 9 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase I – Eastern Headland 
+Project Brief  
+Toronto and Region Conservation Authority    |    29 
+9 EROSION AND SEDIMENT CONTROL MEASURES 
+Prior to the start of construction, staging and stockpiling areas will be isolated with standard silt socks to prevent 
+the entry of deleterious substances into the watercourse, as shown previously Figure 24. All barriers will be...
+Metadata:
+- **source**: HBPE Project Brief - Phase I.pdf
+- **page**: 32
+
+--- Document 10 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase II – Western Headland 
+Project Brief  
+ 
+Toronto and Region Conservation Authority    |    30 
+ 
+9 EROSION AND SEDIMENT CONTROL MEASURES 
+Prior to the start of construction, staging and stockpiling areas will be isolated with standard silt socks to prevent 
+the entry of deleterious substances into the watercourse, as shown previously Figure 27. All barriers will be...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 33
+
+--- Document 11 ---
+Content:
+Humber Bay Park East Major Maintenance Project – Concept Brief 
+Toronto and Region Conservation Authority    |    17 
+In general, smaller cobble sizes will offer a more user-friendly beach environment for park users than larger stone, 
+but more material will be required to sufficiently protect the shoreline. Treatments using smaller cobble  will 
+therefore have higher costs and a greater in -water footprint as well as greater potential  for maintenance needs...
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 20
+
+--- Document 12 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase II – Western Headland 
+Project Brief  
+ 
+Toronto and Region Conservation Authority    |    22 
+ 
+5. Repair of the pond outlet area by creating an armourstone berm that allows for drainage of the 
+ponds. This will include: 
+a. Excavation of the existing bed to prepare for installation of the armourstone. 
+b. Placement of the geotextile base and 300-600 mm as core stone as well as 3-5 tonne 
+armourstones to act as toe stones....
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 25
+
+--- Document 13 ---
+Content:
+detailed design of shoreline protection for the eastern part of the site from  about the beach area 
+on the south side to the headland and proceeding counter clockwise  to the north easterly 
+headland of Humber Bay Park East . Phase 2 will inclu de the detailed design for the southern 
+headland.  Phase 3 will include the concrete rubble and gravel beach.  
+1.1 Report Structure  
+The report is organized as follows. Section 1 provides a brief introduction of the project. Section...
+Metadata:
+- **source**: Design Brief - Phase I.pdf
+- **page**: 5
+
+--- Document 14 ---
+Content:
+Figure 1. Map of Humber Bay Park East and location of erosion control structures. Source: TRCA, 2019.  
+ Land Usage 
+The area adjacent to the structures is parkland  and includes formal and informal trails  that run parallel to the 
+shoreline. The park features a system of streams and ponds, one of which drains at the eastern limit of the western 
+headland (WF11.10) as shown in Figure 2....
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 4
+
+--- Document 15 ---
+Content:
+Humber Bay Park East Major Maintenance Project 
+Detailed Design Report (Final Phase 1)  TRCA Project No. 10020801 
+Toronto Region Conservation Authority  Shoreplan File 19-3133 
+ 
+  4 
+specifically in areas of lower crest elevation that are exposed to higher waves.  The wave 
+distribution around the site is discussed in the next section.  
+During our inspections it was noted that the majority of individual armour stones are in good...
+Metadata:
+- **source**: Design Brief - Phase I.pdf
+- **page**: 8
+
+--- Document 16 ---
+Content:
+detailed design of shoreline protection for the eastern part of the site from  about the beach area 
+on the south side to the headland and proceeding counter clockwise  to the north easterly 
+headland of Humber Bay Park East  and. Phase 2, detailed design for the southern headland  
+proceeding counter clockwise to the beach.  Phase 3 will include the concrete rubble and gravel 
+beach.  
+1.1 Report Structure...
+Metadata:
+- **source**: Design Brief - Phase II_DRAFT.pdf
+- **page**: 6
+
+--- Document 17 ---
+Content:
+Humber Bay Park East Major Maintenance Project – Concept Brief 
+Toronto and Region Conservation Authority    |    16 
+ WF11.11 – Cobble/Rubble Beach 
+The concept designs for the beach call for placement of fill over the existing profile of the beach (Figure 19). Four 
+alternative options were proposed  for the beach treatment which  vary based on the cobble size and required 
+quantity, ranging from 10 to 100 mm diameter stone (Figure 20). Profile details of the four options are summarized...
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 19
+
+--- Document 18 ---
+Content:
+Humber Bay Park East Major Maintenance Project – Concept Brief 
+Toronto and Region Conservation Authority    |    3 
+• See Figure 6 for sketch 
+WF11.11 
+(Gravel/Rubble 
+Beach) 
+Failing Fair 
+• Slumping, undercutting, and scouring along the backshore (Figure 7) 
+• Scouring has encroached on an informal path 
+• Minor debris buildup throughout the structure 
+• Complete displacement of material and backshore scouring at western 
+limit of the structure (Figure 8) 
+• See Figure 9 for sketch 
+WF11.12...
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 6
+
+--- Document 19 ---
+Content:
+Humber Bay Park East Major Maintenance Project 
+Detailed Design Report (Draft, Phases 1 & 2)  TRCA Project No. 10020801 
+Toronto Region Conservation Authority  Shoreplan File 19-3133 
+ 
+  17 
+It was assumed that the native material composition of the shoreline had potential to be 
+contaminated and therefore the protection structures were designed to minimize cutting and 
+disturbing of native material. 
+4.2.5.6 Aquatic Habitat Alteration & Loss...
+Metadata:
+- **source**: Design Brief - Phase II_DRAFT.pdf
+- **page**: 22
+
+--- Document 20 ---
+Content:
+Humber Bay Park East Major Maintenance Project 
+Detailed Design Report (Draft, Phases 1 & 2)  TRCA Project No. 10020801 
+Toronto Region Conservation Authority  Shoreplan File 19-3133 
+ 
+  4 
+During our inspections it was noted that the majority of individual armour stones are in good 
+condition and can remain in the revetment structures. The below photos show the condition of the 
+existing revetment structures as observed during our site visits.  
+DRAFT 
+2022 08 31...
+Metadata:
+- **source**: Design Brief - Phase II_DRAFT.pdf
+- **page**: 9
+
+--- Document 21 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase II – Western Headland 
+Project Brief  
+ 
+Toronto and Region Conservation Authority    |    25 
+ 
+ 
+ 
+Figure 22. Profile views for the pond outlet. The first and second cross sections correspond with the yellow and orange lines 
+in Figure 21 respectively. Source: Shoreplan, 2022. 
+6.2.3 Eastern Headland Transition 
+The treatment for this section includes an armourstone node and retaining wall system to preserve and protect...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 28
+
+--- Document 22 ---
+Content:
+Humber Bay Park East Major Maintenance Project – Concept Brief 
+Toronto and Region Conservation Authority    |    6 
+2.3.2 Cobble/Gravel Beach (WF11.11) 
+ 
+Figure 7. Condition of the cobble/gravel beach (WF 11.11), with visible scouring and undercutting. Source: TRCA, 2019. 
+ 
+Figure 8. Scouring and material displacement encroaching on informal trail  at eastern limit of structure. Source: TRCA, 2019....
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 9
+"
+}
+        
+
+# Format Template
+You are designed to ask for clarifications in case of ambiguous queries or when more specific details are needed.
+The tone of the responses will be professional, focusing on clarity, accuracy, and relevance, suitable for the technical nature of TRCA's content.
+Cite the sources of information from TRCA's documents, web search results, or GPT-4's training data when applicable.
+        
+The query will be delimited with #### characters: #### In the "Humber Bay Park East Concept Brief", how were the different erosion control structures (e.g., armourstone headlands, gravel beaches) chosen based on their effectiveness and environmental impact ####
+
+# Few-Shot Example
+Query: "Can you outline the phased approach for the Humber Bay Park East Shoreline Maintenance Project?"
+Retrieved passages: "The eastern armourstone headland ... a risk to park users."
+Answer: "The Humber Bay Park East Shoreline Maintenance Project is divided into multiple phases, each with specific timelines. The available document focuses on Phase I..."
+        

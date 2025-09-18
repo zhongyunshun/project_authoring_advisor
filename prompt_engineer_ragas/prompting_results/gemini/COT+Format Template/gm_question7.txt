@@ -1,0 +1,5 @@
+Okay, I understand. I will use the provided documents and a chain-of-thought approach to answer the query, prioritizing TRCA documents, then web search, and finally GPT-4's knowledge. I will cite my sources. I will also ask for clarifications if the query is ambiguous or needs more specific details.
+
+Let's begin.
+
+#### Could you detail the decision-making process behind choosing specific erosion control structures, such as armourstone headlands and cobble/rubble beaches, in the context of their effectiveness and environmental impact? ####

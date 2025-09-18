@@ -1,0 +1,21 @@
+To answer the query, we need to extract relevant information from the provided documents.
+
+The query is: "Can you outline the phased approach for the Humber Bay Park East Shoreline Maintenance Project?"
+
+From the retrieved passages, we can see that there are multiple documents related to the project. Specifically:
+
+* Document 4 mentions that the project has been divided into three phases for design and implementation.
+* Document 11 mentions that the project is divided into Phases 1, 2, and 3.
+
+Therefore, based on the information provided in the retrieved passages, we can outline a phased approach for the Humber Bay Park East Shoreline Maintenance Project as follows:
+
+**Phase 1:**
+
+* The eastern armourstone headland is at risk to park users.
+* A surcharged revetment is proposed in this phase.
+
+**Phase 2 and Phase 3:**
+
+* These phases are mentioned in Document 11, but the details of these phases are not provided in the retrieved passages.
+
+Note that this phased approach is based on the information provided in the retrieved passages. Further research or consultation with relevant stakeholders may be necessary to provide a more detailed and accurate phased approach for the project.

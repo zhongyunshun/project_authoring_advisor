@@ -1,0 +1,17 @@
+The "Long-Term Stable Slope Crest" (LTSSC) is defined in the context of the Peacham Crescent projects as the positioning of a slope crest that is deemed stable over the long term, taking into account various geotechnical factors. The assessment often relies on a factor of safety (FoS) to evaluate slope stability. For the Peacham Crescent project, a factor of safety of 1.5 was commonly used.
+
+To determine the LTSSC, several criteria are considered:
+
+1. **Geotechnical Conditions**: The composition and conditions of substrate materials are crucial. This includes analyzing soil types such as silty clay, sandy silt, and sandy silt till.
+
+2. **Subsurface Investigations**: Conducted by firms like Cole Engineering Group Ltd. and Soil Engineers Ltd., these investigations involve borehole drilling and monitoring wells to assess groundwater conditions.
+
+3. **Factors of Safety**: The stability is evaluated using a defined factor of safety (in this case, 1.5), which helps understand the risk of failure under varying conditions.
+
+4. **Historical Data and Inspections**: Prior events, such as significant storms and visual inspections carried out by the Toronto and Region Conservation Authority (TRCA), inform the assessment of slope conditions and stability.
+
+5. **Potential Impact on Infrastructure**: Consideration of how the LTSSC intersects with existing infrastructure and residential properties is critical to ensure the safety of human life and property.
+
+6. **Recommendations for Remediation**: Based on the findings, various remediation strategies are proposed to mitigate risks to infrastructure and minimize erosion.
+
+These factors combine to ensure that the LTSSC provides a reliable framework for addressing slope stability and erosion risks in the area, particularly following severe weather events that have historically caused instability.

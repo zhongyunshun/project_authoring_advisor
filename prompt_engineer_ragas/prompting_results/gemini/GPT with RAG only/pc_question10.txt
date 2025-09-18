@@ -1,0 +1,13 @@
+Okay, I will analyze the provided documents and synthesize an answer to the query, focusing on how the "2021-09-29 Peacham Cres Project Brief" addresses potential impacts on biodiversity, specifically regarding bat species and butternut trees.
+
+Here's the synthesized response:
+
+The "2021-09-29 Peacham Cres Project Brief" addresses biodiversity impacts, particularly concerning bat species and butternut trees, in the following ways:
+
+*   **Butternut Trees:** The brief identifies a Category 2 butternut tree within the project area, located along the proposed access route (Document 1). It acknowledges that butternut trees are a Species at Risk (Document 19), with the "Class EA Project Plan" further elaborating that butternuts are classified as an endangered species and are protected under Ontario’s Endangered Species Act (Document 2). The "Class EA Project Plan" also determined that the butternut within the construction access route is genetically pure and therefore highly susceptible to butternut canker (Document 2).
+
+*   **Bat Species:** The brief states that bat habitat is present within the project area and that appropriate compensation will be coordinated by TRCA's ERM Project staff in accordance with the Ontario Ministry of Environment, Conservation, and Parks (MECP) Bat Survey Protocol (Document 8).
+
+*   **General Mitigation Measures:** The brief indicates that tree removals will be minimal and highly selective (Document 6 & 21). It also states that post-construction restoration activities will focus on replanting suitable native species to compensate for those that were removed and enhance the overall biodiversity of the Project area (Document 21). Works are tentatively scheduled to commence in October 2021 pending the receipt of all necessary permits and approvals. Tree removals will only occur outside the nesting window between October 4th and October 22nd to avoid nesting birds (as per the Migratory Birds Convention Act) (Document 20).
+
+In summary, the "2021-09-29 Peacham Cres Project Brief" acknowledges the presence of butternut trees and bat habitat within the project area. It outlines mitigation measures, including compensation for bat habitat and selective tree removal, and refers to adherence to relevant protocols and regulations from MECP and the Migratory Birds Convention Act. The brief also mentions post-construction restoration with native species to enhance biodiversity. More specific details about the tree removal plan can be found in TRCA’s Arborist Report and Tree Preservation Plan for Peacham Crescent Slope Stabilization Project (Document 11).

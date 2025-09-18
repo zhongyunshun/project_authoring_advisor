@@ -1,0 +1,27 @@
+The selection of erosion control structures like armour stone headlands and cobble/rubble beaches involves considerations of effectiveness, environmental impact, and site-specific conditions. Here's a breakdown of the decision-making process based on the provided documents:
+
+**1. Effectiveness:**
+
+*   **Armour Stone Revetments/Headlands:** These structures are commonly used to protect shorelines from erosion. The size and placement of armour stones are crucial for stability, with sizes often ranging from 2 to 4 tonnes, but sometimes larger stones up to 6 tonnes are used (Design Brief - Phase I.pdf, page 7; Design Brief - Phase II\_DRAFT.pdf, page 8). The Hudson equation is used to determine appropriate armour stone sizes based on design coastal conditions (Design Brief - Phase I.pdf, page 20; Design Brief - Phase II\_DRAFT.pdf, page 21, 25). Revetments can be rebuilt or supplemented with additional armour stone (Design Brief - Phase I.pdf, page 18; Design Brief - Phase II\_DRAFT.pdf, page 19).
+*   **Cobble/Rubble Beaches:** Smaller cobble sizes offer a more user-friendly beach environment (Humber Bay Park East Concept Brief.pdf, page 20). However, they may require more material and have a greater in-water footprint, potentially increasing maintenance needs (Humber Bay Park East Concept Brief.pdf, page 20).
+
+**2. Environmental Impact:**
+
+*   **Revetment Footprint:** Placing new revetment structures on the same footprint as existing ones minimizes the impact on local coastal processes (Design Brief - Phase II\_DRAFT.pdf, page 25).
+*   **Cutting and Filling:** Cutting into the bank is minimized to avoid exposing potential contaminated material (Design Brief - Phase I.pdf, page 20; Design Brief - Phase II\_DRAFT.pdf, page 21).
+*   **Habitat Preservation:** Designs may be updated to preserve existing fish habitat, such as transitioning from a revetment to an embayment/headland structure (HBPE Project Brief - Phase II.pdf, page 30). Vegetated boulder revetments can provide a more natural and cost-efficient means of protection (2015-10-05 Geomorphic Report Final.pdf, page 25; German Mills - Project File with Appendices.pdf, page 77).
+
+**3. Site-Specific Conditions:**
+
+*   **Existing Structure Condition:** Assessments of existing structures inform remediation approaches, such as complete rebuild or supplementing existing armour stone (Design Brief - Phase I.pdf, page 18; Design Brief - Phase II\_DRAFT.pdf, page 19).
+*   **Wave Conditions:** Strong wave conditions influence material selection and placement (HBPE Project Brief - Phase II.pdf, page 30). Crest elevations are designed to manage wave overtopping rates (HBPE Project Brief - Phase II.pdf, page 25).
+*   **Erosion and Scouring:** Armour stone may need to be installed below the current scour pool bottom to mitigate the risk of undermining (2015-10-05 Geomorphic Report Final.pdf, page 25; German Mills - Project File with Appendices.pdf, page 77). Areas with lower crest elevations are more prone to damage from wave overtopping (Design Brief - Phase I.pdf, page 7).
+*   **Park User Needs**: The choice of smaller cobble aims to create a user-friendly beach environment (Humber Bay Park East Concept Brief.pdf, page 20).
+
+**4. Decision-Making Process:**
+
+*   **Consultation:** Decisions are made in consultation with TRCA staff (Design Brief - Phase I.pdf, page 18).
+*   **Options Analysis:** Conceptual design options are considered based on site assessments (Design Brief - Phase I.pdf, page 18; Design Brief - Phase II\_DRAFT.pdf, page 19).
+*   **Prioritization:** Minimizing shoreline disturbance, reducing the risk of exposing fill material, and reducing construction costs and time are key priorities (Design Brief - Phase I.pdf, page 18).
+
+In summary, the selection process involves a balance between structural stability, environmental considerations, user needs, and cost-effectiveness, all tailored to the specific conditions of the site.

@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "answer": "The documents indicate that Indigenous communities were notified and consulted as part of the Class EA process for the Peacham Crescent Erosion Control and Slope Stabilization Project (Document 2). A full record of Indigenous community consultation, including copies of all correspondence, can be found in the Record of Indigenous Engagement for the Peacham Crescent Slope Stabilization Project in Appendix D (Document 1).  Specifically, notices were sent to Indigenous communities (Document 2), including Beausoleil First Nation, Chippewas of Georgina Island First Nation, Chippewas of Rama-Mnjikaning First Nation, Huron-Wendat Nation, Coordinator for the Williams Treaties First Nations, Curve Lake First Nation, Hiawatha First Nation, Mississaugas of Alderville First Nation, and Mississaugas of the Credit First Nation (Document 3).  There is a summary of indigenous group consultation (Document 20). The documents also state that there have been no major public concerns raised about the project (Document 1).",
+        "sources": [
+            {
+                "source": "2019-09-26 Peacham Class EA PP.pdf",
+                "page": 50,
+                "text": "A full record of Indigenous community consultation including copies of all correspondence can be found in the \nRecord of Indigenous Engagement for the Peacham Crescent Slope Stabilization Project in Appendix D. \n6.3 Discussion of Concerns \n6.3.1 Discussion of Public Concerns \nThere have been no major concerns raised about this project. \n6.3.2 Discussion of Indigenous Community Concerns..."
+            },
+            {
+                "source": "2019-09-26 Peacham Class EA PP.pdf",
+                "page": 48,
+                "text": "In accordance with the Class EA process, the first point of public contact occurred with the publication of the \nNotice of Intent on November 22, 2018.  \nNotices were sent to community groups, homeowners in the vicinity of the Project site, Indigenous communities,..."
+            },
+            {
+                "source": "2019-09-26 Peacham Class EA PP.pdf",
+                "page": 50,
+                "text": "• Beausoleil First Nation \n• Chippewas of Georgina Island First Nation \n• Chippewas of Rama-Mnjikaning First Nation \n• Huron-Wendat Nation \n• Coordinator for the Williams Treaties First Nations \n• Curve Lake First Nation \n• Hiawatha First Nation \n• Mississaugas of Alderville First Nation \n• Mississaugas of the Credit First Nation..."
+            },
+            {
+                "source": "2019-09-26 Peacham Class EA PP.pdf",
+                "page": 5,
+                "text": "Table 4. Summary of indigenous Group consultation for the project. Source: TRCA, 2018. ................................. 44 \nFigures \nFigure 1. The approximate location of works behind Peacham Crescent are denoted by red polygon. Source: \nTRCA, 2018. .............................................................................................................................................................. 2..."
+            }
+        ]
+    }
+]
+```

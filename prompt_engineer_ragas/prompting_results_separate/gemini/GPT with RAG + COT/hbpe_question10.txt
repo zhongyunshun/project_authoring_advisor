@@ -1,0 +1,5 @@
+```json
+{
+ "answer": "I am sorry, but the provided documents do not contain specific details on how restoration plantings described in the \"HBPE Project Brief - Phase I\" contribute to or mitigate against biodiversity loss, particularly concerning species at risk. The documents mention planting plans for Phases I and II and the on-site planting of 280 trees during final restoration (Document 3). Further information would be needed to address this question fully. "
+}
+```

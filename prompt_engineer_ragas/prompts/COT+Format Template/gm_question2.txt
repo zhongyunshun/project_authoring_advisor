@@ -1,0 +1,380 @@
+
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "
+--- Document 1 ---
+Content:
+Brief for circulation.  
+Table 2. Summary of baseline inventory conducted for the Humber Bay Park East Major Maintenance Project.  
+Category Status Notes 
+Archaeology Cleared • Stage 1 Complete 
+• Stage 2 determined to be unnecessary 
+Aquatic Inventory and 
+Habitat Complete 
+• Three monitoring stations used 
+• Most common species found: Alewives, White Suckers, 
+Rainbow Smelt 
+Other Projects In Progress 
+• Pond Revitalization Project 
+• Humber Bay Park Master Plan guidelines...
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 14
+
+--- Document 2 ---
+Content:
+Humber Bay Park East Major Maintenance Project 
+Detailed Design Report (Draft, Phases 1 & 2)  TRCA Project No. 10020801 
+Toronto Region Conservation Authority  Shoreplan File 19-3133 
+ 
+  17 
+It was assumed that the native material composition of the shoreline had potential to be 
+contaminated and therefore the protection structures were designed to minimize cutting and 
+disturbing of native material. 
+4.2.5.6 Aquatic Habitat Alteration & Loss...
+Metadata:
+- **source**: Design Brief - Phase II_DRAFT.pdf
+- **page**: 22
+
+--- Document 3 ---
+Content:
+Humber Bay Park East Major Maintenance Project – Concept Brief 
+Toronto and Region Conservation Authority    |    11 
+3 BASELINE INVENTORY 
+Baseline data has been collected  to support conceptual design development. A summary of the baseline 
+conditions reviewed is presented in Table 2. A more detailed review of existing conditions will be undertaken in 
+support of the detailed design phase and this information will be presented in the future Detailed Design Project 
+Brief for circulation....
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 14
+
+--- Document 4 ---
+Content:
+Humber Bay Park East Major Maintenance Project 
+Detailed Design Report (Draft, Phases 1 & 2)  TRCA Project No. 10020801 
+Toronto Region Conservation Authority  Shoreplan File 19-3133 
+ 
+  ii 
+4.3.5.6 Aquatic Habitat Alteration & Loss .....................................................................20 
+4.3.5.7 Vibrations from Construction ............................................................................21...
+Metadata:
+- **source**: Design Brief - Phase II_DRAFT.pdf
+- **page**: 4
+
+--- Document 5 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase I – Eastern Headland 
+Project Brief  
+Toronto and Region Conservation Authority    |    23 
+1. Site setup including establishment of staging/stockpiling areas, removal of required trees, relocation 
+of bird nesting boxes within the staging area, and installation of ESC measures, tree protection, and 
+site perimeter control  
+2. Construction of a temporary culvert and access bridge near the pond outlet...
+Metadata:
+- **source**: HBPE Project Brief - Phase I.pdf
+- **page**: 26
+
+--- Document 6 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase II – Western Headland 
+Project Brief  
+ 
+Toronto and Region Conservation Authority    |    28 
+ 
+ 
+Figure 26. Habitat features for the Eastern Headland Transition. Source: Shoreplan, 2023. 
+7 SURVEY REQUIREMENTS 
+A layout survey will be conducted prior to the beginning of implementation and as needed throughout the 
+project to facilitate construction. As-built surveys may be required throughout the implementation process to...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 31
+
+--- Document 7 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase I – Eastern Headland 
+Project Brief  
+Toronto and Region Conservation Authority    |    27 
+ Aquatic Habitat Components 
+Discussions are underway between TRCA, DFO, City of Toronto, and Shoreplan regarding the development of 
+aquatic habitat features for the design. The proposed habitat component consists of a surcharged revetment in...
+Metadata:
+- **source**: HBPE Project Brief - Phase I.pdf
+- **page**: 30
+
+--- Document 8 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase I – Eastern Headland 
+Project Brief  
+Toronto and Region Conservation Authority    |    29 
+9 EROSION AND SEDIMENT CONTROL MEASURES 
+Prior to the start of construction, staging and stockpiling areas will be isolated with standard silt socks to prevent 
+the entry of deleterious substances into the watercourse, as shown previously Figure 24. All barriers will be...
+Metadata:
+- **source**: HBPE Project Brief - Phase I.pdf
+- **page**: 32
+
+--- Document 9 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase II – Western Headland 
+Project Brief  
+ 
+Toronto and Region Conservation Authority    |    30 
+ 
+9 EROSION AND SEDIMENT CONTROL MEASURES 
+Prior to the start of construction, staging and stockpiling areas will be isolated with standard silt socks to prevent 
+the entry of deleterious substances into the watercourse, as shown previously Figure 27. All barriers will be...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 33
+
+--- Document 10 ---
+Content:
+Humber Bay Park East Major Maintenance Project  
+Detailed Design Report  
+ 
+ 
+ 
+ 
+Prepared for 
+ 
+Toronto and Region Conservation Authority (TRCA)  
+ 
+ 
+ 
+ 
+ by 
+ 
+ 
+ 
+ 
+SHOREPLAN ENGINEERING LIMITED 
+ 
+ 
+ 
+ 
+VERSION  DATE    STATUS  COMMENTS   
+ 01   2021-06-30  draft   for review  
+ 02   2021-10-08  Final, Phase 1 
+ 03   2021-10-14  Final, Phase 1  habitat areas revised 
+ 04   2021-10-15  Final, Phase 1  TRCA comments 
+ 05   2021-10-25  Final, Phase 1  TRCA comments...
+Metadata:
+- **source**: Design Brief - Phase II_DRAFT.pdf
+- **page**: 2
+
+--- Document 11 ---
+Content:
+Humber Bay Park East Major Maintenance Project  
+Detailed Design Report  
+ 
+ 
+ 
+ 
+Prepared for 
+ 
+Toronto and Region Conservation Authority (TRCA)  
+ 
+ 
+ 
+ 
+ by 
+ 
+ 
+ 
+ 
+SHOREPLAN ENGINEERING LIMITED 
+ 
+ 
+ 
+ 
+VERSION  DATE    STATUS  COMMENTS   
+ 01   2021-06-30  draft   for review  
+ 02   2021-10-08  Final, Phase 1 
+ 03   2021-10-14  Final, Phase 1  habitat areas revised 
+ 04   2021-10-15  Final, Phase 1  TRCA comments 
+ 05   2021-10-25  Final, Phase 1  TRCA comments...
+Metadata:
+- **source**: Design Brief - Phase I.pdf
+- **page**: 2
+
+--- Document 12 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase I – Eastern Headland 
+Project Brief  
+Toronto and Region Conservation Authority    |    30 
+• Tree protection barriers will be erected where necessary and will be void of any grade changes and storage of 
+materials/equipment within the Tree Protection Zone (TPZ). 
+• All disturbed areas are to be restored to existing conditions or better. Any disturbed areas will be vegetated...
+Metadata:
+- **source**: HBPE Project Brief - Phase I.pdf
+- **page**: 33
+
+--- Document 13 ---
+Content:
+the Humber Bay Park East shoreline.  
+ Phasing 
+Due to the extent of the project area and the multi-year nature of construction, the Project has been divided 
+into three phases for design and implementation:  
+PROJECT NAME Humber Bay Park East Shoreline Maintenance Project 
+REGION City of Toronto 
+TRCA DIVISION Restoration and Infrastructure (Erosion Risk Management) 
+CFN 61338...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 4
+
+--- Document 14 ---
+Content:
+Humber Bay Park East Major Maintenance Project – Concept Brief 
+Toronto and Region Conservation Authority    |    i 
+Table of Contents 
+1 INTRODUCTION ........................................................................................................................................................... 0 
+2 SITE DESCRIPTION ....................................................................................................................................................... 1...
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 2
+
+--- Document 15 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase I – Eastern Headland 
+Project Brief  
+Toronto and Region Conservation Authority    |    17 
+Common Name Scientific Name Total 
+Count 
+Total 
+Weight (g) Native/Introduced/Invasive 
+Round Goby Neogbius melanstomus 28 320 Invasive 
+Shorthead Redhorse Moxostoma 
+macrolepidotum 2 2600 Native 
+Smallmouth Bass Micropterus dolomieu 24 4219 Native 
+Spotfin Shiner Cyprinella spilotpera 1 7 Native 
+Spottail Shiner Notropus hudsonius 2 19 Native...
+Metadata:
+- **source**: HBPE Project Brief - Phase I.pdf
+- **page**: 20
+
+--- Document 16 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase II – Western Headland 
+Project Brief  
+ 
+Toronto and Region Conservation Authority    |    14 
+ 
+3 BASELINE INVENTORY 
+ Archaeological Assessment 
+In 2017-2018, TRCA Archaeology Staff conducted a Stage 1 Archaeological Assessment in support of the Western 
+Waterfront Major Maintenance Strategy. The scope of this assessment encompassed the Humber Bay Park East...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 17
+
+--- Document 17 ---
+Content:
+Humber Bay Park East Major Maintenance Project 
+Detailed Design Report (Final Phase 1)  TRCA Project No. 10020801 
+Toronto Region Conservation Authority  Shoreplan File 19-3133 
+ 
+  8 
+3 Coastal Assessment  
+3.1 Water Levels 
+Marine structures on the Canadian shores of the Great Lakes are typically designed using the 
+100-year return period instantaneous water level for the design water level. The 100- year...
+Metadata:
+- **source**: Design Brief - Phase I.pdf
+- **page**: 12
+
+--- Document 18 ---
+Content:
+Humber Bay Park East Major Maintenance Project 
+Detailed Design Report (Final Phase 1)  TRCA Project No. 10020801 
+Toronto Region Conservation Authority  Shoreplan File 19-3133 
+ 
+  9 
+3.1.2 Climate Change 
+A considerable amount of research has been done on climate change and its expected effects on 
+the Great Lakes and while results vary considerably, there is general consensus on several key 
+points. Overall, water levels are expected to fall while severe storm frequency and intensity are...
+Metadata:
+- **source**: Design Brief - Phase I.pdf
+- **page**: 13
+
+--- Document 19 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase II – Western Headland 
+Project Brief  
+ 
+Toronto and Region Conservation Authority    |    21 
+ 
+This investigation was carried out to prepare for Phase I of the works. TRCA staff will continue to follow these 
+mitigation measures during Phase II which will maintain the same access route into the site. 
+6 SCOPE OF WORK 
+The following scope of work will be completed as part of major maintenance for Phase II to ensure long-term...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 24
+
+--- Document 20 ---
+Content:
+Humber Bay Park East Major Maintenance Project 
+Detailed Design Report (Final Phase 1)  TRCA Project No. 10020801 
+Toronto Region Conservation Authority  Shoreplan File 19-3133 
+ 
+  14 
+4 Shoreline Protection Detailed Design 
+Shoreplan has evaluated the existing site  conditions as described in Section 2, and considered 
+the coastal conditions along the shoreline described in Section 3 of this report.  
+4.1 Conceptual Design Options...
+Metadata:
+- **source**: Design Brief - Phase I.pdf
+- **page**: 18
+
+--- Document 21 ---
+Content:
+Shoreline Maintenance Project Area. The Stage 1  assessment determined that Humber Bay Park East has no 
+archaeological potential due to the fact that is a lakefill park that was constructed in the 1970s and 1980s.  
+ Aquatic Inventory and Habitat 
+TRCA’s Aquatic Monitoring and  Management ( AMM) Group regularly collects fish population  data using 
+electrofishing. Three monitoring stations are located near Humber Bay Park East: Southern Beach, East Headland,...
+Metadata:
+- **source**: HBPE Project Brief - Phase I.pdf
+- **page**: 19
+
+--- Document 22 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase II – Western Headland 
+Project Brief  
+ 
+Toronto and Region Conservation Authority    |    34 
+ 
+ Post Construction Monitoring 
+The site will be inspected during the first year after major storm events and on an annual basis thereafter to 
+ensure that the implemented works are stable and performing as designed. Any maintenance required will be...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 37
+"
+}
+        
+
+# Chain of Thought
+Step 1: #### Refer to TRCA's technical documents first.
+Step 2: #### If the information is incomplete, use web search for current data.
+Step 3: #### If still unresolved, utilize GPT-4's knowledge (up to its training cutoff).
+Step 4: #### Cite sources from TRCA docs or web. Indicate if info is based on GPT-4's training data.
+        
+
+# Format Template
+You are designed to ask for clarifications in case of ambiguous queries or when more specific details are needed.
+The tone of the responses will be professional, focusing on clarity, accuracy, and relevance, suitable for the technical nature of TRCA's content.
+Cite the sources of information from TRCA's documents, web search results, or GPT-4's training data when applicable.
+        
+The query will be delimited with #### characters: #### What measures are being taken in the Humber Bay Park East Major Maintenance Project to ensure the protection and minimal disruption of local wildlife, particularly aquatic species identified in the baseline inventory? ####
+
+# Few-Shot Example
+Query: "Can you outline the phased approach for the Humber Bay Park East Shoreline Maintenance Project?"
+Retrieved passages: "The eastern armourstone headland ... a risk to park users."
+Answer: "The Humber Bay Park East Shoreline Maintenance Project is divided into multiple phases, each with specific timelines. The available document focuses on Phase I..."
+        

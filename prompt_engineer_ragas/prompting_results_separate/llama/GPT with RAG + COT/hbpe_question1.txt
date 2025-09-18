@@ -1,0 +1,62 @@
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "Humber Bay Park East Major Maintenance Project"
+    "Detailed Design Report (Final Phase 1)"
+    "TRCA Project No. 10020801"
+    "Toronto Region Conservation Authority"
+    "Shoreplan File 19-3133"
+    
+    "2 Introduction"
+    "The Toronto and Region Conservation Authority (TRCA) retained Shoreplan Engineering Limited"
+    "(Shoreplan) for engineering services in support of the Humber Bay Park East Major Maintenance Project."
+    "The TRCA requested detailed designs for the protection and maintenance of this stretch of shoreline."
+    
+    "3 Objectives"
+    "The objectives of this project are:"
+    "- To protect the shoreline from erosion and damage;"
+    "- To maintain the existing infrastructure, including seawalls, revetments, and other coastal structures;"
+    "- To minimize the environmental impact of the project, while maintaining public safety and access to the park."
+    
+    "4 Detailed Design Report"
+    "This detailed design report provides a comprehensive description of the proposed designs for the protection and maintenance of the Humber Bay Park East shoreline."
+    "The report includes:"
+    "- A site investigation report, which describes the results of the site investigation, including soil and bedrock conditions, water table levels, and other relevant information;"
+    
+    "5 Conclusion"
+    "In conclusion, this detailed design report provides a comprehensive description of the proposed designs for the protection and maintenance of the Humber Bay Park East shoreline."
+    "The report includes:"
+    "- A site investigation report, which describes the results of the site investigation, including soil and bedrock conditions, water table levels, and other relevant information;"
+    
+    "6 References"
+    "The following references were used in the preparation of this detailed design report:"
+    "- TRCA (2023) Humber Bay Park East Major Maintenance Project Detailed Design Report Draft Phases 1 & 2 TRCA Project No. 10020801 Toronto Region Conservation Authority Shoreplan File 19-3133"
+    
+    "7 Appendices"
+    "The following appendices are included with this detailed design report:"
+    "- Appendix A: Site Investigation Report;"
+    "- Appendix B: Coastal Assessment Report;"
+    "- Appendix C: Environmental Impact Statement;"
+    "- Appendix D: Construction Schedule;"
+    "- Appendix E: Budget and Cost Estimate;"
+    "- Appendix F: Project Management Plan;"
+
+Here is the chain of thought:
+
+1.  The Humber Bay Park East Major Maintenance Project detailed design report provides a comprehensive description of the proposed designs for the protection and maintenance of the Humber Bay Park East shoreline.
+2.  The report includes a site investigation report, which describes the results of the site investigation, including soil and bedrock conditions, water table levels, and other relevant information.
+3.  The project objectives are to protect the shoreline from erosion and damage, maintain the existing infrastructure, minimize environmental impact while maintaining public safety and access to the park.
+
+Here is a few-shot example:
+
+*   What specific engineering challenges and considerations were addressed during the detailed design process for shoreline protection at Humber Bay Park East?
+    *   The detailed design report provides a comprehensive description of the proposed designs for the protection and maintenance of the Humber Bay Park East shoreline.
+    *   The report includes a site investigation report, which describes the results of the site investigation, including soil and bedrock conditions, water table levels, and other relevant information.
+
+*   What specific engineering challenges and considerations were addressed during the detailed design process for shoreline protection at Humber Bay Park East?
+    *   The detailed design report provides a comprehensive description of the proposed designs for the protection and maintenance of the Humber Bay Park East shoreline.
+    *   The report includes a site investigation report, which describes the results of the site investigation, including soil and bedrock conditions, water table levels, and other relevant information.
+
+*   What specific engineering challenges and considerations were addressed during the detailed design process for shoreline protection at Humber Bay Park East?
+    *   The detailed design report provides a comprehensive description of the proposed designs for the protection and maintenance of the Humber Bay Park East shoreline.
+    *   The report includes a site investigation report, which describes the results of the site investigation, including soil and bedrock conditions, water table levels, and other relevant information.

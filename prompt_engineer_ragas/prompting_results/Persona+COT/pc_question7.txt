@@ -1,0 +1,19 @@
+The "2019-04-02 Conceptual Alt. Report Peacham_Final" outlines several key factors influencing the selection of the preferred conceptual slope stabilization alternatives for the area behind 21, 23, and 25 Peacham Crescent. These factors include:
+
+1. **Factor of Safety (FOS)**: The alternatives were developed based on a required Factor of Safety of 1.3, which is a critical consideration in ensuring the stability of the slopes.
+
+2. **Assessment of Alternatives**: Five potential alternatives were assessed based on feasibility, constructability, and cost. The evaluation included the "Do Nothing" option, monitoring of the site, and four other alternatives that were considered for their effectiveness in addressing slope instability.
+
+3. **Geotechnical Considerations**: Subsurface conditions were evaluated, including the composition of existing materials, which played a significant role in determining which stabilization method would be most effective.
+
+4. **Environmental Impact**: The impact of each alternative on existing vegetation and the surrounding environment was assessed, with a focus on minimizing disruption.
+
+5. **Public Safety**: The potential risks to public safety, including the need for safety features such as fencing along trails and slopes, influenced the choice of the preferred alternative.
+
+6. **Long-term Stability**: The alternatives were evaluated for their ability to provide long-term stabilization of the slope, ensuring that the solution would be sustainable over time.
+
+7. **Cost Considerations**: Rough Order of Magnitude (ROM) costs for installation and maintenance were analyzed to determine the most economically viable solution.
+
+These factors collectively guided the selection of the preferred alternative, which ultimately led to the recommendation of a Mechanically Stabilized Earth (MSE) structure as the most suitable option for addressing the slope stabilization needs at this site. 
+
+For further details, please refer to the original report, "Conceptual Alt. Report Peacham_Final" from the Toronto and Region Conservation Authority.

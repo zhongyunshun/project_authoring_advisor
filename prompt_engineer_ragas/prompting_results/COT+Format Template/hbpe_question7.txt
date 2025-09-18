@@ -1,0 +1,21 @@
+The selection of different erosion control structures for the Humber Bay Park East Major Maintenance Project, such as armourstone headlands and gravel beaches, was based on their effectiveness in addressing erosion concerns and their environmental impact. 
+
+### Key Factors in Structure Selection:
+
+1. **Effectiveness in Erosion Control**: 
+   - **Armourstone Headlands**: Structures like the eastern armourstone headland (WF11.12) were chosen for their ability to withstand wave action and reduce backshore erosion and scouring, as indicated by the visible displacement of materials and scouring observed in the project area (Document 2 and Document 7).
+   - **Gravel/Cobble Beaches**: The cobble/rubble beach (WF11.11) was designed to provide a more user-friendly environment while still serving as a barrier against erosion. The condition of this beach showed issues like scouring and undercutting, which influenced the decision to implement specific treatments to enhance its stability and functionality (Document 18 and Document 22).
+
+2. **Environmental Impact**:
+   - The designs aimed to minimize invasive measures that could disturb existing ecosystems. For instance, the use of smaller cobble sizes, although more user-friendly, would require more material to sufficiently protect the shoreline, resulting in higher costs and a greater environmental footprint (Document 11).
+   - The proposed concept designs included considerations for existing habitats and aimed to integrate solutions that would not adversely affect the surrounding environment, as noted in the discussions about material composition and potential contamination (Document 19).
+
+3. **Site-Specific Conditions**:
+   - The specific conditions of each site, such as low crest elevations and the potential for flooding during elevated lake levels, were critical in determining the appropriate structures (Document 5).
+   - The transition between different types of structures, such as the creation of berms at the transition points between headlands and beaches, was designed to facilitate effective drainage and minimize erosion impacts (Document 8).
+
+In conclusion, the choice of erosion control structures in the Humber Bay Park East project was a careful balance between efficacy in protecting the shoreline and minimizing negative environmental impacts, guided by detailed assessments of existing conditions and projected outcomes. 
+
+### References:
+- Humber Bay Park East Major Maintenance Project – Concept Brief, TRCA, 2021.
+- Detailed Design Report (Final Phase 1), TRCA Project No. 10020801.

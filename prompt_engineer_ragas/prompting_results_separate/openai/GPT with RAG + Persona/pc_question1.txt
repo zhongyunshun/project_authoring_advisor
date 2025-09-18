@@ -1,0 +1,9 @@
+The Slope Stability and Erosion Risk Assessment (SS&ERA) defines "Long-Term Stable Slope Crests" (LTSSC) as the projected position of a stable slope crest that would result from natural regression due to erosion forces. This projection is determined based on the composition and conditions of the substrate materials, as well as a factor of safety (FoS) which was identified to be 1.5 for the Peacham Crescent projects.
+
+In the context of the Peacham Crescent projects, the determination of the LTSSC involves several key criteria:
+1. **Geotechnical Investigation**: A thorough subsurface investigation, which includes borehole drilling and monitoring well assessments, is conducted to understand the soil conditions and their response to erosional forces.
+2. **Factor of Safety**: The chosen factor of safety (FoS) of 1.5 is applied to ensure stability and to factor in possible uncertainties in soil conditions and external forces.
+3. **Risk Assessment**: The positioning of the LTSSC is evaluated concerning existing structures and infrastructure, identifying any potential risks to life and property should erosion continue.
+4. **Assessment of Existing Conditions**: The LTSSC considers the current topography, erosion patterns, and the presence of any protective structures or vegetation in place.
+
+For the Peacham Crescent site, this assessment was crucial due to past slope instability events, particularly following severe weather, which highlighted the need for effective erosion control and slope stabilization measures. The integration of these criteria helps to develop a reliable and sustainable solution to safeguard the properties affected by slope instability.

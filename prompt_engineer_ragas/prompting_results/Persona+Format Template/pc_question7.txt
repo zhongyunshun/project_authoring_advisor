@@ -1,0 +1,13 @@
+The selection of the preferred conceptual slope stabilization alternatives, according to the "2019-04-02 Conceptual Alt. Report Peacham_Final," was influenced by several key factors:
+
+1. **Safety Factor**: The stabilization options were developed based on a specified Factor of Safety (FOS) of 1.3, which was a critical requirement from the Toronto and Region Conservation Authority (TRCA). This factor ensured that the proposed solutions would adequately mitigate risks associated with slope failure.
+
+2. **Geotechnical Analysis**: The evaluation relied heavily on the subsurface data collected and interpreted by engineering firms, which helped in understanding the composition and existing conditions of the materials in the slope area. This information was crucial for assessing the feasibility of each alternative.
+
+3. **Environmental Impact**: The potential effects of each alternative on the surrounding environment were considered, including impacts on existing vegetation and drainage patterns. Alternatives that minimized adverse environmental impacts were prioritized.
+
+4. **Cost and Constructability**: Each alternative was assessed for its feasibility, constructability, and associated costs. This assessment ensured that the selected option would not only be effective but also economically viable.
+
+5. **Public Safety and Infrastructure**: The proximity of the slope to public infrastructure and safety concerns for residents were also taken into account. Solutions that provided adequate protection for public safety while addressing the erosion issues were favored.
+
+These factors collectively guided the decision-making process in selecting the preferred alternative for slope stabilization behind 21, 23, and 25 Peacham Crescent (Document 9).

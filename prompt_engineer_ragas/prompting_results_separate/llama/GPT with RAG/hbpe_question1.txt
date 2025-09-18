@@ -1,0 +1,21 @@
+#### In the "Design Brief - Phase II" document, what specific engineering challenges and considerations were addressed during the detailed design process for shoreline protection at Humber Bay Park East? ####
+
+Based on the provided documents, the following specific engineering challenges and considerations were addressed during the detailed design process for shoreline protection at Humber Bay Park East:
+
+1. **Wave Overtopping**: The overtopping rate was estimated using the methods for armoured slopes and walls presented in the Overtopping Manual (EurOtop, 2018).
+
+2. **Surcharged Revetment**: Habitat features were installed as part of Phase I, consisting of surcharged stone at the base of the revetment at several points along the deepest part of the structure.
+
+3. **Design Considerations and Construction Costs**: The detailed design process considered various factors, including wave overtopping, surcharged revetment, and design considerations and construction costs for Phases 2 and 3.
+
+4. **Aquatic Habitat Alteration & Loss**: It was assumed that the native material composition of the shoreline had potential to be contaminated and therefore the protection structures were designed to minimize cutting and disturbing of native material.
+
+5. **Coastal Assessment**: The detailed design report included a coastal assessment, which involved evaluating various factors, including water levels, wave overtopping, and other relevant considerations.
+
+6. **Erosion and Sediment Control Measures**: The project brief for Phase II included erosion and sediment control measures, such as installing silt socks to prevent the entry of deleterious substances into the watercourse.
+
+7. **Survey Requirements**: A layout survey was conducted prior to the beginning of implementation and as needed throughout the project to facilitate construction. As-built surveys may be required throughout the implementation process to ensure that the work is being carried out in accordance with the approved plans and specifications.
+
+8. **Construction Access, Staging, and Stockpiling**: The project brief for Phase I included construction access, staging, and stockpiling requirements, such as establishing staging/stockpiling areas, removing required trees, relocating bird nesting boxes within the staging area, and installing ESC measures, tree protection, and site perimeter control.
+
+These are some of the specific engineering challenges and considerations that were addressed during the detailed design process for shoreline protection at Humber Bay Park East.

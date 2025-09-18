@@ -1,0 +1,25 @@
+#### What are the typical components of an Erosion and Sediment Control (ESC) plan, as implemented and monitored by the TRCA in projects like the Humber Bay Park East Shoreline Maintenance? ####
+An Erosion and Sediment Control (ESC) plan, as implemented and monitored by the Toronto and Region Conservation Authority (TRCA) in projects like the Humber Bay Park East Shoreline Maintenance, typically includes the following components:
+
+1.  **Pre-Construction Measures**:
+
+    *   **Isolation of Staging and Stockpiling Areas**: Standard silt socks are used to prevent the entry of deleterious substances into the watercourse. Ref: Document 3,4
+    *   **Tree Protection**: Tree protection barriers are erected where necessary, ensuring no grade changes or storage of materials/equipment within the Tree Protection Zone (TPZ). Ref: Document 21
+
+2.  **Construction Phase Measures**:
+
+    *   **Minimizing Disturbed Areas**: Disturbed areas are minimized to the extent possible and stabilized or restored as work progresses. Ref: Document 5
+    *   **Erosion and Sediment Control Measures**: Implemented prior to and maintained during construction to prevent sediment entry into the water. Damaged measures should be repaired or replaced within 48 hours of inspection. Ref: Document 5
+    *   **Adaptive Strategies**: The ESC strategies are not static and may need to be upgraded/amended as site conditions change to minimize sediment-laden runoff. Alternative measures must be implemented immediately if prescribed measures are ineffective. Ref: Document 6
+
+3.  **Post-Construction Monitoring and Maintenance**:
+
+    *   **Regular Inspections**: The site is inspected during the first year after major storm events and annually thereafter to ensure the implemented works are stable and performing as designed. Ref: Document 1,2
+    *   **Restoration Plantings**: Site restoration includes regrading and seeding. A full Restoration Plan will be part of the detailed designs for the final phase of the project, with plantings occurring after implementation. Ref: Document 9,17
+    *   **Vegetation Monitoring**: Monitoring of proposed vegetation should be conducted for two (2) years after planting to ensure survivability. Ref: Document 7
+
+4.  **General Practices**:
+
+    *   **Machinery and Vehicle Maintenance**: Machinery and vehicles are kept clean of debris and seeds to prevent the spread of invasive species. Ref: Document 13
+    *   **Best Management Practices (BMPs)**: Regular monitoring by trained professionals ensures that all best management practices are being used to avoid or minimize disturbance to the environment. Ref: Document 15
+    *   **Minimizing Pollution and Sedimentation**: Pollution, sedimentation, and erosion during construction and post-construction are minimized using best management practices, including site design, construction controls, and appropriate remedial measures. Ref: Document 20

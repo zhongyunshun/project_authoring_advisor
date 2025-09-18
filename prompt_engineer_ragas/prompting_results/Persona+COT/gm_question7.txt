@@ -1,0 +1,13 @@
+The decision-making process behind choosing specific erosion control structures, such as armourstone headlands and cobble/rubble beaches, involves a comprehensive assessment of their effectiveness in preventing erosion, their environmental impact, and site-specific conditions.
+
+1. **Effectiveness**: Armourstone headlands are selected for their stability and ability to resist wave action. The choice of stone size is calculated using the Hudson equation, which incorporates design coastal conditions to ensure that the structures can withstand local erosion forces. For instance, the armour stone sizes are commonly in the range of 2 to 4 tonnes, with some larger stones used for added stability (Document 4, 5).
+
+2. **Environmental Considerations**: Smaller cobble sizes can create a more user-friendly beach environment, enhancing recreational use, but they require more material for effective shoreline protection. This results in higher costs and a greater in-water footprint, which may lead to increased maintenance needs (Document 3). The TRCA assesses the balance between the ecological benefits of a more natural beach environment versus the structural integrity required to combat erosion.
+
+3. **Site-Specific Factors**: The decision also considers the existing conditions of the shoreline and the historical performance of previous structures. For example, ongoing erosion rates and the condition of existing revetment structures influence whether to rebuild or supplement them with new materials (Document 10, 22). The TRCA's Erosion Risk Management Program continuously monitors these structures, providing data that informs future decisions (Document 7).
+
+4. **Cost and Construction Impact**: Options are evaluated based on the potential disturbance to the shoreline. For example, a decision to supplement existing structures rather than completely rebuild them can minimize environmental disruption and reduce construction costs and time (Document 22). 
+
+5. **Long-term Sustainability**: The designs aim to enhance the resilience of the shoreline, ensuring that structures not only protect against current conditions but also adapt to future changes in climate and water levels. This approach includes considerations for habitat preservation and the ecological health of the area (Document 20).
+
+In summary, the TRCA employs a multi-faceted decision-making process that weighs effectiveness, environmental considerations, site-specific conditions, costs, and long-term sustainability when choosing erosion control structures like armourstone headlands and cobble/rubble beaches.

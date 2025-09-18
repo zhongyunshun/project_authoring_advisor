@@ -1,0 +1,32 @@
+Based on the provided documents, here's how the "2021-09-29 Peacham Cres Project Brief" addresses potential impacts on biodiversity, with a focus on bat species and butternut trees:
+
+**Butternut Trees:**
+
+*   **Identification and Categorization:** The project brief identifies a Category 2 butternut tree within the project area, located along the proposed access route (Document 1). A Category 2 tree is defined as one not significantly affected by Butternut Canker.
+*   **Genetic Purity and Susceptibility:** Document 2 (from a different document but relevant context) mentions that a butternut tree in the construction access route was found to be genetically pure and therefore highly susceptible to butternut canker. This highlights the vulnerability of the species.
+*   **Tree Removals:** The project brief mentions tree removals are required (Document 9 and Document 20).
+*Impact Minimization: The brief states that tree removals will be minimal and selective (Document 6).
+*   **Mitigation:** The documents do not explicitly describe butternut mitigation strategies in the "2021-09-29 Peacham Cres Project Brief".
+
+**Bat Species:**
+
+*   **Bat Habitat Presence:** Bat habitat is present within the project area (Document 8).
+*   **Compensation:** Appropriate compensation for bat habitat will be coordinated by TRCA's ERM Project staff, following the Ontario Ministry of Environment, Conservation, and Parks (MECP) Bat Survey Protocol (Document 8).
+*Reference to bat survey protocol: Document 16 refers to the "Survey Protocol for Species at Risk Bats within Treed Habitats Little Brown Myotis, Northern Myotis & Tri-Colored Bat."
+
+**General Biodiversity Considerations:**
+
+*   **Ecology Surveys:** A terrestrial biological survey was undertaken to inventory existing flora and fauna (Documents 10 and 11). The 2018 ecology survey identified 16 exotic plant species within the expanded Study Area (Document 3).
+*   **Restoration:** Post-construction restoration activities will focus on replanting suitable native species to compensate for removals and enhance overall biodiversity (Document 21).
+*   **Timing of Works:** Construction activities will occur outside of key migration and breeding windows to minimize impacts on habitat use (Document 7) and tree removals will occur outside the nesting window to avoid nesting birds (Document 20), as per the Migratory Birds Convention Act.
+*Minimal Impact: The project aims to minimize impacts on species of concern, with tree or shrub removals planned to be highly selective (Document 21).
+
+**Overall, the "2021-09-29 Peacham Cres Project Brief" addresses biodiversity by:**
+
+*   Identifying and inventorying existing flora and fauna.
+*   Recognizing the presence of Species at Risk (Butternut) and bat habitat.
+*   Committing to mitigation and compensation measures, particularly for bat habitat.
+*   Planning construction activities to minimize impacts on sensitive periods like breeding and migration.
+*   Focusing on post-construction restoration with native species to enhance biodiversity.
+
+It is important to note that other documents provide crucial context, particularly regarding the genetic vulnerability of the butternut trees and the specific bat survey protocols that will be followed.

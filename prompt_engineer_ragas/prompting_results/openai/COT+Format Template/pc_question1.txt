@@ -1,0 +1,14 @@
+The "Long-Term Stable Slope Crest" (LTSSC) is defined in the context of the Peacham Crescent Slope Stabilization Project as the projected line representing the stable boundary of a slope that can withstand erosion and other geological forces over the long term. This definition stems from various assessments, including the Slope Stability and Erosion Risk Assessment (SS&ERA) conducted by Cole Engineering Group Ltd.
+
+### Criteria for Determining LTSSC:
+1. **Geological and Environmental Assessments**: The determination of the LTSSC is based on evaluations of substrate materials, slope composition, and the natural regressions observed due to erosion forces. Data obtained from subsurface investigations inform these assessments (Document 2).
+
+2. **Factor of Safety (FS)**: A critical factor in the LTSSC involves establishing a safety margin. In the Peacham Crescent evaluations, a factor of safety of 1.5 has been employed, ensuring that the slope’s design minimizes the risk to human life and property (Document 6 and 9).
+
+3. **Visual and Operational Inspections**: Following significant weather events, such as the July 8, 2013 storm, inspections took place to assess existing conditions, which also played a role in understanding where the LTSSC should ideally be positioned (Document 17).
+
+4. **Collaboration with Experts**: The LTSSC evaluations were supported through collaborative efforts with experts like Soil Engineers Ltd., which contributed to field tests and analysis for better stabilization strategies (Documents 8 and 11).
+
+5. **Risk Management Guidelines**: The assessment and subsequent planning adhere to the guidelines established in the Class Environmental Assessment for Remedial Flood and Erosion Control Projects (Class EA), which outlines systematic approaches to managing such environmental risks (Document 21).
+
+Successfully defining the LTSSC is a vital part of ensuring long-term stability and safety for the residential properties located at or near 21, 23, and 25 Peacham Crescent. The information is derived primarily from the technical documents of the Toronto and Region Conservation Authority (TRCA). If you have further inquiries on specifics or wish to explore additional components of the project, please let me know.

@@ -1,0 +1,15 @@
+In the "Design Brief - Phase II_DRAFT.pdf" document, several specific engineering challenges and considerations were addressed during the detailed design process for shoreline protection at Humber Bay Park East. Key points include:
+
+1. **Coastal Conditions**: The existing site conditions were evaluated, considering the coastal conditions along the shoreline. This assessment is crucial for understanding how natural forces impact the shoreline and what protective measures are necessary.
+
+2. **Erosion Control Measures**: The design includes erosion and sediment control measures to prevent further degradation and protect the environment during construction. This includes isolating staging and stockpiling areas with silt socks to prevent contamination of watercourses.
+
+3. **Wave Overtopping**: The design considered the potential for wave overtopping, with estimates made using methodologies for armored slopes and walls. This is crucial for ensuring the durability and effectiveness of the shoreline protection structures.
+
+4. **Habitat Considerations**: The potential impact of the construction on aquatic habitats was evaluated, with designs aimed at minimizing alterations and preserving existing habitats. Features such as surcharged stone at the base of revetment structures were included to enhance habitat.
+
+5. **Material Composition**: Concerns about the native material composition of the shoreline being potentially contaminated influenced the design choices. The protection structures were designed to minimize cutting and disturbing of native materials, reducing the environmental footprint of the project.
+
+6. **Construction Costs and Design Considerations**: The design process included assessing various construction costs and considerations to ensure the feasibility and sustainability of the shoreline protection measures.
+
+These challenges highlight the complexity involved in designing effective shoreline protection that balances environmental concerns, construction feasibility, and long-term resilience against natural forces.

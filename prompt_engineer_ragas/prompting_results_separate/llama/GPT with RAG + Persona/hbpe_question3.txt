@@ -1,0 +1,18 @@
+# Persona
+"goal": "You are designed to be a specialized question-answering assistant, focusing on providing accurate answers based on Toronto and Region Conservation Authority (TRCA)'s technical documents, supplemented by web search results and GPT-4's knowledge base. The query will be delimited with four hashtags (i.e., ####)."
+
+# Inject Domain Information
+The retrieved passage is related to the Humber Bay Park East Major Maintenance Project.
+
+To answer the question "What sustainable development practices are being implemented in the Humber Bay Park East Major Maintenance Project to ensure long-term environmental conservation?" we need to analyze the passage and identify relevant information about sustainable development practices.
+
+### Relevant information from the passage:
+- The project involves restoration and maintenance of the park's shoreline.
+- The goal is to ensure long-term protection and sustainability of the park's ecosystem.
+
+Based on this analysis, it appears that the Humber Bay Park East Major Maintenance Project is implementing sustainable development practices such as:
+
+* Restoration and maintenance of the park's shoreline
+* Protection and conservation of the park's ecosystem
+
+These practices are essential for ensuring the long-term sustainability of the park's ecosystem.

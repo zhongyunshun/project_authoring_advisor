@@ -1,0 +1,20 @@
+The decision-making process behind choosing specific erosion control structures, such as armour stone revetments/headlands and cobble/rubble beaches, considers several factors, including effectiveness, environmental impact, cost, and user experience.
+
+**Armour Stone Revetments/Headlands:**
+
+*   **Effectiveness:** Armour stone revetments and headlands are used to protect the shoreline from erosion by dissipating wave energy. The size of the armour stones is selected for stability using the Hudson equation and design coastal conditions (Design Brief - Phase I.pdf, page 20; Design Brief - Phase II\_DRAFT.pdf, page 21, 25). They are effective in stabilizing the shoreline and preventing further erosion (Design Brief - Phase I.pdf, page 20). In some cases, existing armour stone structures are rebuilt or supplemented with additional armour stone (Design Brief - Phase I.pdf, page 18; Design Brief - Phase II\_DRAFT.pdf, page 19). The crest elevation and width of the cap stones are determined based on predicted wave overtopping (Design Brief - Phase II\_DRAFT.pdf, page 20). Installation below the scour pool bottom is considered to mitigate future scouring (2015-10-05 Geomorphic Report Final.pdf, page 25; German Mills - Project File with Appendices.pdf, page 77).
+
+*   **Environmental Impact:** Placing new revetment structures on the same footprint as existing ones minimizes the impact on local coastal processes (Design Brief - Phase II\_DRAFT.pdf, page 25). The use of existing armour stone, where possible, reduces the need for new material and minimizes disturbance (Design Brief - Phase I.pdf, page 18; Design Brief - Phase II\_DRAFT.pdf, page 19). An embayment/headland structure can be used to preserve fish habitat (HBPE Project Brief - Phase II.pdf, page 30). Vegetated boulder revetments can provide a more natural means of protection (2015-10-05 Geomorphic Report Final.pdf, page 25; German Mills - Project File with Appendices.pdf, page 77).
+
+**Cobble/Rubble Beaches:**
+
+*   **Effectiveness:** Cobble/rubble beaches offer shoreline protection.
+
+*   **Environmental Impact & Other Considerations:** Smaller cobble sizes are more user-friendly but require more material, potentially increasing costs, in-water footprint, and maintenance needs (Humber Bay Park East Concept Brief.pdf, page 20).
+
+**Overall Considerations:**
+
+*   **Site Conditions:** The choice of erosion control structure depends on site-specific conditions, including wave climate, water levels, and existing shoreline features (Design Brief - Phase II\_DRAFT.pdf, page 20).
+*   **TRCA Consultation:** Decisions regarding the approach to remediation are made in consultation with TRCA staff (Design Brief - Phase I.pdf, page 18).
+*   **Minimizing Disturbance:** Efforts are made to minimize disturbance to the shoreline and reduce the risk of exposing existing fill material (Design Brief - Phase I.pdf, page 18).
+*   **Maintenance:** The TRCA's Erosion Risk Management Program (ERMP) monitors erosion control structures on an annual basis (Humber Bay Park East Concept Brief.pdf, page 3).

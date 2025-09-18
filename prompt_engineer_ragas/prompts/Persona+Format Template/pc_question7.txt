@@ -1,0 +1,331 @@
+
+# Persona
+"goal": "You are designed to be a specialized question-answering assistant, focusing on providing accurate answers based on Toronto and Region Conservation Authority (TRCA)'s technical documents, supplemented by web search results and GPT-4's knowledge base. The query will be delimited with four hashtags (i.e., ####)."
+        
+
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "
+--- Document 1 ---
+Content:
+three (3) conceptual alternative solutions, in addition to the ‘Do Nothing’ alternative, to address the 
+erosion and slope instability behind 21, 23, and 25 Peacham Crescent. 
+For a full account of the Physical condition studies of the Project area please refer to Appendix A for the 
+complete geotechnical report(s)....
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 20
+
+--- Document 2 ---
+Content:
+composition and existing conditions of subsurface materials and provide recommendations from a 
+geotechnical perspective. 
+B) Conceptual Alternatives Report for Erosion Control and Slope Stabilization behind 21, 23, & 25 
+Peacham Crescent, in the City of Toronto (Terraprobe Inc., 2019) 
+In 2018, Terraprobe Inc. was retained to interpret the subsurface da ta collected by Cole Engineering 
+Group Ltd. (2014) to remodel the projected LTSSC using a factor of safety of 1.3 and subsequently develop...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 20
+
+--- Document 3 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    39 
+ 
+Table 3. Detailed Environmental Analysis of the Preferred Alternative – MSE Structure 
+Screening Criteria 
+Rating of Potential Effects 
+-H -M -L NIL +L +M +H NA Comments 
+Physical                                                                                                                                   
+Unique Landforms    ...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 45
+
+--- Document 4 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    38 
+ 
+less impact on existing vegetation and excess soil removal than  Alternative 2 and provides an opportunity to 
+address drainage and stormwater runoff concerns within the Project limits. 
+This selected alternative meets all three (3) of the Project objectives: 
+Objective 1 – Risk mitigation...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 44
+
+--- Document 5 ---
+Content:
+of soil removed from the upper slope in this alternative is similar to that of Alternative 2 ; however, this 
+alternative has the advantage of eliminating the loss of tableland from the rear of 21, 23, and 25 Peacham 
+Crescent. 
+4.2 Evaluation of Preliminary Alternative Options 
+As part of the Class Environmental Assessment process, each of the identified alternatives is rated against 
+a consistent set of evaluation criteria set out by CO’s Class EA for Remedial Flood and Erosion Control...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 40
+
+--- Document 6 ---
+Content:
+Dear Ms. Rennie: 
+ This report presents a commentary pertaining to Conceptual Slo pe Stabilization alternatives 
+prepared for the valley slope located behind 21, 23 and 25 Peac ham Crescent in response to The Toronto 
+and Region Conservation Authority, Request for Proposal RFP #10 007761, completed as part of the 
+conceptual slope stabilization design.  
+Introduction 
+ The site is located on the south side of Peacham Crescent, sou theast of the intersection of Jane...
+Metadata:
+- **source**: 2019-04-02 Conceptual Alt. Report Peacham_Final.pdf
+- **page**: 1
+
+--- Document 7 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+     Toronto and Region Conservation Authority    |    ii 
+ 
+Tables 
+Table 1. Alternative evaluation matrix using objectives with nested criteria and indicators to show advantages 
+of alternatives. ........................................................................................................................................................ 35...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 5
+
+--- Document 8 ---
+Content:
+ Periodic maintenance of the vegetation 
+during the first couple of years until the 
+vegetation becomes well established 
+ 
+4.3 Selection of the Preferred Alternative Option 
+Alternative 3 – Mechanically Stabilized Earth (MSE) Structure 
+The results of the evaluation of alternatives led to the identification of Alternative 3 : MSE Structure  as the 
+preferred alternative for the Peacham Crescent Slope Stabilization Project. Alternative 3 is anticipated to have a...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 43
+
+--- Document 9 ---
+Content:
+Toronto & Region Conservation Authority March 19, 2019
+21, 23 and 25 Peacham Crescent, Toronto File No. 1-18-0679-01
+ 
+ 
+Terraprobe Page No. 3
+ 
+ 
+Stabilization Alternatives 
+ The conceptual stabilization options for this site are develop ed based on a Factor of Safety (FOS) 
+of 1.3 as requested by TRCA.  As noted before, all options incl ude stabilization of upper about 3 to 6 m 
+portion of the slope where the s lope failure occurred.  The con ceptual stabilization options consist of the...
+Metadata:
+- **source**: 2019-04-02 Conceptual Alt. Report Peacham_Final.pdf
+- **page**: 3
+
+--- Document 10 ---
+Content:
+options, giving specific consideration of the advantages and disadvantages of each method. 
+4.1 Description of Preliminary Alternative Options 
+The following are the alternative conceptual solutions that were developed and evaluated as part of the 
+Class EA process to address the identified upper slope failure behind 21, 23, and 25 Peacham Crescent, in 
+the City of Toronto. The alternative solutions were developed by Terraprobe Inc. (2019) and are based on...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 39
+
+--- Document 11 ---
+Content:
+(MSE) structure along the upper slope behind 21, 23, and 25 Peacham Crescent was the preferred slope stabilization solution 
+to be implemented.  
+Following the thirty (30) day stakeholder and public review period of this Class EA report and the successful resolution of 
+any concerns received during this review, TRCA intends to finalize the detailed design of  the MSE structure and obtain the 
+necessary approvals to proceed with its implementation....
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 3
+
+--- Document 12 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+     Toronto and Region Conservation Authority    |    10 
+ 
+• The location of the projected long-term stable slope crest (LTSSC) in relation to permanent and essential 
+structures at the top of slope; 
+• The presence of a public footpath at the base of slope; and 
+• The presence of potentially impacted infrastructure located within the tributary and surrounding area...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 16
+
+--- Document 13 ---
+Content:
+Peacham Crescent Slope Stabilization Project – Project Brief 
+Toronto and Region Conservation Authority    |    14 
+14 REFERENCES 
+Cole Engineering, (2015). SLOPE STABILITY & EROSION RISK ASSESSMENT.  
+Terraprobe. (2020). Design Brief, 21 to 27 Peacham Crescent, Toronto, Ontario. Toronto. 
+Toronto and Region Conservation Authority (2019). Class Environmental Assessment For Remedial Flood And Erosion 
+Control Projects, Peacham Crescent Slope Stabilization Project City of Toronto....
+Metadata:
+- **source**: 2021-09-29 Peacham Cres Project Brief_Final.pdf
+- **page**: 17
+
+--- Document 14 ---
+Content:
+stabilization work.  
+ Subsequently, Terraprobe was retained to develop conceptual de signs for slope stabilization 
+utilizing topographic data provided by TRCA and subsurface information from the above noted SS&ERA 
+report prepared by Cole and Soil Engineers.  
+ Based on a review of Cole and Soil Engineers report, the subje ct slope behind 21, 23, & 25 
+Peacham Crescent predominantly consists of very loose to compac t/soft to stiff earth fill materials (about...
+Metadata:
+- **source**: 2019-04-02 Conceptual Alt. Report Peacham_Final.pdf
+- **page**: 2
+
+--- Document 15 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    40 
+ 
+Screening Criteria 
+Rating of Potential Effects 
+-H -M -L NIL +L +M +H NA Comments 
+Biological                                                                                                                                   
+Wildlife Habitat          
+Habitat Linkages or Corridors          
+Significant Vegetation 
+Communities    ...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 46
+
+--- Document 16 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    36 
+ 
+installing proposed 
+concept 
+Maintenance 
+costs 
+Rough Order of 
+Magnitude (ROM) 
+costs to maintain the 
+proposed structure  
+NA Moderate Low 
+Public Safety 
+Potential 
+risks to the 
+public 
+Impact to public 
+safety (i.e., along trail, 
+and slope) and 
+requirement for 
+safety features (e.g. 
+safety fences) 
+Low  Low Moderate...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 42
+
+--- Document 17 ---
+Content:
+Toronto and Region Conservation Authority  23 Peacham Crescent 
+City of Toronto  Slope Stability & Erosion Risk Assessment 
+3.0 Preliminary Design Concepts  
+Soil Engineers Ltd. provided five (5) potential alternatives for the site which were assessed based on 
+feasibility, constructability and cost. Of the 5 alternatives, the “Do Nothing” approach was considered 
+which includes monitoring of the site. In addition to the “Do Nothing” approach, four other alternatives ...
+Metadata:
+- **source**: 2015-05-19 Cole AREA E - Peacham Cres.pdf
+- **page**: 61
+
+--- Document 18 ---
+Content:
+Archaeological Assessment (Stage 1 – 2) in the City of Toronto – 21 – 25 
+Peacham Crescent Slope Stabilization (TRCA, 2017) 
+Stage 1 Archaeological Assessment – 21 – 25 Peacham Crescent Slope 
+Stabilization (TRCA, 2018) 
+Conceptual Slope Stabilization Alternatives Recommendation Report 
+(Terraprobe Inc., 2019) 
+Appendix B F1702-1 21 – 25 Peacham Crescent Existing Conditions 2018 (TRCA, 
+2018)  
+Appendix C Ecology Survey Memorandum for 21 – 25 Peacham Crescent Erosion...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 6
+
+--- Document 19 ---
+Content:
+Toronto and Region Conservation Authority  21 Peacham Crescent 
+City of Toronto  Slope Stability & Erosion Risk Assessment 
+ 
+Figure 2Ͳ3 Trees within Slope Failure 
+3.0 Preliminary Design Concepts 
+Soil Engineers Ltd. provided five (5) potential alternatives for the site which were assessed based on 
+feasibility, constructability and cost. Of the 5 alternatives, the “Do Nothing” approach was considered ...
+Metadata:
+- **source**: 2015-05-19 Cole AREA E - Peacham Cres.pdf
+- **page**: 10
+
+--- Document 20 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+     Toronto and Region Conservation Authority    |    6 
+ 
+1.3 Description of the Study Area 
+Following the July 8, 2013 severe weather event, significant slumping ; slippage; and slope instability w ere 
+reported to have occurred behind three properties on Peacham Crescent, spanning approximately 52 metres of...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 12
+
+--- Document 21 ---
+Content:
+Class EA Project Plan: Peacham Crescent Erosion Control and Slope Stabilization Project 
+  
+     Toronto and Region Conservation Authority    |    12 
+ 
+2.0 BACKGROUND 
+This section provides an overview of the causes and extent of erosion and slope instability hazards 
+impacting the Project site and includes justification for TRCA’s involvement and approach to developing a 
+remedial solution. The studies and assessments undertaken by TRCA to evaluate the Project site are listed...
+Metadata:
+- **source**: 2019-09-26 Peacham Class EA PP.pdf
+- **page**: 18
+
+--- Document 22 ---
+Content:
+Toronto and Region Conservation Authority  25 Peacham Crescent 
+City of Toronto  Slope Stability & Erosion Risk Assessment 
+ 
+Figure 2Ͳ3 Slope Held by Remaining Retaining Wall 
+3.0 Preliminary Design Concepts  
+Soil Engineers Ltd. provided five (5) potential alternatives for the site which were assessed based on 
+feasibility, constructability and cost. Of the 5 alternatives, the “Do Nothing” approach was considered ...
+Metadata:
+- **source**: 2015-05-19 Cole AREA E - Peacham Cres.pdf
+- **page**: 111
+"
+}
+        
+
+# Format Template
+You are designed to ask for clarifications in case of ambiguous queries or when more specific details are needed.
+The tone of the responses will be professional, focusing on clarity, accuracy, and relevance, suitable for the technical nature of TRCA's content.
+Cite the sources of information from TRCA's documents, web search results, or GPT-4's training data when applicable.
+        
+The query will be delimited with #### characters: #### Based on the "2019-04-02 Conceptual Alt. Report Peacham_Final", what were the key factors influencing the selection of the preferred conceptual slope stabilization alternatives? ####
+
+# Few-Shot Example
+Query: "Can you outline the phased approach for the Humber Bay Park East Shoreline Maintenance Project?"
+Retrieved passages: "The eastern armourstone headland ... a risk to park users."
+Answer: "The Humber Bay Park East Shoreline Maintenance Project is divided into multiple phases, each with specific timelines. The available document focuses on Phase I..."
+        

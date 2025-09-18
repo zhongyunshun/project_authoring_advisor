@@ -1,0 +1,13 @@
+#### In the "Design Brief - Phase II" document, what specific engineering challenges and considerations were addressed during the detailed design process for shoreline protection at Humber Bay Park East? ####
+
+Based on the provided documentation, the following specific engineering challenges and considerations were addressed during the detailed design process for shoreline protection at Humber Bay Park East:
+
+1.  **Water Levels**: The overtopping rate was estimated using the methods for armoured slopes and walls presented in the Overtopping Manual (EurOtop, 2018).
+2.  **Wave Overtopping**: The overtopping rate was estimated using the methods for armoured slopes and walls presented in the Overtopping Manual (EurOtop, 2018).
+3.  **Design Considerations and Construction Costs**: The detailed design process included considerations of wave overtopping, surcharged revetment, habitat features, and construction costs.
+4.  **Habitat Features**: Habitat features were installed as part of Phase I, consisting of surcharged stone at the base of the revetment at several points along the deepest part of the structure.
+
+These specific engineering challenges and considerations were addressed during the detailed design process for shoreline protection at Humber Bay Park East.
+
+Reference:
+EurOtop. (2018). Overtopping Manual.

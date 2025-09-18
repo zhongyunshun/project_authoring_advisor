@@ -1,0 +1,13 @@
+Q: Why faithfulness for original gpt is highest?
+A: step by step, why faithfulness is non zero even if the retrieved context is none?
+In source code, it is trying to see if statements have their verdict equal to 1 and then calculate the ratio.
+(https://github.com/explodinggradients/ragas/blob/5d59549ad5ef511f621502c563bc55ac5aeb9188/ragas/src/ragas/metrics/_faithfulness.py#L182)
+Then we seek for how to compute verdict, Line 157, verdicts = await self.nli_statements_prompt.generate(...)
+and in definition, nli_statements_prompt: PydanticPrompt = field(default_factory=NLIStatementPrompt).
+So we need to look into how NLIStatementPrompt is like. 
+(https://github.com/explodinggradients/ragas/blob/5d59549ad5ef511f621502c563bc55ac5aeb9188/ragas/src/ragas/metrics/_faithfulness.py#L73)
+It takes in the retrieved context and the separated statements from a response. And it goes over a LLM to ask him with a specific persona:
+instruction = "Your task is to judge the faithfulness of a series of statements based on a given context. For each statement you must return verdict as 1 if the statement can be directly inferred based on the context or 0 if the statement can not be directly inferred based on the context."
+When the LLM takes in a empty context, it may have mis-judge responses to be faithful, which causes it to be non zero.
+
+Similar issue: https://github.com/explodinggradients/ragas/issues/793

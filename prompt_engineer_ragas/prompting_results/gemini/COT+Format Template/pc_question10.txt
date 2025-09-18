@@ -1,0 +1,24 @@
+Here's an analysis of how the Peacham Crescent Slope Stabilization Project addresses biodiversity, focusing on bats and butternut trees, based on the provided documents:
+
+**Butternut Trees:**
+
+*   **Identification and Classification:** A Category 2 butternut tree has been identified within the project area, specifically along the proposed access route ("Document 1"). A Category 2 tree is defined as one not significantly affected by Butternut Canker ("Document 1").
+*   **Endangered Species Status:** Butternut trees are classified as an endangered species in North America and are protected under Ontario’s Endangered Species Act ("Document 2").
+*   **Genetic Testing and Susceptibility:** Genetic testing revealed that the butternut tree within the construction access route is genetically pure and highly susceptible to butternut canker ("Document 2").
+*   **Species of Concern:** The presence of a butternut tree is noted as a species of concern, primarily due to the impact of butternut canker on butternut populations ("Document 19").
+
+**Bat Species:**
+
+*   **Habitat Presence:** Bat habitat is present within the project area ("Document 8").
+*   **Compensation Measures:** Appropriate compensation for bat habitat will be coordinated by TRCA’s ERM Project staff, following the Ontario Ministry of Environment, Conservation, and Parks (MECP) Bat Survey Protocol ("Document 8").
+
+**General Biodiversity Considerations:**
+
+*   **Minimal Impacts:** The project aims to minimize impacts on species of concern through selective tree and shrub removals ("Document 21").
+*   **Restoration Activities:** Post-construction restoration activities will focus on replanting suitable native species to compensate for removals and enhance overall biodiversity ("Document 21").
+*   **Exotic Species:** An ecology survey identified 16 exotic plant species within the expanded study area ("Document 3").
+
+**Source:**
+
+*   2021-09-29 Peacham Cres Project Brief
+*   2019-09-26 Peacham Class EA PP

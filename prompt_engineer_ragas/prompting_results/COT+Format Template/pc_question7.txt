@@ -1,0 +1,17 @@
+Based on the "2019-04-02 Conceptual Alt. Report Peacham_Final," the key factors influencing the selection of the preferred conceptual slope stabilization alternatives include:
+
+1. **Factor of Safety (FOS)**: The alternatives were developed based on a requested FOS of 1.3, ensuring that the proposed solutions would adequately mitigate risks associated with slope instability.
+
+2. **Subsurface Conditions**: The conceptual designs took into account the soil composition and existing conditions of the subsurface materials. A thorough understanding of the geotechnical conditions is critical in determining the most effective stabilization methods.
+
+3. **Feasibility and Constructability**: The alternatives were assessed for their feasibility and constructability, ensuring that the chosen solution could be effectively implemented within the project's constraints.
+
+4. **Cost Considerations**: Cost analyses were performed to evaluate the economic viability of each alternative, comparing the anticipated costs of implementation and maintenance.
+
+5. **Environmental Impact**: The alternatives were evaluated against environmental criteria, including their potential effects on existing vegetation and wildlife habitats, as well as their ability to manage drainage and stormwater runoff effectively.
+
+6. **Public Safety**: The safety implications of each alternative were considered, particularly in relation to public access and potential risks associated with slope failure.
+
+These factors collectively guided the decision-making process in selecting the most appropriate slope stabilization solution behind 21, 23, and 25 Peacham Crescent. 
+
+For further details, you can refer to the document itself or the geotechnical reports included in the appendices.

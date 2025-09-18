@@ -1,0 +1,333 @@
+
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "
+--- Document 1 ---
+Content:
+German Mills Settlers Park Sanitary Infrastructure Protection – Project Brief 
+2 
+ 
+ 
+Figure 1. The German Mills Settlers Park Sanitary Infrastructure Protection Project study area. Source: TRCA, 
+2019....
+Metadata:
+- **source**: 2021-02-24 Project Brief_90 percent.pdf
+- **page**: 4
+
+--- Document 2 ---
+Content:
+German Mills Settlers Park Sanitary Infrastructure Protection – Project Brief 
+1 
+ 
+ 
+1 INTRODUCTION 
+Toronto and Region Conservation Aut hority Erosion Risk Management (TRCA ERM ) and York Regio n 
+Environmental Services (th e “Region”) are preparing sanitary infrastructure protection works in German  Mills 
+Settlers Park to prevent exposure of the Leslie Collector sewer  within German Mills Creek. Th e proposed works...
+Metadata:
+- **source**: 2021-02-24 Project Brief_90 percent.pdf
+- **page**: 3
+
+--- Document 3 ---
+Content:
+German Mills Settlers Park Sanitary Infrastructure Protection 
+Project 
+Correspondence between TRCA and First Nations...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 308
+
+--- Document 4 ---
+Content:
+TRCA German Mills Settlers Park Sanitary,Infrastructure Protection Project, Schedule B Municpal Class 
+Environmnetal Assessment, Evaluation of Alternatives For Sites 2 and 3 
+ 
+ 
+GRECK AND ASSOCIATES LIMITED                                                                                                             P AGE  | 3 
+The primary objectives were based in the benefits or detriments to the following: 
+ Physical and Natu ral Environment 
+ Social and Cultural Environment...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 388
+
+--- Document 5 ---
+Content:
+TRCA German Mills Settlers Park Sanitary,Infrastructure Protection Project, Schedule B Municpal Class Environmnetal Assessment, Evaluation of Alternatives For Sites 2 and 3 
+ 
+ 
+GRECK AND ASSOCIATES LIMITED                                                                                                                                    P AGE  | 10 
+  Table 2: Cost Estimates and Sharing                              
+Benefits 
+Cost Share 
+Capital O&M...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 395
+
+--- Document 6 ---
+Content:
+TRCA German Mills Settlers Park Sanitary,Infrastructure Protection Project, Schedule B Municpal Class 
+Environmnetal Assessment, Evaluation of Alternatives For Sites 2 and 3 
+ 
+ 
+GRECK AND ASSOCIATES LIMITED   P AGE  | 18 
+6. R EFERENCES 
+Greck and Associates Limited and Palmer Environmental Consultin g Group, Bercy 
+Wycliffe Park Sanitary Infrastru cture Protection Project, Geomo rphic Assessment and 
+Preliminary Design Alternatives, September 2015....
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 403
+
+--- Document 7 ---
+Content:
+TRCA German Mills Settlers Park Sanitary,Infrastructure Protection Project, Schedule B Municpal Class 
+Environmnetal Assessment, Evaluation of Alternatives For Sites 2 and 3 
+ 
+ 
+GRECK AND ASSOCIATES LIMITED                                                                                                             P AGE  | 6 
+ 
+  
+Figure 3: Existing Conditions and Areas of Concern...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 391
+
+--- Document 8 ---
+Content:
+Why are we here?
+TRCA in partnership with York Region are planning sanitary infrastructure 
+protection works to address erosion issues along German Mills Creek in 
+German Mills Settlers Park...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 347
+
+--- Document 9 ---
+Content:
+NOTICE OF INTENT 
+ 
+GERMAN MILLS SETTLERS PARK SANITARY INFRASTRUCTURE PROTECTION 
+PROJECT 
+ 
+Toronto and Region Conservation Authority 
+(TRCA) is working in partnership with the 
+Regional Municipality of York to undertake 
+sanitary infrastructure protection works at 
+multiple sites within German Mills Settlers 
+Park. The project sites are located along an 
+estimated 260 metre stretch of German Mills 
+Creek, running north-south between John 
+Street and Steeles Avenue East, in the City of...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 286
+
+--- Document 10 ---
+Content:
+TRCA German Mills Settlers Park Sanitary,Infrastructure Protection Project, Schedule B Municpal Class Environmnetal Assessment, Evaluation of 
+Alternatives For Sites 2 and 3 
+ 
+ 
+GRECK AND ASSOCIATES LIMITED                  P AGE  | 12 
+ 
+Figure 3: Option 1...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 397
+
+--- Document 11 ---
+Content:
+TRCA German Mills Settlers Park Sanitary,Infrastructure Protection Project, Schedule B Municpal Class 
+Environmnetal Assessment, Evaluation of Alternatives For Sites 2 and 3 
+ 
+ 
+GRECK AND ASSOCIATES LIMITED                                                                                                             P AGE  | 8 
+ Additional areas of intersection between the creek and sanitar y sewer in locations 
+where concrete encasement likely does not exist,...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 393
+
+--- Document 12 ---
+Content:
+TRCA German Mills Settlers Park Sanitary,Infrastructure Protection Project, Schedule B Municpal Class 
+Environmnetal Assessment, Evaluation of Alternatives For Sites 2 and 3 
+ 
+ 
+GRECK AND ASSOCIATES LIMITED                                                                                                             P AGE  | 5 
+Figure 2:German Mills Creek Meander and Historic Planforms...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 390
+
+--- Document 13 ---
+Content:
+TRCA German Mills Settlers Park Sanitary,Infrastructure Protection Project, Schedule B Municpal Class Environmnetal Assessment, Evaluation of 
+Alternatives For Sites 2 and 3 
+ 
+ 
+GRECK AND ASSOCIATES LIMITED                  P AGE  | 16 
+ 
+Figure 5:Option 3...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 401
+
+--- Document 14 ---
+Content:
+yorkregion.com Thornhill Liberal| Thursday, August 8, 2019 | 12
+NOTICE OF COMPLETION
+GERMAN MILLS SETTLERS PARK SANITARY
+INFRASTRUCTURE PROTECTION PROJECT
+Toronto and Region Conservation Authority (TRCA) has completed the Schedule B
+Municipal Class Environmental Assessment (MCEA) Project File for the German Mills
+Settlers Park Sanitary Infrastructure Protection Project. This has been prepared in
+accordance to a Schedule B Municipal Class Environmental Assessment for Water and...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 381
+
+--- Document 15 ---
+Content:
+TRCA German Mills Settlers Park Sanitary,Infrastructure Protection Project, Schedule B Municpal Class Environmnetal Assessment, Evaluation of 
+Alternatives For Sites 2 and 3 
+ 
+ 
+GRECK AND ASSOCIATES LIMITED                                                                                                                                                  P AGE  | 2 
+ 
+Figure 1: Study Sites Location 
+  
+Site 2
+Site 3...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 387
+
+--- Document 16 ---
+Content:
+infrastructure as part of the German Mills Settlers Park Sanitary Infrastructure Protection Project. 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Please provide any comments you may have on the secondary objective of enhancing the 
+surrounding terrestrial and aquatic habitat of German Mills Park while preserving the public 
+enjoyment of the natural space. 
+ 
+ 
+ 
+ 
+ 
+ 
+4. Please provide any comments you may have on Concept 1 – Interim Repair in Place measures?...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 371
+
+--- Document 17 ---
+Content:
+TRCA German Mills Settlers Park Sanitary,Infrastructure Protection Project, Schedule B Municpal Class Environmnetal Assessment, Evaluation of Alternatives For Sites 2 and 3 
+ 
+ 
+GRECK AND ASSOCIATES LIMITED                                                                                                                                    P AGE  | 9 
+Table 1: Sites 2 and 3 Evaluation Matrix...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 394
+
+--- Document 18 ---
+Content:
+TRCA German Mills Settlers Park Sanitary,Infrastructure Protection Project, Schedule B Municpal Class Environmnetal Assessment, Evaluation of 
+Alternatives For Sites 2 and 3 
+ 
+ 
+GRECK AND ASSOCIATES LIMITED                  P AGE  | 14 
+  
+Figure 4:Option 2...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 399
+
+--- Document 19 ---
+Content:
+TRCA German Mills Settlers Park Sanitary,Infrastructure Protection Project, Schedule B Municpal Class 
+Environmnetal Assessment, Evaluation of Alternatives For Sites 2 and 3 
+ 
+ 
+GRECK AND ASSOCIATES LIMITED                                                                                                             P AGE  | 7 
+Additional erosion in the summer of 2018 accelerated undercutti ng and erosion that 
+resulted in partial exposure of  the manhole as of August 28, 20 18. TRCA completed...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 392
+
+--- Document 20 ---
+Content:
+T
+oronto and Region Conservation Authority (TRCA) is working in partnership with the Regional 
+Municipality of York to undertake an environmental assessment for sanitary infrastructure 
+protection works within German Mills Settlers Park, in the City of Markham.  Since 2011, 
+TRCA’s Infrastructure Hazard Monitoring Program (IHMP) has identified and monitored several 
+at-risk sanitary sites along German Mills Creek, a tributary of the East Don River, between John 
+Street and Steeles Avenue East....
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 287
+
+--- Document 21 ---
+Content:
+area.  
+ 
+A map of the project area is shown below in Figure 1. 
+ 
+ 
+Figure 1. German Mills Settlers Park Sanitary Infrastructure Protection Project. Source: 
+TRCA, 2018.  
+ 
+ANTHROPOMORPHIC INFLUENCES 
+ 
+The entire project area has been influenced greatly by anthropomorphic processes 
+including:...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 183
+
+--- Document 22 ---
+Content:
+discussion will apply to TRCA Indigenous Engagement guidelines and Indigenous Engagement processes 
+at TRCA moving forward; it will not be specific to the German Mills Setters Park Sanitary Protection Project. 
+MNCFN and TRCA discussed meeting later in 2018.  
+The following presents a summary of the Indigenous engagement conducted during the German Mills Park 
+Sanitary Infrastructure Protection Project. 
+TABLE 1-1 SUMMARY OF CORRESPONDENCE WITH INDIGENOUS COMMUNITIES...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 293
+"
+}
+        
+
+# Chain of Thought
+Step 1: #### Refer to TRCA's technical documents first.
+Step 2: #### If the information is incomplete, use web search for current data.
+Step 3: #### If still unresolved, utilize GPT-4's knowledge (up to its training cutoff).
+Step 4: #### Cite sources from TRCA docs or web. Indicate if info is based on GPT-4's training data.
+        
+
+# Format Template
+You are designed to ask for clarifications in case of ambiguous queries or when more specific details are needed.
+The tone of the responses will be professional, focusing on clarity, accuracy, and relevance, suitable for the technical nature of TRCA's content.
+Cite the sources of information from TRCA's documents, web search results, or GPT-4's training data when applicable.
+        
+The query will be delimited with #### characters: #### In the German Mills Settlers Park Sanitary Infrastructure Protection Project, what are the specific roles of the various stakeholders, including TRCA, local municipalities, and engineering firms, in ensuring project success? ####
+
+# Few-Shot Example
+Query: "Can you outline the phased approach for the Humber Bay Park East Shoreline Maintenance Project?"
+Retrieved passages: "The eastern armourstone headland ... a risk to park users."
+Answer: "The Humber Bay Park East Shoreline Maintenance Project is divided into multiple phases, each with specific timelines. The available document focuses on Phase I..."
+        

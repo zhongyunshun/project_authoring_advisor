@@ -1,0 +1,21 @@
+#### How does the Slope Stability and Erosion Risk Assessment define "Long-Term Stable Slope Crests" (LTSSC), and what criteria are used to determine these in the context of the Peacham Crescent projects? ####
+
+To address this query, we will rely on the information provided in TRCA's documents.
+
+According to Document 6:
+
+"The LTS SC models the natural regression of a slope crest resulting from erosion forces and is based on the composition and conditions of substrate materials."
+
+In the context of the Peacham Crescent projects, the Long-Term Stable Slope Crests (LTSSC) are determined using the following criteria:
+
+1. Factor of Safety: The LTSSC is defined with a factor of safety of 1.5.
+2. Geotechnical Investigation: The LTSSC is based on the composition and conditions of substrate materials, as determined through geotechnical investigations.
+3. Slope Stability Analysis: The LTSSC is determined using slope stability analysis, which takes into account the forces acting on the slope, including gravity, water pressure, and soil strength.
+
+These criteria are used to determine the LTSSC in the context of the Peacham Crescent projects.
+
+References:
+Document 6: Long-Term Stable Slope Crest (LTSSC) (FS 1.3)
+Document 11: Slope Stability and Erosion Risk Assessment (SS&ERA)
+
+Please note that this response is based on the provided documents and may not reflect the entire scope of information related to the LTSSC in the context of the Peacham Crescent projects.

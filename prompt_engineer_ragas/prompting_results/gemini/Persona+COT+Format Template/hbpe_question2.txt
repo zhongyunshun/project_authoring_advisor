@@ -1,0 +1,28 @@
+Okay, I understand. I will use the provided documents, web search, and my knowledge to answer questions related to TRCA's technical documents. I will prioritize TRCA documents, then web search, and finally my own knowledge. I will also cite my sources. Let's begin.
+
+#### How do the shoreline maintenance projects outlined in the "HBPE Project Brief - Phase II" impact the local wildlife, particularly the aquatic species mentioned in the baseline inventory section? ####
+The Humber Bay Park East Shoreline Maintenance Project: Phase II – Western Headland project brief outlines several potential impacts and mitigation measures related to local wildlife, particularly aquatic species.
+
+*   **Aquatic Habitat Alteration & Loss:** The project acknowledges the potential for alteration or loss of aquatic habitat due to the construction activities. The effect of the proposed structure on aquatic habitat was evaluated to calculate the areas of fish habitat that would be altered or lost as a result of the construction (Design Brief - Phase II\_DRAFT.pdf, page 25 and 4, Section 4.3.5.6).
+*   **Protection Structures:** The design minimizes cutting and disturbing of native material, assuming potential contamination of the shoreline's native material (Design Brief - Phase II\_DRAFT.pdf, page 22).
+*   **Aquatic Habitat Components:** Discussions are underway between TRCA, DFO, City of Toronto, and Shoreplan regarding the development of aquatic habitat features for the design. The proposed habitat component consists of a surcharged revetment (HBPE Project Brief - Phase I.pdf, page 30). A similar approach is planned for Phase II along the deepest part of the structure (HBPE Project Brief - Phase II.pdf, page 30, Section 6.3.1).
+
+*   **Species Mentioned:** The baseline inventory includes several aquatic species (Humber Bay Park East Concept Brief.pdf, page 14):
+    *   Alewives
+    *   White Suckers
+    *   Rainbow Smelt
+
+    Other species mentioned in the document include (HBPE Project Brief - Phase II.pdf, page 18):
+
+    *   Rainbow Smelt
+    *   Rainbow Trout
+    *   Rock Bass
+    *   Round Goby
+    *   Shorthead Redhorse
+    *   Smallmouth Bass
+
+*   **Erosion and Sediment Control Measures:** Staging and stockpiling areas will be isolated with standard silt socks to prevent the entry of deleterious substances into the watercourse (HBPE Project Brief - Phase II.pdf, page 33).
+
+*   **Restoration Plantings:** As part of the Phase II preliminary planting plan, 152 on-site compensation plantings of at least 50 mm caliper are proposed to mitigate the project impacts (HBPE Project Brief - Phase II.pdf, page 36).
+
+It's important to note that the project aims to minimize negative impacts on aquatic habitats and includes measures for habitat restoration and protection. Discussions with various stakeholders (DFO, City of Toronto, Shoreplan) are ongoing to develop suitable aquatic habitat features.

@@ -1,0 +1,11 @@
+#### Answer
+
+The Slope Stability and Erosion Risk Assessment defines "Long-Term Stable Slope Crests" (LTSSC) as the natural regression of a slope crest resulting from erosion forces. The LTSSC is determined using geotechnical investigations, including borehole drilling and soil testing.
+
+The criteria used to determine the LTSSC include:
+
+1. Factor of Safety (FS): A minimum FS of 1.5 is required for the LTSSC.
+2. Geotechnical parameters: The geotechnical properties of the slope material, such as cohesion, angle of internal friction, and unit weight, are evaluated to determine the stability of the slope.
+3. Borehole data: The results from borehole drilling and logging, including measurements of soil density, water content, and other relevant properties, are used to evaluate the stability of the slope.
+
+These criteria are used in combination with geotechnical investigations and analyses to determine the LTSSC for the Peacham Crescent projects.

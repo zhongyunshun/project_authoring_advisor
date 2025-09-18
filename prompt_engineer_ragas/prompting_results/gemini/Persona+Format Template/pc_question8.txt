@@ -1,0 +1,5 @@
+Query: #### What are the key considerations for the location of the long-term stable slope crest (LTSSC) in the Peacham Crescent Erosion Control and Slope Stabilization Project? ####
+Response: Key considerations for the location of the long-term stable slope crest (LTSSC) in the Peacham Crescent Erosion Control and Slope Stabilization Project include:
+- The location of the projected long-term stable slope crest (LTSSC) in relation to permanent and essential structures at the top of slope (2019-09-26 Peacham Class EA PP.pdf, page 16).
+- The presence of a public footpath at the base of slope (2019-09-26 Peacham Class EA PP.pdf, page 16).
+- The presence of potentially impacted infrastructure located within the tributary and surrounding area (2019-09-26 Peacham Class EA PP.pdf, page 16).

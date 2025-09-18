@@ -1,0 +1,316 @@
+
+# Persona
+"goal": "You are designed to be a specialized question-answering assistant, focusing on providing accurate answers based on Toronto and Region Conservation Authority (TRCA)'s technical documents, supplemented by web search results and GPT-4's knowledge base. The query will be delimited with four hashtags (i.e., ####)."
+        
+
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "
+--- Document 1 ---
+Content:
+recreational activities. The erosion occurring along German Mil ls Creek within the park is not only a 
+potential public health risk, but is also posing a risk to trai l infrastructure and is therefore considered a 
+potential safety hazard to park users....
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 30
+
+--- Document 2 ---
+Content:
+GERMAN MILLS SETTLERS PARK SANITARY 
+INFRASTRUCTURE PROTECTION PROJECT 
+EROSION HAZARD SITES I-152, P-060, P-068,  
+P-062, P-065, AND I-151 
+Project Brief 
+ 
+Prepared by:  
+Erosion Risk Management, Restoration & Infrastructure 
+ Toronto and Region Conservation Authority 
+ 
+Date: February 2021...
+Metadata:
+- **source**: 2021-02-24 Project Brief_90 percent.pdf
+- **page**: 1
+
+--- Document 3 ---
+Content:
+infrastructure as part of the German Mills Settlers Park Sanitary Infrastructure Protection Project. 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Please provide any comments you may have on the secondary objective of enhancing the 
+surrounding terrestrial and aquatic habitat of German Mills Park while preserving the public 
+enjoyment of the natural space. 
+ 
+ 
+ 
+ 
+ 
+ 
+4. Please provide any comments you may have on Concept 1 – Interim Repair in Place measures?...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 371
+
+--- Document 4 ---
+Content:
+MH6 to MH10 that corresponds with infrastructure erosion hazard Sites I‐152, P‐060, P‐062, P‐065, P‐068 
+and I‐151. 
+ 
+The German Mills Settlers Park Sanitary Infrastructure Protection Project is being completed in accordance 
+with a Schedule B Municipal Water and Wastewater Class Environm ental Assessment (MCEA). The focus 
+of this study is to assess the level of risk to infrastructure and the environment, provide preliminary design 
+alternatives, and proceed through the MCEA....
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 2
+
+--- Document 5 ---
+Content:
+German Mills Settlers Park Sanitary Infrastructure Protection – Project Brief 
+1 
+ 
+ 
+1 INTRODUCTION 
+Toronto and Region Conservation Aut hority Erosion Risk Management (TRCA ERM ) and York Regio n 
+Environmental Services (th e “Region”) are preparing sanitary infrastructure protection works in German  Mills 
+Settlers Park to prevent exposure of the Leslie Collector sewer  within German Mills Creek. Th e proposed works...
+Metadata:
+- **source**: 2021-02-24 Project Brief_90 percent.pdf
+- **page**: 3
+
+--- Document 6 ---
+Content:
+German Mills Settlers Park Sanitary Infrastructure Protection – Project Brief 
+8 
+ 
+7 EROSION AND SEDIMENT CONTROL MEASURES 
+Prior to the start of construction, the staging and stockpiling area will be isolated with standard sediment control 
+fencing to prevent entry of deleterious substances into the watercourse as outlined in Dwg. No. ESC-2 (Sheet 3) 
+of the detailed design package. All barriers will be inspected and maintained in proper working order throughout...
+Metadata:
+- **source**: 2021-02-24 Project Brief_90 percent.pdf
+- **page**: 10
+
+--- Document 7 ---
+Content:
+35 
+ 
+o Potential Risks to Trail and Park Users – Impact on public safety and requirement for 
+safety features (e.g. safety fences) 
+ 
+The design alternatives discussed in  Section 5 were evaluated using the criteria described above. The 
+results of evaluation are presented below in Table 7.  
+ 
+Table 7. Evaluation of conceptual alternatives for German Mills Settlers Park Municipal Class EA. Source: TRCA, 2018. 
+Conceptual Alternative Solutions Evaluation  
+Potential Impacts  DO NOTHING...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 40
+
+--- Document 8 ---
+Content:
+February 12, 2019 PECG Report – German Mills Settlers Park Sanitary Protection EIS 34   
+detailed design and implemented during construction. The proposed works would in our opinion provide an opportunity for greater stream stability and improvements to aquatic and terrestrial habitats....
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 230
+
+--- Document 9 ---
+Content:
+partnership to implement works wh ich would protect sanitary inf rastructure at risk for 
+damages due to stream bank erosion.  German Mills Creek runs th rough the German 
+Mills Settlers Park and down through the Bercy Wycliffe Park an d is experiencing high 
+amounts of erosion. Due to the intersection and proximity of th e sanitary sewer 
+infrastructure relative to t he natural channel erosion processe s several locations have...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 386
+
+--- Document 10 ---
+Content:
+Bank and bed erosion are at risk of exposing the sanitary trunk sewer at multiple 
+locations within the project area in German Mills Settlers Park. This includes a sharp “S” 
+bend at the upstream limit that is threatening to cut off maintenance access to a sanitary 
+maintenance hole, as well as a scour pool that is at risk of undermining an existing 
+armour stone wall protecting a maintenance hole at the downstream limits of the project 
+area....
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 183
+
+--- Document 11 ---
+Content:
+partially exposed by bank erosion and the structure is at risk of being outflanked if no remedial works are 
+conducted. For more information regarding park infrastructure, refer to Section 4.6.2.  
+4.2 PHYSICAL ENVIRONMENT 
+ 
+German Mills Creek between John Street and Steeles Avenue East is characterized as a broad meandering 
+valley that exhibits a history of anthropogenic disturbances. Direct impacts of these disturbances include...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 21
+
+--- Document 12 ---
+Content:
+monitored several at -risk sanitary sites along German Mills Creek  since 2011. Following a geomorphic study 
+conducted in 2015 to assess and prioritize risks to infrastructure, four key areas were identified along this reach 
+of the cr eek, which runs through German Mills Settlers Park and Bercy Wycliff Park. As City of Markham 
+stormwater and trail infrastructure in the area will benefit from the proposed works, the City will also be cost 
+contributing to implementation of the project....
+Metadata:
+- **source**: 2021 GMSP Sites 2-3 Workplan_v2.pdf
+- **page**: 1
+
+--- Document 13 ---
+Content:
+are more sensitive to aquatic ecosystem change and opportunities should be explored 
+through redevelopment, improved storm water retrofits and terrestrial planning to protect 
+these species. 
+ 
+Conclusions 
+ 
+The aquatic habitat within the German Mills Settlers Park Sanitary Infrastructure 
+Protection Project area has been highly influenced by anthropogenic disturbance. The 
+terrestrial community includes some locally sensitive L4 communities that are to be...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 186
+
+--- Document 14 ---
+Content:
+area.  
+ 
+A map of the project area is shown below in Figure 1. 
+ 
+ 
+Figure 1. German Mills Settlers Park Sanitary Infrastructure Protection Project. Source: 
+TRCA, 2018.  
+ 
+ANTHROPOMORPHIC INFLUENCES 
+ 
+The entire project area has been influenced greatly by anthropomorphic processes 
+including:...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 183
+
+--- Document 15 ---
+Content:
+German Mills Settlers Park Sanitary Infrastructure Protection – Project Brief 
+2 
+ 
+ 
+Figure 1. The German Mills Settlers Park Sanitary Infrastructure Protection Project study area. Source: TRCA, 
+2019....
+Metadata:
+- **source**: 2021-02-24 Project Brief_90 percent.pdf
+- **page**: 4
+
+--- Document 16 ---
+Content:
+TRCA German Mills Settlers Park Sanitary,Infrastructure Protection Project, Schedule B Municpal Class 
+Environmnetal Assessment, Evaluation of Alternatives For Sites 2 and 3 
+ 
+ 
+GRECK AND ASSOCIATES LIMITED                                                                                                             P AGE  | 5 
+Figure 2:German Mills Creek Meander and Historic Planforms...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 390
+
+--- Document 17 ---
+Content:
+the Environmental Assessment Act (R.S.O.) 1990, and as such, mu st conduct its remedial flood 
+and erosion control projects in accordance with said Act.  
+ 
+The  proposed  sanitary  infrastructure  protection  works  for  the  German  Mills  Settlers  Park  Sanitary 
+Infrastructure Protection Project falls under a Schedule B planning process. Schedule B projects generally 
+include works undertaken in a watercourse for the purpose of flood or erosion control, including bank or...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 8
+
+--- Document 18 ---
+Content:
+German Mills Settlers Park Sanitary Infrastructure Protection – Project Brief 
+7 
+ 
+6 SCOPE OF WORK 
+The purpose of the proposed works is to provide a long- term solution for protection of  regional sanitary 
+infrastructure and City  stormwater and  trail infrastructure. There is also a secondary op portunity to provide 
+aquatic and terrestrial habitat improvements through site restoration following implementation of the proposed 
+work. In general, implementation of this project includes:...
+Metadata:
+- **source**: 2021-02-24 Project Brief_90 percent.pdf
+- **page**: 9
+
+--- Document 19 ---
+Content:
+Why are we here?
+TRCA in partnership with York Region are planning sanitary infrastructure 
+protection works to address erosion issues along German Mills Creek in 
+German Mills Settlers Park...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 347
+
+--- Document 20 ---
+Content:
+German Mills Settlers Park Sanitary Protection Project: 
+• Geomorphic Report 
+• Infrastructure Hazard Monitoring Program Records 
+• Archaeology Reports (Project Area was completed in two different reports) 
+• Background Environmental Data 
+• Preliminary Conceptual Alternatives 
+ 
+The following information will be made available in summer of 2018 with the completed Project 
+File:...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 288
+
+--- Document 21 ---
+Content:
+TRCA German Mills Settlers Park Sanitary,Infrastructure Protection Project, Schedule B Municpal Class 
+Environmnetal Assessment, Evaluation of Alternatives For Sites 2 and 3 
+ 
+ 
+GRECK AND ASSOCIATES LIMITED                                                                                                             P AGE  | 3 
+The primary objectives were based in the benefits or detriments to the following: 
+ Physical and Natu ral Environment 
+ Social and Cultural Environment...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 388
+
+--- Document 22 ---
+Content:
+Conservation Authority 
+ 
+5. German Mills Settlers Park Sanitary Sewer Protection – Site 2 and 3: Scope d Environmental Im pact 
+Statement (2019) by Palmer Environmental Consulting Group Inc....
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 52
+"
+}
+        
+
+# Format Template
+You are designed to ask for clarifications in case of ambiguous queries or when more specific details are needed.
+The tone of the responses will be professional, focusing on clarity, accuracy, and relevance, suitable for the technical nature of TRCA's content.
+Cite the sources of information from TRCA's documents, web search results, or GPT-4's training data when applicable.
+        
+The query will be delimited with #### characters: #### How does the erosion hazard management in areas like German Mills Settlers Park plan to address potential social impacts, such as access to parklands and community recreational spaces? ####
+
+# Few-Shot Example
+Query: "Can you outline the phased approach for the Humber Bay Park East Shoreline Maintenance Project?"
+Retrieved passages: "The eastern armourstone headland ... a risk to park users."
+Answer: "The Humber Bay Park East Shoreline Maintenance Project is divided into multiple phases, each with specific timelines. The available document focuses on Phase I..."
+        

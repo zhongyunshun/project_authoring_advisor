@@ -1,0 +1,17 @@
+The "Design Brief - Phase II" document outlines several engineering challenges and considerations addressed during the detailed design process for shoreline protection at Humber Bay Park East. Key points include:
+
+1. **Coastal Conditions**: The existing coastal conditions were carefully evaluated to understand the erosion patterns and sediment transport, which are critical for designing effective shoreline protection measures.
+
+2. **Erosion and Sediment Control**: Measures to prevent erosion and control sediment were emphasized. This involves the use of silt socks and other barriers to prevent deleterious substances from entering the watercourse during construction.
+
+3. **Material Composition**: There was consideration of the native material composition of the shoreline, which had potential contamination. The design aimed to minimize excavation and disturbance of these materials to preserve the ecological integrity of the site.
+
+4. **Wave Overtopping**: The design considered the potential for wave overtopping of the structures. The overtopping rates were estimated using methodologies outlined in the Overtopping Manual (EurOtop, 2018), which informed the design of armoured slopes and walls.
+
+5. **Habitat Features**: The design incorporated habitat features, such as surcharged revetments, to enhance ecological benefits while providing structural stability.
+
+6. **Survey Requirements**: A layout survey was planned before construction and as needed throughout the project to ensure accurate implementation and adherence to design specifications.
+
+These considerations reflect a comprehensive approach to address the challenges posed by shoreline erosion while maintaining the ecological health of Humber Bay Park East. 
+
+(Source: Design Brief - Phase II_DRAFT.pdf)

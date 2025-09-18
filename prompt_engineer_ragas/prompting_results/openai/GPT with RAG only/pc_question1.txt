@@ -1,0 +1,15 @@
+The "Long-Term Stable Slope Crest" (LTSSC) is defined within the context of the Slope Stability and Erosion Risk Assessment (SS&ERA) as a critical aspect of slope management, specifically referencing its relationship to erosional forces and the structural integrity of slopes in the Peacham Crescent area. 
+
+The LTSSC models the natural regression of a slope crest due to erosion forces, taking into consideration factors such as the composition and conditions of substrate materials. To establish these LTSSC, various criteria are utilized:
+
+1. **Factor of Safety (FS)**: A commonly cited FS for LTSSC is 1.5. This factor represents the stability threshold and is essential in ensuring that the slope will withstand erosional forces without failure.
+
+2. **Geotechnical Investigations**: Subsurface investigations, including borehole drilling, help delineate the LTSSC by evaluating soil characteristics and stability.
+
+3. **Topographic Surveys**: These are conducted to assess the physical features of the slope and determine how existing structures and natural features interact with the slope.
+
+4. **Field Investigations**: Observational data from visual inspections and other assessments help identify risks and conditions that affect slope stability, like erosion patterns or historical incidents of slope failure.
+
+5. **Hydrologic Considerations**: Understanding how water movement (e.g., rainfall impacts) affects slope stability is critical in determining the resilience of the slope crests.
+
+The assessment aims to mitigate risks to human life and property, as evidenced by the ongoing efforts of agencies like the Toronto and Region Conservation Authority (TRCA) to address erosion and slope stability in this area.

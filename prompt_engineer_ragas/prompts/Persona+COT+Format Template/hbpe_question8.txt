@@ -1,0 +1,314 @@
+
+# Persona
+"goal": "You are designed to be a specialized question-answering assistant, focusing on providing accurate answers based on Toronto and Region Conservation Authority (TRCA)'s technical documents, supplemented by web search results and GPT-4's knowledge base. The query will be delimited with four hashtags (i.e., ####)."
+        
+
+# Inject Domain Information
+Here is the retrieved passage:
+{
+    "
+--- Document 1 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase I – Eastern Headland 
+Project Brief  
+Toronto and Region Conservation Authority    |    33 
+ Post Construction Monitoring 
+The site will be inspected during the first year after major storm events and on an annual basis thereafter to 
+ensure that the implemented works are stable and performing as designed. Any maintenance requir ed will be...
+Metadata:
+- **source**: HBPE Project Brief - Phase I.pdf
+- **page**: 36
+
+--- Document 2 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase II – Western Headland 
+Project Brief  
+ 
+Toronto and Region Conservation Authority    |    34 
+ 
+ Post Construction Monitoring 
+The site will be inspected during the first year after major storm events and on an annual basis thereafter to 
+ensure that the implemented works are stable and performing as designed. Any maintenance required will be...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 37
+
+--- Document 3 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase II – Western Headland 
+Project Brief  
+ 
+Toronto and Region Conservation Authority    |    30 
+ 
+9 EROSION AND SEDIMENT CONTROL MEASURES 
+Prior to the start of construction, staging and stockpiling areas will be isolated with standard silt socks to prevent 
+the entry of deleterious substances into the watercourse, as shown previously Figure 27. All barriers will be...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 33
+
+--- Document 4 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase I – Eastern Headland 
+Project Brief  
+Toronto and Region Conservation Authority    |    29 
+9 EROSION AND SEDIMENT CONTROL MEASURES 
+Prior to the start of construction, staging and stockpiling areas will be isolated with standard silt socks to prevent 
+the entry of deleterious substances into the watercourse, as shown previously Figure 24. All barriers will be...
+Metadata:
+- **source**: HBPE Project Brief - Phase I.pdf
+- **page**: 32
+
+--- Document 5 ---
+Content:
+GENERAL CONSTRUCTION NOTES:SECTION 1: SITE MANAGEMENT1)Erosion and sediment control (ESC) measures will be implemented prior to, and maintained during the construction phases, to prevent entry of sediment into the water. All damaged erosion and sediment control measures should be repaired and/or replaced within 48 hours of the inspection.2)Disturbed areas will be minimized to the extent possible, and temporarily or permanently stabilized or restored as the work progresses.3)The erosion and...
+Metadata:
+- **source**: Detailed Design - Phase I.pdf
+- **page**: 4
+
+--- Document 6 ---
+Content:
+restored as the work progresses.3)The erosion and sediment control strategies outlined on the plans are not static and may need to be upgraded/amended as site conditions change to minimize sediment laden runoff from leaving the work areas. If the prescribed measures on the plans are not effective in preventing the release of deleterious substance, including sediment, then alternative measures must be implemented immediately to minimize potential ecological impacts. TRCA enforcement officer...
+Metadata:
+- **source**: Detailed Design - Phase I.pdf
+- **page**: 4
+
+--- Document 7 ---
+Content:
+recommendations to mitigate erosion risks. The investigations are summarized the section follow this 
+report. 
+4.0 Monitoring 
+PreͲconstruction  and  postͲconstruction  erosion  monitoring  of  the  proposed  works  should  be 
+implemented including a record of photographs.  Monitoring of proposed vegetation should also be 
+conducted for two (2) years after planting to ensure survivability.  The monitoring activities should 
+include (but not limited to): ...
+Metadata:
+- **source**: 2015-05-19 Cole AREA E - Peacham Cres.pdf
+- **page**: 5
+
+--- Document 8 ---
+Content:
+Detailed Scope of Work 
+The overall approach to the designs was to prioritize long-term resiliency while reducing the need for excavation 
+and off -site disposal to limit disturbance and impacts of the construction activities  as well as addressing the 
+leading erosion conc erns of the park, including low crest elevation and wave overtopping. The desig ns address 
+these concerns by placing new material over the existing structures where toe and slope stability permits thereby...
+Metadata:
+- **source**: HBPE Project Brief - Phase I.pdf
+- **page**: 26
+
+--- Document 9 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase I – Eastern Headland 
+Project Brief  
+Toronto and Region Conservation Authority    |    31 
+13 SITE RESTORATION AND MONITORING 
+ Restoration Plantings 
+For Phase I of the project, site restoration will be limited to regrading and seeding. The  full Restoration Plan will 
+be part of the detailed designs for the final phase of the project and plantings will occur after the implementation...
+Metadata:
+- **source**: HBPE Project Brief - Phase I.pdf
+- **page**: 34
+
+--- Document 10 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase II – Western Headland 
+Project Brief  
+ 
+Toronto and Region Conservation Authority    |    21 
+ 
+This investigation was carried out to prepare for Phase I of the works. TRCA staff will continue to follow these 
+mitigation measures during Phase II which will maintain the same access route into the site. 
+6 SCOPE OF WORK 
+The following scope of work will be completed as part of major maintenance for Phase II to ensure long-term...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 24
+
+--- Document 11 ---
+Content:
+protection of the shoreline in the project area. 
+ Construction Phasing 
+The scope of work for Phase II will include the items listed below and will be completed in the following general 
+sequence: 
+1. Site setup including establishment of staging/stockpiling areas at the western headland, removal of 
+required trees, and installation of ESC measures, tree protection, and site perimeter control.  
+2. Limited regrading of native fill material to accommodate repair works and establishment of...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 24
+
+--- Document 12 ---
+Content:
+ Provide long term, low maintenance protection against erosion and channel migration into the 
+sanitary sewer or other park infrastructure 
+ Ensure compatibility with the surrounding physical, biological, social and cultural environment 
+including terrestrial and aquatic habitat enhancement opportunities 
+ Identify items of public concern related to the impact and design of the project  
+ Restore impaired function of the natural system...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 11
+
+--- Document 13 ---
+Content:
+during the next appropriate planting window. In accordance with this, effective erosion and sediment 
+control measures will be maintained until site is re-vegetated. 
+• Machinery and vehicles will be kept clean of debris and seeds in order to prevent the spread of invasive 
+species. 
+12 CONSTRUCTION TIMING 
+Construction of Phase I began in November of 2021 beginning at the eastern limits of the armourstone headland...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 34
+
+--- Document 14 ---
+Content:
+Planning     
+Project Management Initiating, planning, executing, controlling, and closing    
+Monitoring  3 visits (year 1, 3 and 5) with reporting   
+Features to include in design: 
+ 
+• Reversal of altered hydrology 
+(crushed tile drains, burying 
+straightened ditches) 
+• Proper and stable water level 
+control 
+• Proper erosion and sediment 
+control methods 
+• Varying topography including 
+shallow water  (0 - 50 cm 
+depth) deeper vernal pockets 
+(50 - 100 cm depth)...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 767
+
+--- Document 15 ---
+Content:
+maintained until site is re‐vegetated 
+7.3 Implementation & Post‐Construction Monitoring 
+ 
+During construction, regular monitoring by trained professional s will be conducted to ensure all best 
+management practices are being used to avoid or minimize disturbance to the environment. Any damaged 
+or defective ESC measures will be repaired upon detection. Please refer to TRCA’s Project Site Inspection...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 45
+
+--- Document 16 ---
+Content:
+It will also help to mitigate future erosion conc erns at three low priority hazard sites ( Sites P-062, P-065, and I-
+151) which are within the project area . Replacement of a  pedestrian bridge just upstream of site P-068 is also 
+included in the scope of work, to prevent the existing south abutment from being outflanked and to increase 
+hydraulic capacity (Figure 5).  
+This Project Brief provides planning, approvals, and implementation details to  supplement the  90% Detailed...
+Metadata:
+- **source**: 2021-02-24 Project Brief_90 percent.pdf
+- **page**: 3
+
+--- Document 17 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase II – Western Headland 
+Project Brief  
+ 
+Toronto and Region Conservation Authority    |    32 
+ 
+13 SITE RESTORATION AND MONITORING 
+ Restoration Plantings 
+Final site restoration will occur following completion of all three phases of the project, with the exception of 
+some preliminary restoration along the Eastern Headland (seeding and trail repairs) following completion of...
+Metadata:
+- **source**: HBPE Project Brief - Phase II.pdf
+- **page**: 35
+
+--- Document 18 ---
+Content:
+Humber Bay Park East Major Maintenance Project – Concept Brief 
+Toronto and Region Conservation Authority    |    12 
+addressing the leading erosion concerns of the park , including low crest elevation and wave overtopping.  The 
+proposed concepts have been designed to  address these concerns by plac ing new material over the existing 
+structures where toe and slope stability permits, thereby minimizing excavation requirements. Two sections have...
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 15
+
+--- Document 19 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase I – Eastern Headland 
+Project Brief  
+Toronto and Region Conservation Authority    |    23 
+1. Site setup including establishment of staging/stockpiling areas, removal of required trees, relocation 
+of bird nesting boxes within the staging area, and installation of ESC measures, tree protection, and 
+site perimeter control  
+2. Construction of a temporary culvert and access bridge near the pond outlet...
+Metadata:
+- **source**: HBPE Project Brief - Phase I.pdf
+- **page**: 26
+
+--- Document 20 ---
+Content:
+erosion control and water balance for 
+groundwater and natural features) have 
+been met, where applicable, based on the 
+scale and scope of the project;
+    l)    pollution, sedimentation  and erosion  
+during construction and post-
+construction is minimized using best 
+management practices including site, 
+landscape, infrastructure and/or facility 
+design (whichever is applicable based 
+on the scale and scope of the project), 
+construction controls, and appropriate 
+remedial measures;...
+Metadata:
+- **source**: German Mills - Project File with Appendices.pdf
+- **page**: 644
+
+--- Document 21 ---
+Content:
+Humber Bay Park East Shoreline Maintenance Project: Phase I – Eastern Headland 
+Project Brief  
+Toronto and Region Conservation Authority    |    30 
+• Tree protection barriers will be erected where necessary and will be void of any grade changes and storage of 
+materials/equipment within the Tree Protection Zone (TPZ). 
+• All disturbed areas are to be restored to existing conditions or better. Any disturbed areas will be vegetated...
+Metadata:
+- **source**: HBPE Project Brief - Phase I.pdf
+- **page**: 33
+
+--- Document 22 ---
+Content:
+Humber Bay Park East Major Maintenance Project – Concept Brief 
+Toronto and Region Conservation Authority    |    2 
+ 
+Figure 2. Location of pond drainage at eastern limit of Armourstone Headland WF11.10. Source: TRCA, 2021.  
+ Existing Erosion Control Structures 
+The condition of each of the three erosion control structures within the project area is summarized in Table 1. 
+Photos and sketches of the structures are presented in Figure 3 through Figure 12....
+Metadata:
+- **source**: Humber Bay Park East Concept Brief.pdf
+- **page**: 5
+"
+}
+        
+
+# Chain of Thought
+Step 1: #### Refer to TRCA's technical documents first.
+Step 2: #### If the information is incomplete, use web search for current data.
+Step 3: #### If still unresolved, utilize GPT-4's knowledge (up to its training cutoff).
+Step 4: #### Cite sources from TRCA docs or web. Indicate if info is based on GPT-4's training data.
+        
+
+# Format Template
+You are designed to ask for clarifications in case of ambiguous queries or when more specific details are needed.
+The tone of the responses will be professional, focusing on clarity, accuracy, and relevance, suitable for the technical nature of TRCA's content.
+Cite the sources of information from TRCA's documents, web search results, or GPT-4's training data when applicable.
+        
+The query will be delimited with #### characters: #### What long-term monitoring and maintenance strategies are outlined for the newly installed erosion control measures in projects such as the "HBPE Project Brief - Phase I" ####
+
+# Few-Shot Example
+Query: "Can you outline the phased approach for the Humber Bay Park East Shoreline Maintenance Project?"
+Retrieved passages: "The eastern armourstone headland ... a risk to park users."
+Answer: "The Humber Bay Park East Shoreline Maintenance Project is divided into multiple phases, each with specific timelines. The available document focuses on Phase I..."
+        

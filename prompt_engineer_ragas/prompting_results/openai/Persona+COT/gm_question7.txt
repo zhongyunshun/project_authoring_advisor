@@ -1,0 +1,17 @@
+The decision-making process behind choosing specific erosion control structures, such as armourstone headlands and cobble/rubble beaches, involves several key considerations regarding their effectiveness and environmental impact.
+
+1. **Effectiveness in Erosion Control**:
+   - **Armourstone Headlands**: The use of armourstone headlands is aimed at stabilizing areas vulnerable to wave action and erosion. For example, the revetment structures are designed to minimize further erosion of shorelines, utilizing larger stones for stability against wave forces (Documents 1, 2, and 10).
+   - **Cobble/Rubble Beaches**: Smaller cobble sizes are considered to create a more user-friendly beach environment for recreational use, though they require more material for effective protection (Document 3). The choice of material must balance ecological benefits and the technical requirements for erosion protection, such as stability and usability (Documents 8 and 2).
+
+2. **Environmental Impact**:
+   - **Ecological Considerations**: The selection of materials and structure types is heavily influenced by ecological assessments. Structures that maintain or enhance local biodiversity are favored. For instance, rubble beaches may provide better habitats compared to larger armourstone configurations, which can sometimes disrupt natural sediment movements and local habitats (Document 7).
+   - **Minimal Disturbance**: A significant consideration in decision-making is the reduction of overall disturbance to the shoreline. Opting to reinforce existing structures rather than complete rebuilds helps maintain existing habitats and ecosystem dynamics (Document 22). Using existing footprints for new revetments is one such strategy to minimize ecological disruption (Documents 1 and 22).
+
+3. **Design Considerations**:
+   - The designs utilize calculations such as the Hudson equation for stone sizing based on expected coastal conditions, which guides the selection of appropriate materials (Document 6). This scientific basis ensures that chosen structures can withstand anticipated forces and conditions over time.
+   - **Alternatives Assessments**: Decision-making often involves evaluating multiple design options. For example, various conceptual approaches to remediation for revetments included rebuilding with existing materials versus enhancing current structures (Documents 10 and 22). 
+
+4. **Regulatory and Stakeholder Input**: The TRCA collaborates with various stakeholders to assess risks and benefits, ensuring that community needs and regulatory requirements are met throughout the planning and implementation process. The decisions made reflect input from the TRCA’s Erosion Risk Management Program to sustainably address shoreline protection while balancing environmental health.
+
+In conclusion, the choice of erosion control structures by the TRCA combines technical efficacy in stabilization and ecological sensitivity in design, aiming to enhance resilience while safeguarding the local environment. For detailed assessments, you may refer to the TRCA's design briefs and project concept documents.
