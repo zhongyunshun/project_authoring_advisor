@@ -42,7 +42,7 @@ It is **model-agnostic for embeddings** (e.g., Sentence-BERT, E5, GTE, Instructo
                                │
                                ▼
                     ┌──────────────────────┐
-                    │  Embeddings (custom) │  ← Sentence-BERT / E5 / GTE / Instructor / etc.
+                    │  Embeddings (custom) │  
                     └──────────────────────┘
                                │
                                ▼
