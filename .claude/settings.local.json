@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find \"C:\\\\Users\\\\zhong\\\\Documents\\\\Python Projects\\\\project_authoring_advisor\" -type f | grep -E \"\\\\.\\(py|txt|env|yaml|yml|json|toml\\)$\" | sort)",
+      "Read(//mnt/c/Users/zhong/Documents/Python Projects/**)",
+      "Bash(mkdir -p core pipeline agents ingest ui/pages scripts)",
+      "Bash(cd \"C:/Users/zhong/Documents/Python Projects/project_authoring_advisor\" && mkdir -p core pipeline agents ingest ui/pages scripts)",
+      "Bash(cd \"C:/Users/zhong/Documents/Python Projects/project_authoring_advisor\" && rm -f pipelines/rag_pipeline.py pipelines/rag_pipeline_cme.py pipelines/rag_pipeline_internet_search.py && rm -f embeddings/embeddings.py embeddings/ds_embeddings.py embeddings/ds_database.py embeddings/database.py && rm -f main_model.py main_model_configurable_models_embeddings.py StreamLitUI.py && rm -f \"Pages/1_Not_In_Use_Upload_Files.py\" \"Pages/2_Upload_Files_PDF.py\" && rm -f preprocessing/pdf_processing.py preprocessing/text_splitter.py)",
+      "Bash(cd \"C:/Users/zhong/Documents/Python Projects/project_authoring_advisor\" && rm -rf pipelines/__pycache__ embeddings/__pycache__ streamlit_class/__pycache__ && rmdir Pages 2>/dev/null; rmdir pipelines 2>/dev/null; echo \"Cleanup done\")",
+      "Bash(cd \"C:/Users/zhong/Documents/Python Projects/project_authoring_advisor\" && rm -f embeddings/__init__.py && rmdir embeddings 2>/dev/null; echo \"done\")",
+      "Bash(cd \"C:/Users/zhong/Documents/Python Projects/project_authoring_advisor\" && pip install qdrant-client llama-index-core llama-index-vector-stores-qdrant llama-index-llms-openai llama-index-embeddings-openai llama-index-embeddings-huggingface llama-index-readers-file llama-index-agent-openai PyMuPDF 2>&1 | tail -20)"
+    ]
+  }
+}
