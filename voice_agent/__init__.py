@@ -1,80 +1,28 @@
-"""LiveKit Voice Agent — pluggable voice interface for RAG backends.
+"""Voice agent — real-time STT and TTS using Deepgram.
 
-Architecture
+Speech-to-Text (live microphone transcription):
+    python -m voice_agent.app
 
-  ┌─────────────┐    WebRTC     ┌──────────────────────────────┐
-  │  User/Phone │◄────────────►│  LiveKit Server (:7880/7881) │
-  └─────────────┘               └──────────┬───────────────────┘
-                                           │
-                                ┌──────────▼───────────────────┐
-                                │     voice_agent/app.py       │
-                                │  ┌─────┐ ┌───┐ ┌───┐ ┌───┐  │
-                                │  │ VAD │ │STT│ │LLM│ │TTS│  │
-                                │  │Silero│ │ * │ │ * │ │ * │  │
-                                │  └─────┘ └───┘ └─┬─┘ └───┘  │
-                                │                   │          │
-                                │  ┌────────────────▼───────┐  │
-                                │  │  VoiceAgent            │  │
-                                │  │  → query_backend tool  │  │
-                                │  └────────────┬───────────┘  │
-                                └───────────────┼──────────────┘
-                                                │
-                           ┌────────────────────┼────────────────────┐
-                           │ BackendAdapter      │                    │
-                      ┌────▼─────┐        ┌─────▼──────┐    ┌───────▼───────┐
-                      │HTTPBackend│        │LocalBackend│    │ Your adapter  │
-                      │→ REST API │        │→ in-process│    │→ anything     │
-                      └────┬─────┘        └────────────┘    └───────────────┘
-                           │
-                      ┌────▼──────────────┐
-                      │ backend_api.py    │
-                      │ FastAPI wrapper   │
-                      │ around RAGEngine  │
-                      └───────────────────┘
+-------------------------------------------------------------------------------------------------------------
 
-  Key Design Decisions
+Text-to-Speech (supports .wav, .mp3, and .ogg format):
 
-  - Independent of your RAG system — the voice agent talks to backends through the BackendAdapter interface. Swap implementations to connect to any RAG system.
-  - Two adapter options included:
-    - HTTPBackendAdapter — calls a REST API (default, for separate deployments)
-    - LocalBackendAdapter — calls your RAGEngine/RAGAgent directly in-process
-  - Multilingual STT/TTS — Deepgram Nova-3 with language="multi" auto-detects language; faster-whisper large-v3 supports 99+ languages for local deployment
-  - Pluggable providers — stt_factory.py and tts_factory.py let you switch between cloud (Deepgram/Cartesia/ElevenLabs) and local (faster-whisper/Piper) via env vars
+    It uses Deepgram Aura-2 models (their latest generation with improved naturalness, support English only):
+    - Female default: aura-2-asteria-en
+    - Male default: aura-2-orion-en
 
-  Running It
+    # List all available voices
+    python -m voice_agent.tts --list-voices
 
-  Option 1: Docker Compose (full stack)
-  cp voice_agent/.env.example voice_agent/.env
-  # Edit .env with your API keys
-  docker compose -f docker-compose.voice.yml up
+    # Female voice (default)
+    python -m voice_agent.tts input.txt -o output.wav
 
-  Option 2: Local development
-  pip install -r voice_agent/requirements.txt
+    # Male voice
+    python -m voice_agent.tts input.txt -o output.wav --voice male
 
-  # Terminal 1: LiveKit server
-  docker run --rm -p 7880:7880 -p 7881:7881 livekit/livekit-server --dev
+    # Pick a specific voice
+    python -m voice_agent.tts input.txt -o output.wav --model aura-2-zeus-en
 
-  # Terminal 2: RAG backend API
-  uvicorn voice_agent.backend_api:app --port 8000
-
-  # Terminal 3: Voice agent
-  python -m voice_agent.app
-
-  Option 3: In-process (no HTTP)
-  from voice_agent.adapters.local_backend import LocalBackendAdapter
-  from voice_agent.agent import VoiceAgent
-
-  agent = VoiceAgent(backend=LocalBackendAdapter(your_rag_engine))
-
-  Plugging Into Another RAG System
-
-  Implement BackendAdapter with a single method:
-
-  class MyAdapter(BackendAdapter):
-      async def process(self, query: BackendQuery) -> BackendResponse:
-          result = await my_rag.ask(query.query)
-          return BackendResponse(answer=result)
-
-  Then pass it to VoiceAgent(backend=MyAdapter()).
-
+    # MP3 output (based on file extension)
+    python -m voice_agent.tts input.txt -o output.mp3 --voice female
 """

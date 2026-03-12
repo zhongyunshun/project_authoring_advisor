@@ -19,7 +19,31 @@
       "Bash(python -c \"from qdrant_client import QdrantClient; c = QdrantClient\\(path='./tmp_test'\\); print\\(hasattr\\(c, 'search'\\)\\); c.close\\(\\)\" 2>&1 && rm -rf tmp_test)",
       "Bash(cd \"C:/Users/zhong/Documents/Python Projects/project_authoring_advisor\" && rm -rf vector_db/qdrant_storage && python main.py --mode chat --reindex --pdf_dir data --embedding huggingface 2>&1 | head -20)",
       "Bash(cd \"C:/Users/zhong/Documents/Python Projects/project_authoring_advisor\" && rm -rf vector_db/qdrant_storage && python main.py --mode chat --reindex --pdf_dir data --embedding huggingface 2>&1 | head -25)",
-      "Bash(cd \"C:/Users/zhong/Documents/Python Projects/project_authoring_advisor\" && python -c \"\nfrom dotenv import load_dotenv\nload_dotenv\\(\\)\nimport os\nfrom anthropic import Anthropic\nclient = Anthropic\\(api_key=os.getenv\\('ANTHROPIC_API_KEY'\\)\\)\nresp = client.messages.create\\(model='claude-sonnet-4-6', max_tokens=10, messages=[{'role':'user','content':'Hi'}]\\)\nprint\\('Success:', resp.content[0].text\\)\n\" 2>&1)"
+      "Bash(cd \"C:/Users/zhong/Documents/Python Projects/project_authoring_advisor\" && python -c \"\nfrom dotenv import load_dotenv\nload_dotenv\\(\\)\nimport os\nfrom anthropic import Anthropic\nclient = Anthropic\\(api_key=os.getenv\\('ANTHROPIC_API_KEY'\\)\\)\nresp = client.messages.create\\(model='claude-sonnet-4-6', max_tokens=10, messages=[{'role':'user','content':'Hi'}]\\)\nprint\\('Success:', resp.content[0].text\\)\n\" 2>&1)",
+      "Bash(cd \"C:\\\\Users\\\\zhong\\\\Documents\\\\Python Projects\\\\project_authoring_advisor\" && rm -f voice_agent/agent.py voice_agent/tts_factory.py voice_agent/backend_api.py voice_agent/test_mock_backend.py voice_agent/Dockerfile.agent voice_agent/Dockerfile.backend && rm -rf voice_agent/adapters)",
+      "Bash(cd \"C:/Users/zhong/Documents/Python Projects/project_authoring_advisor\" && python -c \"from voice_agent.config import get_settings, TranscriberSettings, STTConfig; print\\('config OK'\\)\")",
+      "Bash(cd \"C:/Users/zhong/Documents/Python Projects/project_authoring_advisor\" && python -c \"from voice_agent.stt_factory import create_live_connection; print\\('stt_factory OK'\\)\")",
+      "Bash(cd \"C:/Users/zhong/Documents/Python Projects/project_authoring_advisor\" && python -c \"import deepgram; print\\(deepgram.__version__\\)\" && python -c \"from deepgram import DeepgramClient; c = DeepgramClient\\('test'\\); print\\(dir\\(c.listen\\)\\)\")",
+      "Bash(python -c \"\nimport deepgram\nnames = [n for n in dir\\(deepgram\\) if 'Live' in n or 'listen' in n.lower\\(\\) or 'Option' in n]\nprint\\(names\\)\n\")",
+      "Bash(python -c \"\nimport deepgram\nnames = [n for n in dir\\(deepgram\\) if 'Transcription' in n or 'Event' in n or 'WebSocket' in n or 'Websocket' in n]\nprint\\(names\\)\n\")",
+      "Bash(python -c \"\nfrom deepgram import DeepgramClient\nc = DeepgramClient\\(api_key='test'\\)\nprint\\(type\\(c\\)\\)\nprint\\(dir\\(c.listen\\)\\)\n\")",
+      "Bash(python -c \"\nfrom deepgram import DeepgramClient\nc = DeepgramClient\\(api_key='test'\\)\nv1 = c.listen.v1\nprint\\(type\\(v1\\)\\)\nprint\\([m for m in dir\\(v1\\) if not m.startswith\\('_'\\)]\\)\n\")",
+      "Bash(python -c \"\nfrom deepgram import DeepgramClient\nc = DeepgramClient\\(api_key='test'\\)\nconn = c.listen.v1.connect\nprint\\(type\\(conn\\)\\)\nprint\\([m for m in dir\\(conn\\) if not m.startswith\\('_'\\)]\\)\n\" 2>&1 | head -20)",
+      "Bash(python -c \"\nimport inspect\nfrom deepgram import DeepgramClient\nc = DeepgramClient\\(api_key='test'\\)\nsig = inspect.signature\\(c.listen.v1.connect\\)\nprint\\('connect sig:', sig\\)\n\")",
+      "Bash(python -c \"\nfrom deepgram.listen.v1.client import V1SocketClient\nprint\\([m for m in dir\\(V1SocketClient\\) if not m.startswith\\('_'\\)]\\)\n\")",
+      "Bash(python -c \"\nimport inspect\nfrom deepgram.listen.v1.client import V1SocketClient\nprint\\('send_media:', inspect.signature\\(V1SocketClient.send_media\\)\\)\nprint\\('on:', inspect.signature\\(V1SocketClient.on\\)\\)\nprint\\('start_listening:', inspect.signature\\(V1SocketClient.start_listening\\)\\)\n\")",
+      "Bash(python -c \"\nfrom deepgram.core.events import EventType\nprint\\([e for e in dir\\(EventType\\) if not e.startswith\\('_'\\)]\\)\n\")",
+      "Bash(cd \"C:/Users/zhong/Documents/Python Projects/project_authoring_advisor\" && python -c \"from voice_agent.stt_factory import create_deepgram_client, get_connect_options; print\\('stt_factory OK'\\)\" && python -c \"from voice_agent.app import main; print\\('app OK'\\)\")",
+      "Bash(python -c \"\nfrom deepgram.listen.v1.socket_client import V1SocketClientResponse\nprint\\(type\\(V1SocketClientResponse\\)\\)\nprint\\([a for a in dir\\(V1SocketClientResponse\\) if not a.startswith\\('_'\\)]\\)\n\" 2>&1)",
+      "Bash(python -c \"\nfrom deepgram.listen.v1.socket_client import V1SocketClientResponse\nprint\\(V1SocketClientResponse\\)\n\")",
+      "Bash(python -c \"\nfrom deepgram.listen.v1.types.listen_v1results import ListenV1Results\nprint\\([a for a in dir\\(ListenV1Results\\) if not a.startswith\\('_'\\)]\\)\n\")",
+      "Bash(python -c \"\nfrom deepgram.listen.v1.types.listen_v1results import ListenV1Results\nprint\\(ListenV1Results.model_fields.keys\\(\\)\\)\n\")",
+      "Bash(python -c \"\nfrom deepgram import DeepgramClient\nc = DeepgramClient\\(api_key='test'\\)\nprint\\([m for m in dir\\(c\\) if not m.startswith\\('_'\\)]\\)\n\")",
+      "Bash(python -c \"\nfrom deepgram import DeepgramClient\nc = DeepgramClient\\(api_key='test'\\)\nprint\\(dir\\(c.speak\\)\\)\nv1 = c.speak.v1\nprint\\([m for m in dir\\(v1\\) if not m.startswith\\('_'\\)]\\)\n\")",
+      "Bash(python -c \"\nimport inspect\nfrom deepgram import DeepgramClient\nc = DeepgramClient\\(api_key='test'\\)\nsig = inspect.signature\\(c.speak.v1.audio\\)\nprint\\('speak.v1.audio:', sig\\)\n\")",
+      "Bash(python -c \"\nfrom deepgram import DeepgramClient\nc = DeepgramClient\\(api_key='test'\\)\naudio_client = c.speak.v1.audio\nprint\\(type\\(audio_client\\)\\)\nprint\\([m for m in dir\\(audio_client\\) if not m.startswith\\('_'\\)]\\)\n\")",
+      "Bash(python -c \"\nimport inspect\nfrom deepgram.speak.v1.audio.client import AudioClient\nprint\\(inspect.signature\\(AudioClient.generate\\)\\)\n\")",
+      "Bash(cd \"C:/Users/zhong/Documents/Python Projects/project_authoring_advisor\" && python -c \"from voice_agent.tts import main; print\\('tts OK'\\)\")"
     ]
   }
 }
