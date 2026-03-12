@@ -36,13 +36,22 @@ def init_sidebar():
         # Model selection
         model_choice = st.selectbox(
             "LLM Provider",
-            ["openai", "gemini"],
+            ["openai", "gemini", "claude"],
             key="llm_provider_select",
         )
         st.session_state.setdefault("llm_provider", model_choice)
         if model_choice != st.session_state.get("llm_provider"):
             st.session_state.llm_provider = model_choice
             st.session_state.pop("rag_engine", None)  # force rebuild
+
+        # Specific model within provider
+        model_options = Settings().AVAILABLE_MODELS.get(model_choice, [])
+        if model_options:
+            model_name = st.selectbox("Model", model_options, key="model_name_select")
+            st.session_state["model_name"] = model_name
+            if model_name != st.session_state.get("_prev_model_name"):
+                st.session_state["_prev_model_name"] = model_name
+                st.session_state.pop("rag_engine", None)
 
         # Agentic mode toggle
         use_agent = st.checkbox("Agentic Mode (auto web search)", key="use_agent")
@@ -73,15 +82,26 @@ def init_engine():
     if "openai_api_key" in st.session_state and st.session_state.openai_api_key:
         os.environ["OPENAI_API_KEY"] = st.session_state.openai_api_key
 
+    # Load all keys from .env
+    settings = Settings.from_env()
+    settings.apply_env()
+
     if "rag_engine" in st.session_state:
         return st.session_state.rag_engine
 
-    if not os.environ.get("OPENAI_API_KEY"):
+    # Need at least one API key to proceed
+    has_key = any([
+        os.environ.get("OPENAI_API_KEY"),
+        os.environ.get("GOOGLE_API_KEY"),
+        os.environ.get("ANTHROPIC_API_KEY"),
+    ])
+    if not has_key:
         return None
 
     provider = st.session_state.get("llm_provider", "openai")
-    llm = LLMFactory.create(provider=provider)
-    embed_model = EmbeddingFactory.create(provider="openai")
+    model_name = st.session_state.get("model_name", "")
+    llm = LLMFactory.create(provider=provider, model=model_name)
+    embed_model = EmbeddingFactory.create(provider="huggingface")
 
     vsm = VectorStoreManager(storage_path="./vector_db/qdrant_storage")
     collection_name = "trca_documents"

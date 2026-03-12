@@ -60,10 +60,11 @@ def main():
     parser = argparse.ArgumentParser(description="TRCA RAG System")
     parser.add_argument("--mode", default="chat", choices=["csv", "chat", "agent"],
                         help="'csv' for batch, 'chat' for interactive, 'agent' for agentic mode")
-    parser.add_argument("--model", default="openai", choices=["openai", "gemini", "qwen", "llama"],
+    parser.add_argument("--model", default="openai", choices=["openai", "gemini", "claude"],
                         help="LLM provider")
-    parser.add_argument("--embedding", default="openai", choices=["openai", "huggingface", "sbert", "ds"],
+    parser.add_argument("--embedding", default="openai", choices=["openai", "huggingface"],
                         help="Embedding model provider")
+    parser.add_argument("--model_name", default="", help="Specific model name (e.g. gpt-5-mini-2025-08-07, claude-opus-4-6, models/gemini-2.5-pro)")
     parser.add_argument("--model_path", default="", help="Path to local GGUF model file")
     parser.add_argument("--n_ctx", type=int, default=8192, help="Context window for local LLMs")
     parser.add_argument("--max_tokens", type=int, default=1024, help="Max output tokens")
@@ -98,6 +99,7 @@ def main():
     llm_provider = args.model if args.model not in ("qwen",) else "llama_cpp"
     llm = LLMFactory.create(
         provider=llm_provider,
+        model=args.model_name,
         temperature=0.7,
         max_tokens=args.max_tokens,
         model_path=args.model_path,

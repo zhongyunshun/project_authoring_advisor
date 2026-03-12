@@ -28,7 +28,16 @@ class LLMFactory:
             from llama_index.llms.gemini import Gemini
 
             return Gemini(
-                model=model or "models/gemini-2.0-flash",
+                model=model or "models/gemini-2.5-flash",
+                temperature=temperature,
+                max_tokens=max_tokens,
+            )
+
+        elif provider == "claude":
+            from llama_index.llms.anthropic import Anthropic
+
+            return Anthropic(
+                model=model or "claude-sonnet-4-6",
                 temperature=temperature,
                 max_tokens=max_tokens,
             )

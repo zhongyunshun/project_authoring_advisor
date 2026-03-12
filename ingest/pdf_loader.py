@@ -16,17 +16,18 @@ class PDFLoader:
         reader = PyMuPDFReader()
         all_docs = []
 
-        for filename in os.listdir(path):
-            if not filename.lower().endswith(".pdf"):
-                continue
-            filepath = os.path.join(path, filename)
-            try:
-                docs = reader.load_data(file_path=filepath)
-                for doc in docs:
-                    doc.metadata["source"] = filename
-                all_docs.extend(docs)
-            except Exception as e:
-                print(f"Failed to load {filename}: {e}")
+        for root, _dirs, files in os.walk(path):
+            for filename in files:
+                if not filename.lower().endswith(".pdf"):
+                    continue
+                filepath = os.path.join(root, filename)
+                try:
+                    docs = reader.load_data(file_path=filepath)
+                    for doc in docs:
+                        doc.metadata["source"] = filename
+                    all_docs.extend(docs)
+                except Exception as e:
+                    print(f"Failed to load {filename}: {e}")
 
         return all_docs
 

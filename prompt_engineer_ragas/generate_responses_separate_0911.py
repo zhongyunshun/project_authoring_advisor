@@ -5,7 +5,6 @@ import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from prompt_engineer_ragas import questions
-from config.keys import OPENAI_API_KEY, GOOGLE_API_KEY
 from pipelines.rag_pipeline import PromptingRAG
 from embeddings.embeddings import load_embeddings_from_file
 
