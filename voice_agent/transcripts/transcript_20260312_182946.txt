@@ -1,0 +1,11 @@
+Oh, l one cache. That's extremely fast, but very small.
+And then you have HP on a single GPU.
+And then between
+GPUs on the same same node,
+We have m v link. And then finally, we have, you know, m v switch
+And, of course, this is all in the NVIDIA ecosystem.
+So so the idea is that many of us core
+concepts of minimizing data transfer
+are really the same, but now, the mechanics are a bit
+because l one has behaved differently than these kind of and the
+switches.

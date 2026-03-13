@@ -1,0 +1,82 @@
+[interim] This is week two.
+[interim] This is week two of the
+[interim] This is week two of the systems lecture where we
+[interim] This is week two of the systems lecture where we try to leverage the most
+This is week two of the systems lecture.
+[interim] We try to leverage the most LLR where
+We try to leverage the most LLR where we have to make
+[interim] models train faster
+models train faster.
+[interim] And
+[interim] And last week, we
+And last week, we talked about
+[interim] parallelism within a single
+parallelism within a single GPU
+[interim] And this week,
+[interim] And this week, we're talking about parallelism
+[interim] And this week, we're talking about parallelism across multiple
+And this week, we're talking about parallelism across multiple GPUs.
+[interim] So this is a picture
+[interim] So this is a picture you should have in your
+So this is a picture you should have in your head.
+[interim] So we have a
+So we have a bunch of nodes.
+[interim] Are physically
+Are physically, you know, computers.
+[interim] That have each
+[interim] That have each have a number of GPU
+[interim] That have each have a number of GPUs, usually eight.
+[interim] That have each have a number of GPUs, usually eight. And within each GPU,
+That have each have a number of GPUs, usually eight.
+[interim] Within each GPU, there's a bunch
+[interim] Within each GPU, there's a bunch of streaming multi
+[interim] Within each GPU, there's a bunch of streaming multiprocessors or SMs
+Within each GPU, there's a bunch of streaming multiprocessors or SMs
+[interim] and which actually do
+[interim] and which actually do the work.
+and which actually do the work.
+[interim] And you see
+[interim] And you see that in green here,
+[interim] And you see that in green here are essentially the
+[interim] And you see that in green here are essentially the memory of the communication.
+And you see that in green here are essentially the memory and
+[interim] communication. So within each SM, you
+communication. So within each SM, you have
+[interim] an very small
+[interim] very small l one cache
+[interim] an very small l one cache with on a GPU
+[interim] an very small l one cache with on a GPU, you have
+a very small l one cache. With on a GPU, you have
+[interim] bandwidth memory
+[interim] bandwidth memory HPM, which is bigger.
+bandwidth memory HPM, which is bigger.
+[interim] And then you have these
+[interim] And then you have these links that connect
+And then you have these links that connect the different
+GPUs.
+[interim] So
+[interim] So the way to think
+So the way to think about it is
+that
+[interim] compute has to happen
+[interim] compute has to happen within the SLNBC
+compute has to happen within the SLRBs and ALUs.
+[interim] Right? And the compute
+[interim] Right? And the compute needs inputs and
+[interim] Right? And the compute needs inputs and needs to write
+Right? And the compute needs inputs and needs to write outputs.
+And generally,
+[interim] the input
+[interim] the inputs and outputs can be
+[interim] the inputs and outputs can be relatively far.
+[interim] the inputs and outputs can be relatively far. If you're lucky, they're on the L1
+inputs and outputs can be relatively far. If you're lucky, they're on the L1 cache. If you're
+[interim] less unlucky, they're
+[interim] less unlucky, they're in HBM.
+[interim] less unlucky, they're in HBM. And now this week, we're
+less unlucky, they're in HBM. And now this week, we're talking about multi
+[interim] GPU or multi
+GPU or multi node training where
+[interim] data they might need might
+[interim] data they might need might be across on another GPU.
+data they might need might be across on another GPU.

@@ -1,0 +1,15 @@
+So here's a kind of a
+taking a little bit of liberty to put everything in kind of one.
+Hierarchy you can think.
+From
+small, fast to big, slow.
+So the smallest emphasis is
+on a single node, single GPU, you have
+one cache. That's extremely
+fast but very small.
+C'est une longue histoire déjà. Ça a commencé jour avec les romains.
+Et puis, toute la génération, ils ont fait du vin ici.
+Et le long du fleuve,
+quand il y a des vignes au-dessus,
+souvent il y a des caves en dessous
+On va

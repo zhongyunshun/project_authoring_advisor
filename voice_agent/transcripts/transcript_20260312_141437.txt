@@ -1,0 +1,58 @@
+[interim] Right.
+[interim] Right, so the name of McDaniel is
+[interim] Right. So the name of McDaniel is how do you structure all
+Right. So the name of McDaniel is how do you structure all your
+[interim] computation
+[interim] computation to avoid
+[interim] computation to avoid data transfer bottleneck?
+computation to avoid data transfer bottlenecks.
+[interim] Because
+[interim] Because we want to
+Because we want to remember to keep
+[interim] the error message
+[interim] the arithmetic intensity high
+[interim] the arithmetic intensity high. We wanna saturate our
+[interim] the arithmetic intensity high. We wanna saturate our GPUs, make them go
+the arithmetic intensity high. We wanna saturate our GPUs, make them go
+[interim] come along
+come along.
+[interim] And generally,
+[interim] And generally, data transfer is gonna
+[interim] And generally, data transfer is going to be a lot slower
+[interim] And generally, data transfer is gonna be a lot slower, so we have to
+And generally, data transfer is gonna be a lot slower, so we have to
+[interim] that's going to be the bottom
+that's going to be the bottleneck.
+[interim] So
+[interim] So last week we saw
+[interim] So last week we saw a bunch of different techniques
+[interim] So last week we saw a bunch of different techniques to try to do that with
+So last week we saw a bunch of different techniques
+[interim] to try to do that within a GPU.
+to try to do that within a GPU.
+[interim] Including fusion,
+Including fusion and tiling.
+[interim] So the idea
+[interim] So the idea basically is that
+[interim] So the idea basically is that instead of
+So the idea basically is that instead of
+[interim] reading and writing from
+[interim] reading and writing from HBM, you can
+[interim] reading and writing from HBM, you can load into l one
+reading and writing from HBM, you can load into l one cache.
+[interim] So
+[interim] City Of Saint Luke is
+[interim] City of Saint Luke has responded to Quebec
+[interim] City of Saint Luke has responded to Quebec's new phone message.
+[interim] City of Saint Luke has responded to Quebec's new phone message for English service
+City of Saint Luke has responded to Quebec's new phone message for English service
+[interim] under Bill Nye.
+under Bill Nye.
+[interim] A
+[interim] The Hey, Montreal.
+The Hey, Montreal. Really?
+[interim] Estate agent says
+[interim] Estate agent says he was sent a letter
+[interim] Estate agent says he was sent a letter by the office
+Estate agent says he was sent a letter by the office
+[interim] If

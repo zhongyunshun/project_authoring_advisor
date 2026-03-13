@@ -87,16 +87,16 @@ Converts a text file to an audio file using Deepgram Aura-2 voices. Output is sa
 
 ```bash
 # Female voice (default)
-python -m voice_agent.tts voice_agent/tts/tiny_story1.txt -o output.wav
+python -m voice_agent.tts voice_agent/tts/intputs/tiny_story1.txt -o output.wav
 
 # Male voice
-python -m voice_agent.tts voice_agent/tts/tiny_story1.txt -o output.wav --voice male
+python -m voice_agent.tts voice_agent/tts/intputs/tiny_story1.txt -o output.wav --voice male
 
 # Specific voice model
-python -m voice_agent.tts voice_agent/tts/tiny_story1.txt -o output.wav --model aura-2-zeus-en
+python -m voice_agent.tts voice_agent/tts/intputs/tiny_story1.txt -o output.wav --model aura-2-zeus-en
 
 # MP3 output
-python -m voice_agent.tts voice_agent/tts/tiny_story1.txt -o output.mp3
+python -m voice_agent.tts voice_agent/tts/intputs/tiny_story1.txt -o output.mp3
 
 # List all available voices
 python -m voice_agent.tts --list-voices

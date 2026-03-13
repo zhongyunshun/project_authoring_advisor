@@ -1,0 +1,16 @@
+Is that instead of reading and writing from HBM, you can load into l one cache.
+Or or, I guess, you know, shared memory, which is using the same type of
+you know, know, has the same speed.
+And just work there on your local ScriptPad and then right out to HBM
+only judiciously.
+And this week, we started looking at communication across
+GPUs and nodes
+where we have to replicate and shard our models and parameters and optimize our states
+And there, it's the the way we do that will determine the the
+cost.
+Très symbolique.
+L'autre symbole, le long de la moselle,
+c'est bien sûr la vigne.
+Des centaines d'hectares de vignes au
+renommé Rissling, Rivainer, Gevurtstraminer. Ici les travaux ont commencé.
+Rttarget 话 的 这 之 发 话 ，

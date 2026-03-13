@@ -148,6 +148,8 @@ def main() -> None:
     # Lock to prevent overlapping RAG queries
     query_lock = threading.Lock()
     stop_event = threading.Event()
+    # Mute mic during TTS playback so it doesn't transcribe its own answer
+    _muted = threading.Event()
 
     # Buffer to accumulate transcript fragments before sending to RAG.
     # A timer fires after BUFFER_WAIT_SEC of silence to flush the buffer.
@@ -180,8 +182,12 @@ def main() -> None:
 
                     # Speak the answer if TTS is enabled
                     if tts_model and result.answer.strip():
-                        _speak_answer(result.answer, tts_model,
-                                      transcriber_settings.stt.api_key)
+                        _muted.set()
+                        try:
+                            _speak_answer(result.answer, tts_model,
+                                          transcriber_settings.stt.api_key)
+                        finally:
+                            _muted.clear()
                 except Exception as e:
                     logger.error("RAG query failed: %s", e)
 
@@ -201,7 +207,7 @@ def main() -> None:
         """
         nonlocal _buffer_timer
 
-        if stop_event.is_set():
+        if stop_event.is_set() or _muted.is_set():
             return
         if not isinstance(result, ListenV1Results):
             return
@@ -250,8 +256,13 @@ def main() -> None:
             if status:
                 logger.warning("Audio status: %s", status)
             try:
-                audio_bytes = (indata[:, 0] * 32767).astype(np.int16).tobytes()
-                connection.send_media(audio_bytes)
+                if _muted.is_set():
+                    # Send silence to keep the Deepgram connection alive
+                    silent = np.zeros(len(indata), dtype=np.int16).tobytes()
+                    connection.send_media(silent)
+                else:
+                    audio_bytes = (indata[:, 0] * 32767).astype(np.int16).tobytes()
+                    connection.send_media(audio_bytes)
             except Exception:
                 pass
 
@@ -285,20 +296,18 @@ def _speak_answer(text: str, model: str, api_key: str) -> None:
         api_key: Deepgram API key.
     """
     from voice_agent.tts import synthesize
+    from datetime import datetime
 
     try:
-        with tempfile.NamedTemporaryFile(suffix=".wav", delete=False) as tmp:
-            tmp_path = Path(tmp.name)
+        output_dir = Path(__file__).parent / "tts" / "outputs"
+        output_dir.mkdir(parents=True, exist_ok=True)
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        output_path = output_dir / f"answer_{timestamp}.wav"
 
-        synthesize(text, tmp_path, model, api_key)
-        _play_audio_file(str(tmp_path))
+        synthesize(text, output_path, model, api_key)
+        _play_audio_file(str(output_path))
     except Exception as e:
         logger.error("TTS playback failed: %s", e)
-    finally:
-        try:
-            tmp_path.unlink()
-        except Exception:
-            pass
 
 
 if __name__ == "__main__":
