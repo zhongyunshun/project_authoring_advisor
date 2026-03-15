@@ -37,9 +37,20 @@ python main.py --mode chat --reindex --pdf_dir data
 
 ### Evaluation
 ```bash
-python prompt_engineer_ragas/custom_eval.py    # AMLLM-Auto-EVAL
-python -m evaluation.folder_eval_ragas         # RAGAS metrics
-python evaluation/folder_eval.py               # BLEU/ROUGE
+# Prompt engineering evaluation (all stages)
+python prompt_engineer_ragas/prompt_eval.py --stages all
+
+# Individual stages
+python prompt_engineer_ragas/prompt_eval.py --stages generate
+python prompt_engineer_ragas/prompt_eval.py --stages custom_eval
+python prompt_engineer_ragas/prompt_eval.py --stages ragas_eval
+python prompt_engineer_ragas/prompt_eval.py --stages summarize
+
+# Specific patterns only
+python prompt_engineer_ragas/prompt_eval.py --patterns rag-only persona+cot+format --stages generate
+
+# BLEU/ROUGE evaluation
+python evaluation/folder_eval.py
 ```
 
 ### Voice Agent (Docker Compose)
