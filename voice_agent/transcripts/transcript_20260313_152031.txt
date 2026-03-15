@@ -1,0 +1,6 @@
+So the idea is that many of us core
+concepts of minimizing data transfer
+are really the same, but now the
+mechanics are a bit different because l one has behaved differently than these
+kind of NV switches.
+So this lecture is going to be mostly about

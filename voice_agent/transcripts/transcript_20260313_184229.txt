@@ -1,0 +1,14 @@
+Turn it on and I'm going to randomly give some
+audios. Now from the comfort of your
+PyTorch PyTorch program, you can just ride
+all gather into tensor on a tensor, and it'll appear on all the
+different ranks.
+It also has this nice
+useful feature
+that it supports multiple back ends for different hardware. So
+And now I'm going to play some French news.
+Tandis d'aller visiter d'autres fortifications militaires beaucoup plus anciennes
+celle-là au Luxembourg, petit par sa taille,
+le grand duché est aujourd'hui le pays le plus riche du monde.
+L'on regarde le PIB par habitant, comment expliquer un
+destin Réponse avec Mathieu Dupont et Christophe Mellac.

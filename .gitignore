@@ -1,3 +1,2 @@
 .env
-config/keys.py
 config/*.secrets.json
