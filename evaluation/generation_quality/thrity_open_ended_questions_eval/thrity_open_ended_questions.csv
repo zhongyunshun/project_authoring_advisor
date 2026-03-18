@@ -1,0 +1,31 @@
+var_name,question
+gm_question1,Can you explain the methodology used for the "Slope Stability Analysis" detailed in the Peacham Crescent Slope Stabilization Project, and how it impacts project decisions?
+gm_question2,What measures are being taken in the Humber Bay Park East Major Maintenance Project to ensure the protection and minimal disruption of local wildlife, particularly aquatic species identified in the baseline inventory?
+gm_question3,How does the Peacham Crescent Slope Stabilization Project incorporate sustainable development practices to ensure long-term environmental conservation?
+gm_question4,"In the German Mills Settlers Park Sanitary Infrastructure Protection Project, what are the specific roles of the various stakeholders, including TRCA, local municipalities, and engineering firms, in ensuring project success?"
+gm_question5,Are there future phases or expansions planned for the erosion control and slope stabilization efforts discussed in the Humber Bay Park East and Peacham Crescent projects?
+gm_question6,"How does the erosion hazard management in areas like German Mills Settlers Park plan to address potential social impacts, such as access to parklands and community recreational spaces?"
+gm_question7,"Could you detail the decision-making process behind choosing specific erosion control structures, such as armourstone headlands and cobble/rubble beaches, in the context of their effectiveness and environmental impact?"
+gm_question8,What long-term monitoring and maintenance strategies are outlined for the newly installed erosion control measures in projects like the Humber Bay Park East Major Maintenance Project?
+gm_question9,"In the development and implementation of TRCA projects like those at Peacham Crescent and Humber Bay, how are local Indigenous communities consulted or involved?"
+gm_question10,"How do the specified tree removals and restoration plantings in projects like the Peacham Crescent Slope Stabilization Project contribute to or mitigate against biodiversity loss, particularly concerning species at risk such as bats and butternut trees?"
+hbpe_question1,"In the ""Design Brief - Phase II"" document, what specific engineering challenges and considerations were addressed during the detailed design process for shoreline protection at Humber Bay Park East?"
+hbpe_question2,"How do the shoreline maintenance projects outlined in the ""HBPE Project Brief - Phase II"" impact the local wildlife, particularly the aquatic species mentioned in the baseline inventory section?"
+hbpe_question3,What sustainable development practices are being implemented in the Humber Bay Park East Major Maintenance Project to ensure long-term environmental conservation?
+hbpe_question4,"Can you elaborate on the roles and responsibilities of TRCA and the City of Toronto in the maintenance and administration of Humber Bay Park East as described in the ""HBPE Project Brief - Phase I"""
+hbpe_question5,"What are the future phases or expansions planned for Humber Bay Park East, as mentioned in the ""HBPE Project Brief - Phase II"""
+hbpe_question6,How does the slope stabilization project on Peacham Crescent plan to address potential social impacts and ensure the safety of the local community
+hbpe_question7,"In the ""Humber Bay Park East Concept Brief"", how were the different erosion control structures (e.g., armourstone headlands, gravel beaches) chosen based on their effectiveness and environmental impact"
+hbpe_question8,"What long-term monitoring and maintenance strategies are outlined for the newly installed erosion control measures in projects such as the ""HBPE Project Brief - Phase I"""
+hbpe_question9,Are there any specific engagements or consultations with local Indigenous communities detailed in the projects' planning and implementation phases ?
+hbpe_question10,"How do the restoration plantings described in the ""HBPE Project Brief - Phase I"" contribute to or mitigate against biodiversity loss, particularly concerning species at risk?"
+pc_question1,"How does the Slope Stability and Erosion Risk Assessment define ""Long-Term Stable Slope Crests"" (LTSSC), and what criteria are used to determine these in the context of the Peacham Crescent projects?"
+pc_question2,"In light of the findings from the Ecology Survey Memorandum for the Peacham Crescent Erosion Control and Slope Stabilization Project, what specific measures are proposed to mitigate impacts on local wildlife, especially concerning species identified in the vicinity?"
+pc_question3,"Can you detail any strategies outlined in the ""2021-09-29 Peacham Cres Project Brief"" to promote sustainable development and conservation throughout the Peacham Crescent Slope Stabilization Project?"
+pc_question4,"What are the defined roles and responsibilities of stakeholders involved in the Class Environmental Assessment for the Peacham Crescent Slope Stabilization Project as described in the ""2019-09-26 Peacham Class EA PP""?"
+pc_question5,"Are there any future plans or subsequent phases mentioned within the ""2021-09-29 Peacham Cres Project Brief"" for further slope stabilization efforts beyond the current project scope at Peacham Crescent?"
+pc_question6,"What are the anticipated environmental and social impacts of the slope stabilization project, and how does the ""2019-09-26 Peacham Class EA PP"" propose to address these impacts?"
+pc_question7,"Based on the ""2019-04-02 Conceptual Alt. Report Peacham_Final"", what were the key factors influencing the selection of the preferred conceptual slope stabilization alternatives?"
+pc_question8,"What specific long-term monitoring and maintenance strategies are recommended in the ""2021-09-29 Peacham Cres Project Brief"" to ensure the durability and effectiveness of the implemented slope stabilization measures?"
+pc_question9,"How were Indigenous communities engaged in the planning and decision-making processes for the Peacham Crescent Slope Stabilization Project, and what outcomes resulted from this engagement?"
+pc_question10,"Given the importance of biodiversity conservation, how does the ""2021-09-29 Peacham Cres Project Brief"" address potential impacts on biodiversity, particularly in relation to bat species and butternut trees identified in the area ?"
