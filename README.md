@@ -104,19 +104,18 @@ project_authoring_advisor/
 │       └── upload_pdf.py          # PDF upload & on-the-fly indexing page
 ├── streamlit_class/               # Streamlit state management
 │   └── conversations.py           # Conversation class (session_id, title, history)
-├── evaluation/                    # Evaluation scripts
-│   ├── bleu.py                    # BLEU score calculation
-│   ├── rouge.py                   # ROUGE score calculation
-│   ├── folder_eval.py             # Batch BLEU/ROUGE over folder of CSVs
-│   └── folder_eval_ragas.py       # Batch RAGAS metrics over folder of CSVs
-├── prompt_engineer_ragas/         # Prompt engineering & LLM-assisted evaluation
-│   ├── questions.py               # 30 test questions (3 projects × 10 questions)
-│   ├── custom_eval.py             # AMLLM-Auto-EVAL (GPT-4o-mini judge)
-│   ├── ragas_eval.py              # RAGAS evaluation on prompt/response pairs
-│   ├── generate_responses.py      # Batch response generation across prompt patterns
+├── evaluation/                    # Evaluation scripts (organised by dataset)
+│   └── generation_quality/
+│       ├── 200_factual_qa_eval/
+│       │   └── factual_qa_eval.py # Combined BLEU/ROUGE + RAGAS eval over a folder of CSVs
+│       └── thrity_open_ended_questions_eval/
+│           └── prompt_eval.py     # Prompt engineering evaluation pipeline (generate, judge, RAGAS, summarize)
+├── prompt_engineer_ragas/         # Prompt engineering artefacts
+│   ├── thrity_open_ended_questions.csv  # 30 open-ended test questions (3 projects × 10)
 │   ├── templates/                 # Prompt pattern building blocks
-│   ├── prompts/                   # Generated prompts per pattern
-│   └── prompting_results/         # Generated answers per pattern
+│   ├── prompts/                   # Generated prompt logs per pattern
+│   ├── prompting_results/         # Generated answers per pattern
+│   └── data/                      # Cached evaluation CSVs (RAGAS input/output)
 ├── data/                          # Source TRCA PDFs
 │   ├── German Mills/              # German Mills Settlers Park documents
 │   ├── Humber Bay Park East/      # Humber Bay Park East Shoreline documents
@@ -126,12 +125,9 @@ project_authoring_advisor/
 ├── voice_agent/                   # Voice STT/TTS/RAG (see voice_agent/README.md)
 ├── scripts/                       # Migration & utility scripts
 │   └── migrate_faiss_to_qdrant.py # One-time FAISS → Qdrant migration
-├── preprocessing/                 # Text processing utilities
-├── tuning_scripts/                # Hyperparameter tuning (top_k, chunk_size)
+├── preprocessing/                 # Text processing utilities (compute_complexity.py)
 ├── QA_pair/                       # QA logs and evaluation data
-├── trials/                        # Experimental code
-├── utils/                         # Misc utilities (pdf_extractor.py)
-├── docs/                          # Documentation
+├── utils/                         # Misc utilities
 ├── main.py                        # CLI entry point
 ├── app.py                         # Streamlit entry point
 ├── requirements.txt               # Python dependencies
@@ -285,6 +281,31 @@ Building blocks that can be composed into named patterns:
 |-------|-------------|
 | `Conversation(session_id, title, chat_history)` | Container for a single chat session. `session_id` (int) — unique identifier. `title` (str) — editable display name. `chat_history` (list of dicts) — messages with `role` (`"user"` or `"assistant"`), `content` (str), and optional `sources` (list of source dicts for assistant messages). |
 
+### `evaluation/generation_quality/200_factual_qa_eval/factual_qa_eval.py`
+
+Batch evaluation of RAG CSV outputs using BLEU/ROUGE and RAGAS. RAGAS uses LlamaIndex-wrapped `gpt-4o-mini` and `text-embedding-3-small` — no LangChain required.
+
+| Function | Description |
+|----------|-------------|
+| `calculate_bleu(csv_file, n) -> (float, list)` | BLEU-n score between `answer` and `generated_answer`. Supports `alternative_answer` as a second reference. |
+| `calculate_rouge(csv_file) -> dict` | ROUGE-1/2/3 F-measure. Takes best score across primary and alternative references. |
+| `evaluate_folder_bleu_rouge(input_folder, output_csv)` | Iterates all CSVs in a folder, computes BLEU-1/2/3 and ROUGE-1/2/3, prints a summary table, saves results CSV. |
+| `evaluate_single_ragas(csv_file, ragas_llm, ragas_embeddings)` | Runs RAGAS (faithfulness, answer_relevancy, context_precision, context_recall) on one CSV. Renames `question`→`user_input`, `answer`→`reference`, `generated_answer`→`response` automatically. |
+| `evaluate_folder_ragas(input_folder, output_csv)` | Iterates all CSVs in a folder, runs `evaluate_single_ragas` on each, prints a summary table, saves results CSV. |
+
+### `evaluation/generation_quality/thrity_open_ended_questions_eval/prompt_eval.py`
+
+Unified prompt engineering evaluation pipeline across 6 prompt patterns and 30 open-ended TRCA questions. Uses LlamaIndex backend for RAGAS; GPT-4o-mini for AMLLM judge. Reads questions from `prompt_engineer_ragas/thrity_open_ended_questions.csv`.
+
+| Class | Description |
+|-------|-------------|
+| `EvalConfig` | Dataclass holding all paths and settings for an evaluation run (LLM provider, patterns, output dirs, etc.). |
+| `ResponseGenerator` | Queries `PromptingRAGEngine` for every question × pattern, writes answer `.txt` and prompt-log `.txt` files. |
+| `CustomEvaluator` | Calls GPT-4o-mini to score each answer on 5 metrics (0–20 each). Saves JSON results and prints per-question tables. |
+| `RagasEvaluator` | Builds a RAGAS dataset from saved prompt/answer files, runs faithfulness/relevancy/precision/recall via `LlamaIndexLLMWrapper`, saves CSV. |
+| `ResultSummarizer` | Pivots custom and RAGAS results into per-metric summary CSVs; prints ranked average-score tables. |
+| `EvalPipeline` | Orchestrates the four stages: `generate → custom_eval → ragas_eval → summarize`. |
+
 ---
 
 ## Quick Start
@@ -299,7 +320,7 @@ pip install -r requirements.txt
 
 ### 2. Configure API Keys
 
-Set keys via `.env` file or `config/keys.py`:
+Create a `.env` file in the project root. All components load keys via `Settings.from_env()`:
 
 ```bash
 # .env (in project root)
@@ -307,13 +328,6 @@ OPENAI_API_KEY=sk-...
 GOOGLE_API_KEY=...          # for Gemini
 ANTHROPIC_API_KEY=...       # for Claude
 TAVILY_API_KEY=...          # for web search in agent mode
-```
-
-Or:
-```python
-# config/keys.py
-OPENAI_API_KEY = "sk-..."
-GOOGLE_API_KEY = "..."
 ```
 
 ### 3. Build / Load the Vector DB
@@ -337,7 +351,7 @@ python main.py --mode chat --model openai --embedding openai --reindex --pdf_dir
 
 The `--reindex` flag forces a full rebuild — it creates a new Qdrant collection from scratch, replacing any existing one with the same name. Indexing only needs to be done once per document set (or when documents change).
 
-You can also upload individual PDFs through the Streamlit UI without re-indexing the entire collection (see [Streamlit Web UI](#streamlit-web-ui)).
+You can also upload individual PDFs through the Streamlit UI without re-indexing the entire collection (see [Streamlit Usage](#streamlit-usage)).
 
 #### Load existing
 
@@ -456,90 +470,108 @@ Navigate to the upload page in the Streamlit sidebar:
 
 ## Evaluation
 
-The system includes multiple evaluation approaches at different levels of sophistication.
+Evaluation is organised under `evaluation/generation_quality/` by dataset type.
 
-### AMLLM-Auto-EVAL (LLM-Assisted Evaluation)
+### 1. Factual QA Evaluation — 200 questions (`200_factual_qa_eval/`)
 
-An adversarial, LLM-as-judge approach using GPT-4o-mini to score answers across 5 metrics (20 points each, 100 total):
+`factual_qa_eval.py` combines BLEU/ROUGE (lexical) and RAGAS (semantic) evaluation into a single script that runs over a folder of CSV result files. It uses the **LlamaIndex backend** for RAGAS — no LangChain dependency.
+
+**Input CSV columns** (column renaming is handled automatically):
+
+| CSV column | RAGAS field | Notes |
+|---|---|---|
+| `question` | `user_input` | The question posed to the RAG system |
+| `answer` | `reference` | Ground-truth / reference answer |
+| `generated_answer` | `response` | Model output to evaluate |
+| `retrieved_contexts` | `retrieved_contexts` | List of retrieved context strings |
+| `alternative_answer` | _(BLEU/ROUGE only)_ | Optional extra reference |
+
+```bash
+# BLEU + ROUGE only
+python evaluation/generation_quality/200_factual_qa_eval/factual_qa_eval.py --mode bleu_rouge
+
+# RAGAS only  (faithfulness, answer_relevancy, context_precision, context_recall)
+python evaluation/generation_quality/200_factual_qa_eval/factual_qa_eval.py --mode ragas
+
+# Both — saves separate _bleu_rouge.csv and _ragas.csv outputs
+python evaluation/generation_quality/200_factual_qa_eval/factual_qa_eval.py --mode both \
+    --input_folder QA_pair/qa_pair_200_0210/output \
+    --output_csv evaluation/generation_quality/200_factual_qa_eval/results.csv
+```
+
+**BLEU / ROUGE metrics:**
 
 | Metric | What it measures |
-|--------|-----------------|
-| **Comprehensiveness** | Does the answer cover all aspects of the question? |
-| **Accuracy** | Is the information factually correct? |
-| **Relevance** | Does the answer stay on topic? |
-| **Clarity** | Is the answer well-structured and easy to understand? |
-| **Conciseness** | Is the answer appropriately brief without losing substance? |
+|---|---|
+| **BLEU-1/2/3** | N-gram precision between generated and reference answers |
+| **ROUGE-1/2/3** | N-gram recall/F-measure (best score across references) |
 
-```bash
-python prompt_engineer_ragas/custom_eval.py
-```
+**RAGAS metrics:**
 
-This evaluates all prompt/answer pairs in `prompt_engineer_ragas/prompts/` and `prompting_results/`.
+| Metric | What it measures | Required columns |
+|---|---|---|
+| **Faithfulness** | Answer grounded in retrieved context? | `user_input`, `retrieved_contexts`, `response` |
+| **Answer Relevancy** | Answer addresses the question? | `response`, `user_input` |
+| **Context Precision** | Retrieved chunks relevant to question? | `user_input`, `retrieved_contexts`, `reference` |
+| **Context Recall** | All necessary info retrieved? | `retrieved_contexts`, `user_input`, `reference` |
 
-### RAGAS Metrics
+---
 
-Standard RAG evaluation metrics from the RAGAS framework:
+### 2. Prompt Engineering Evaluation — 30 open-ended questions (`thrity_open_ended_questions_eval/`)
 
-| Metric | What it measures |
-|--------|-----------------|
-| **Faithfulness** | Is the answer supported by the retrieved context? |
-| **Answer Relevancy** | Does the answer address the question? |
-| **Context Precision** | Are the retrieved chunks relevant to the question? |
-| **Context Recall** | Did retrieval find all necessary information? |
+`prompt_eval.py` evaluates all 6 prompt patterns across 30 TRCA open-ended questions using both GPT-4o-mini as judge (AMLLM-Auto-EVAL) and RAGAS. Also uses the **LlamaIndex backend** for RAGAS.
 
-```bash
-# Evaluate over a folder of CSV results
-python -m evaluation.folder_eval_ragas --input_folder QA_pair/ragas_pairs/ --output_csv results_ragas.csv
+**Test question set** (`prompt_engineer_ragas/thrity_open_ended_questions.csv`):
 
-# Evaluate prompt engineering results
-python prompt_engineer_ragas/ragas_eval.py \
-    --question_dir prompt_engineer_ragas/prompts/ \
-    --response_dir prompting_results/
-```
+| Project | Questions | Topics |
+|---|---|---|
+| German Mills Settlers Park | 10 | Erosion control, stakeholder roles, biodiversity |
+| Humber Bay Park East | 10 | Shoreline maintenance, phased design, permits |
+| Peacham Crescent | 10 | Environmental assessment, slope stabilization, Indigenous engagement |
 
-### BLEU / ROUGE (Traditional NLP Metrics)
-
-```bash
-# Batch evaluation over folder of CSVs
-python evaluation/folder_eval.py --input_folder output/ --output_csv eval_results.csv
-```
+**AMLLM-Auto-EVAL** — GPT-4o-mini scores each answer on 5 metrics (0–20 pts each, 100 total):
 
 | Metric | What it measures |
-|--------|-----------------|
-| **BLEU** (1,2,3-gram) | N-gram overlap between generated and reference answers |
-| **ROUGE-1/2/3** | Recall-oriented n-gram overlap (F-measure) |
-
-Input CSVs must have `answer` (reference) and `generated_answer` (model output) columns.
-
-### Test Question Set
-
-30 questions across 3 TRCA projects (defined in `prompt_engineer_ragas/questions.py`):
-
-| Project | Questions | Examples |
-|---------|-----------|----------|
-| German Mills Settlers Park | 10 | Scope of work, milestone schedule, erosion measures |
-| Humber Bay Park East | 10 | Phased approach, shoreline maintenance, permits |
-| Peacham Crescent | 10 | Environmental assessment, design alternatives |
-
-### Prompt Pattern Comparison
-
-Generate answers across all 6 prompt patterns and compare:
+|---|---|
+| **Comprehensiveness** | Covers all aspects of the question? |
+| **Accuracy** | Factually correct per TRCA documents? |
+| **Relevance** | Stays on topic? |
+| **Clarity** | Well-structured and easy to understand? |
+| **Conciseness** | Appropriately brief without losing substance? |
 
 ```bash
-# Generate responses for all patterns
-python prompt_engineer_ragas/generate_responses.py
+# Run all stages (generate → custom_eval → ragas_eval → summarize)
+python evaluation/generation_quality/thrity_open_ended_questions_eval/prompt_eval.py --stages all
 
-# Evaluate with AMLLM-Auto-EVAL
-python prompt_engineer_ragas/custom_eval.py
+# Run individual stages
+python evaluation/generation_quality/thrity_open_ended_questions_eval/prompt_eval.py --stages generate
+python evaluation/generation_quality/thrity_open_ended_questions_eval/prompt_eval.py --stages custom_eval
+python evaluation/generation_quality/thrity_open_ended_questions_eval/prompt_eval.py --stages ragas_eval
+python evaluation/generation_quality/thrity_open_ended_questions_eval/prompt_eval.py --stages summarize
+
+# Specific patterns only
+python evaluation/generation_quality/thrity_open_ended_questions_eval/prompt_eval.py \
+    --patterns rag-only persona+cot+format --stages generate
 ```
 
-### Evaluation Results (Paper Summary)
+**Prompt patterns evaluated:**
 
-| Configuration | Score (0-100) |
-|--------------|---------------|
+| Pattern | Components |
+|---|---|
+| `persona+cot+format` | PERSONA + COT + FORMAT + FEW_SHOT (full engineering) |
+| `cot+format` | COT + FORMAT + FEW_SHOT |
+| `persona+format` | PERSONA + FORMAT + FEW_SHOT |
+| `persona+cot` | PERSONA + COT + FEW_SHOT |
+| `rag-only` | Minimal — retrieval context only |
+| `gpt-4o-mini` | Zero-shot baseline (no RAG context) |
+
+**Evaluation Results (Paper Summary):**
+
+| Configuration | AMLLM Score (0–100) |
+|---|---|
 | GPT-4 without RAG | 53.4 |
 | GPT-4 with RAG | 75.7 |
-| GPT-4 with RAG + persona+format+CoT | **88.9** |
+| GPT-4 with RAG + persona+CoT+format | **88.9** |
 
 ---
 
@@ -599,9 +631,10 @@ python prompt_engineer_ragas/custom_eval.py
 |---------|----------|
 | **Embedding dimension mismatch** | Ensure `--embedding` matches the provider used during indexing. Check error message for dimensions (384 vs 1536). |
 | **Collection not found** | Run `python main.py --mode chat --reindex --pdf_dir data` to index documents first. |
-| **No API key** | Set keys in `.env`, `config/keys.py`, or via the Streamlit sidebar. HuggingFace embeddings require no API key. |
-| **PDF parsing fails** | Re-export the PDF with a text layer. Check `utils/pdf_extractor.py` for debugging. |
+| **No API key** | Create a `.env` file in the project root with `OPENAI_API_KEY=sk-...`. All components load keys via `Settings.from_env()`. HuggingFace embeddings require no API key. |
+| **PDF parsing fails** | Re-export the PDF with a text layer (ensure it has a text layer, not just scanned images). |
 | **LlamaCPP VRAM error** | The factory auto-negotiates context size (8192 → 4096 → 2048). Use `--n_ctx` to set manually. |
+| **RAGAS evaluation fails** | Ensure `OPENAI_API_KEY` is set in `.env`. Check that `retrieved_contexts` column contains valid Python lists (not raw strings). |
 | **Streamlit session issues** | Clear browser cache or restart with `streamlit run app.py --server.port 8502`. |
 
 ---
