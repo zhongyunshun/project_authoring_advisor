@@ -495,12 +495,12 @@ For your current Tenera document corpus (maintenance plans, cost estimates, insp
 
 Question type distribution (approximate):
 - factual_lookup: 35%
-- definition: 10%
+- definition: 15%
 - numeric_extraction: 15%
-- procedural: 15%
-- multi_hop: 15%
-- comparison: 5%
-- scope_authoring: 5%
+- procedural: 10%
+- multi_hop: 10%
+- comparison: 7%
+- scope_authoring: 8%
 
 ### 2.6 Storage Format
 
