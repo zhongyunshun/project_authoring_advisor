@@ -9,11 +9,11 @@ import streamlit as st
 
 from core.llm_factory import LLMFactory
 from core.embedding_factory import EmbeddingFactory
-from core.vector_store import VectorStoreManager
 from ingest.indexer import Indexer
 from pipeline.rag_engine import RAGEngine
 from agents.rag_agent import RAGAgent
 from agents.tools import create_document_query_tool
+from ui.streamlit_app import get_vector_store_manager
 
 
 st.title("Upload Files")
@@ -42,7 +42,7 @@ def upload_files_form():
 
     if uploaded_files:
         embed_model = EmbeddingFactory.create(provider="openai")
-        vsm = VectorStoreManager(storage_path="./vector_db/qdrant_storage")
+        vsm = get_vector_store_manager()
         indexer = Indexer(vsm, embed_model)
 
         for uploaded_file in uploaded_files:

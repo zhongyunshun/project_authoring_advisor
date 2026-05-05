@@ -17,6 +17,81 @@ from agents.tools import create_document_query_tool, create_web_search_tool
 from streamlit_class.conversations import Conversation
 
 
+@st.cache_resource
+def get_vector_store_manager(storage_path: str = "./vector_db/qdrant_storage") -> VectorStoreManager:
+    """Qdrant local mode allows one client per process per storage path.
+    Cache the manager so the chat page and upload page share it."""
+    return VectorStoreManager(storage_path=storage_path)
+
+
+@st.cache_resource
+def _pdf_path_index(data_dir: str = "data") -> dict:
+    """Walk the data folder once, map filename -> absolute path so chunks can resolve
+    back to a clickable PDF even when only `source` (filename) is in metadata."""
+    index: dict = {}
+    if not os.path.isdir(data_dir):
+        return index
+    for root, _dirs, files in os.walk(data_dir):
+        for f in files:
+            if f.lower().endswith(".pdf"):
+                index.setdefault(f, os.path.join(root, f))
+    return index
+
+
+def _resolve_pdf_path(metadata: dict) -> str:
+    """Best-effort resolution of an absolute PDF path from a chunk's metadata."""
+    fp = metadata.get("file_path")
+    if fp and os.path.isfile(fp):
+        return fp
+    src = metadata.get("source")
+    if src:
+        return _pdf_path_index().get(src, "")
+    return ""
+
+
+@st.cache_data
+def _read_pdf_bytes(path: str) -> bytes:
+    with open(path, "rb") as f:
+        return f.read()
+
+
+def _render_sources(sources: list, key_prefix: str):
+    """Render the collapsible chunk list with PDF download buttons."""
+    for i, src in enumerate(sources[:5]):
+        md = src.get("metadata") or {}
+        src_name = md.get("source", "unknown")
+        page = md.get("page")
+        if isinstance(page, int):
+            page_display = f"page {page + 1}"
+        else:
+            page_display = "page n/a (re-index required)"
+
+        st.markdown(f"**Document {i + 1} — `{src_name}` ({page_display})**")
+
+        pdf_path = _resolve_pdf_path(md)
+        if pdf_path:
+            try:
+                st.download_button(
+                    label=f"Open {src_name}",
+                    data=_read_pdf_bytes(pdf_path),
+                    file_name=src_name,
+                    mime="application/pdf",
+                    key=f"{key_prefix}_pdf_{i}",
+                )
+            except Exception as e:
+                st.caption(f"PDF unavailable: {e}")
+        else:
+            st.caption("PDF file not found in `data/`.")
+
+        st.markdown(f"*Content:* `{src['text']}`")
+
+        if md:
+            st.markdown("*Metadata:*")
+            for k, v in md.items():
+                display_val = v + 1 if k == "page" and isinstance(v, int) else v
+                st.markdown(f"- **{k}**: {display_val}")
+
+
 def init_sidebar():
     """Render the sidebar: API key, model selection, chat history."""
     with st.sidebar:
@@ -55,7 +130,9 @@ def init_sidebar():
 
         # Agentic mode toggle
         use_agent = st.checkbox("Agentic Mode (auto web search)", key="use_agent")
-        st.session_state.setdefault("use_agent", use_agent)
+        if use_agent != st.session_state.get("_prev_use_agent"):
+            st.session_state["_prev_use_agent"] = use_agent
+            st.session_state.pop("rag_engine", None)  # force rebuild on toggle
 
         st.divider()
 
@@ -103,7 +180,7 @@ def init_engine():
     llm = LLMFactory.create(provider=provider, model=model_name)
     embed_model = EmbeddingFactory.create(provider="huggingface")
 
-    vsm = VectorStoreManager(storage_path="./vector_db/qdrant_storage")
+    vsm = get_vector_store_manager()
     collection_name = "trca_documents"
 
     if vsm.collection_exists(collection_name):
@@ -119,6 +196,9 @@ def init_engine():
         tools = [create_document_query_tool(index, llm)]
         if os.environ.get("TAVILY_API_KEY"):
             tools.append(create_web_search_tool())
+            st.sidebar.success("Agent enabled with web search (Tavily)")
+        else:
+            st.sidebar.warning("Agent enabled, but TAVILY_API_KEY missing — web search disabled")
         engine = RAGAgent(tools=tools, llm=llm, conversational=True)
     else:
         engine = RAGEngine(
@@ -147,19 +227,15 @@ def render_chat():
         st.rerun()
 
     # Display chat history
-    for msg in conv.chat_history:
+    for msg_idx, msg in enumerate(conv.chat_history):
         st.chat_message(msg["role"]).write(msg["content"])
 
         if msg["role"] == "assistant" and "sources" in msg and msg["sources"]:
             with st.expander("Context Used for This Response"):
-                for i, src in enumerate(msg["sources"][:5]):
-                    st.markdown(f"**Document {i + 1}**")
-                    st.markdown(f"*Content:* `{src['text']}`")
-                    if src.get("metadata"):
-                        st.markdown("*Metadata:*")
-                        for key, value in src["metadata"].items():
-                            display_val = value + 1 if key == "page" else value
-                            st.markdown(f"- **{key}**: {display_val}")
+                _render_sources(
+                    msg["sources"],
+                    key_prefix=f"hist_{conv.session_id}_{msg_idx}",
+                )
 
     # Chat input
     if prompt := st.chat_input():
@@ -186,14 +262,10 @@ def render_chat():
 
         if sources_data:
             with st.expander("Context Used for Response"):
-                for i, src in enumerate(sources_data[:5]):
-                    st.markdown(f"**Document {i + 1}**")
-                    st.markdown(f"*Content:* `{src['text']}`")
-                    if src.get("metadata"):
-                        st.markdown("*Metadata:*")
-                        for key, value in src["metadata"].items():
-                            display_val = value + 1 if key == "page" else value
-                            st.markdown(f"- **{key}**: {display_val}")
+                _render_sources(
+                    sources_data,
+                    key_prefix=f"new_{conv.session_id}_{len(conv.chat_history)}",
+                )
 
 
 def main():

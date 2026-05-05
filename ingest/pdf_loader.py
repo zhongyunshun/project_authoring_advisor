@@ -24,6 +24,14 @@ class PDFLoader:
                 try:
                     docs = reader.load_data(file_path=filepath)
                     for doc in docs:
+                        # PyMuPDFReader puts the 1-indexed page number in metadata["source"];
+                        # preserve it as `page` (0-indexed) before we overwrite source with filename.
+                        raw_page = doc.metadata.get("source")
+                        if raw_page is not None and "page" not in doc.metadata:
+                            try:
+                                doc.metadata["page"] = int(raw_page) - 1
+                            except (ValueError, TypeError):
+                                pass
                         doc.metadata["source"] = filename
                     all_docs.extend(docs)
                 except Exception as e:
@@ -44,6 +52,12 @@ class PDFLoader:
             reader = PyMuPDFReader()
             docs = reader.load_data(file_path=tmp_path)
             for doc in docs:
+                raw_page = doc.metadata.get("source")
+                if raw_page is not None and "page" not in doc.metadata:
+                    try:
+                        doc.metadata["page"] = int(raw_page) - 1
+                    except (ValueError, TypeError):
+                        pass
                 doc.metadata["source"] = uploaded_file.name
             return docs
         finally:

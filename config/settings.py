@@ -25,11 +25,13 @@ class Settings:
         if self.AVAILABLE_MODELS is None:
             self.AVAILABLE_MODELS = {
                 "openai": [
+                    # "o3-pro-2025-06-10",
+                    "gpt-4.1",
                     "o3-2025-04-16",
                     "gpt-4.1-mini",
-                    "gpt-4.1",
                     "gpt-4.1-nano",
-                    "gpt-4.5-preview",
+                    "gpt-4o",
+                    "gpt-4o-mini",
                     "o4-mini",
                     "o3-mini",
                 ],
